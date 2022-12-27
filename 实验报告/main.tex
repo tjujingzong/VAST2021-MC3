@@ -1,0 +1,82 @@
+
+\documentclass[a4paper]{article}
+
+\input{style/ch_xelatex.tex}
+
+
+\lstset{frame=, basicstyle={\footnotesize\ttfamily}}
+
+
+
+\graphicspath{ {images/} }
+\usepackage{ctex}
+
+
+
+\usepackage[square,numbers]{natbib}
+\bibliographystyle{abbrvnat}
+
+
+\begin{document}
+\renewcommand{\contentsname}{目\ 录}
+\renewcommand{\appendixname}{附录}
+\renewcommand{\appendixpagename}{附录}
+\renewcommand{\refname}{参考文献}
+
+\renewcommand{\tablename}{表}
+\renewcommand{\today}{\number\year 年 \number\month 月 \number\day 日}
+
+\title{{\Huge 可视语言与信息可视化{\large\linebreak\\}}{\Large 团队ID: \linebreak}
+{\Large  \linebreak\linebreak}}
+\author{ \\
+\\\\\\
+天津大学,智能与计算学部}
+\date{\today}
+\maketitle
+\newpage
+
+\begin{center}
+\tableofcontents\label{c}
+\end{center}
+\newpage
+
+
+\begin{center}
+{\Large\bf{摘\ 要\\}}
+
+大作业要求大家按照论文短文的格式进行书写，参考文献~\cite{bayrak2020pragma, govyadinov2019graph}。
+
+
+
+\end{center}
+
+\newpage
+
+
+
+\section{引言}
+\label{overview}
+
+描述问题、技术挑战
+
+\section{相关工作}
+
+调研相关论文发表，搜索CNKI或者Google scholar 等学术引擎，了解该领域研究现状。参考文献格式为~\cite{bayrak2020pragma}。
+
+\section{问题描述和需求分析}
+\label{Data and Task Abstraction}
+
+
+\section{解决方案}
+
+
+\section{实验结果和案例分析}\label{sub:ptxeva}
+
+
+\section{总结}
+
+
+\bibliography{ref}
+
+\end{document}
+

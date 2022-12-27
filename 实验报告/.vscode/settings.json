@@ -1,0 +1,55 @@
+{
+  // Latex workshop 
+  "latex-workshop.latex.recipes": [
+      {
+          "name": "xe->bib->xe->xe",
+          "tools": [
+              "xelatex",
+              "bibtex",
+              "xelatex",
+              "xelatex"
+          ]
+      }
+  ],
+  "latex-workshop.latex.tools": [
+      {
+          "name": "texify",
+          "command": "texify",
+          "args": [
+              "--synctex",
+              "--pdf",
+              "--tex-option=\"-interaction=nonstopmode\"",
+              "--tex-option=\"-file-line-error\"",
+              "%DOC%.tex"
+          ]
+      },
+      {
+          // 编译工具和命令
+          "name": "xelatex",
+          "command": "xelatex",
+          "args": [
+              "-synctex=1",
+              "-interaction=nonstopmode",
+              "-file-line-error",
+              "%DOC%"
+          ]
+      },
+      {
+          "name": "pdflatex",
+          "command": "pdflatex",
+          "args": [
+              "-synctex=1",
+              "-interaction=nonstopmode",
+              "-file-line-error",
+              "%DOC%"
+          ]
+      },
+      {
+          "name": "bibtex",
+          "command": "bibtex",
+          "args": [
+              "%DOCFILE%"
+          ]
+      }
+  ]
+}
