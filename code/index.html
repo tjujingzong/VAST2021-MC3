@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
+
+<!-- Load d3-cloud -->
+<script src="https://cdn.jsdelivr.net/gh/holtzy/D3-graph-gallery@master/LIB/d3.layout.cloud.js"></script>
+<div id="my_dataviz2"></div>
+
+<body>
+  <script>
+    const colors = d3.schemeCategory20;
+    d3.csv("tag_count_top20.csv", function (data) {
+      var layout = d3.layout.cloud()
+        .size([600, height])
+        .words(data.map(function (d) { if (d.times / 10 > 15) return { text: d.tag, size: d.times / 10 }; else return { text: d.tag, size: 15 } }))
+        .padding(5)        //space between words
+        .rotate(function () { return ~~(Math.random() * 2) * 90; })
+        .fontSize(function (d) { return d.size; })      // font size of words
+        .on("end", draw);
+      layout.start();
+
+
+      function draw(words) {
+        svg
+          .append("g")
+          .attr("transform", "translate(" + (layout.size()[0] / 2 + 250) + "," + layout.size()[1] / 2 + ")")
+          .selectAll("text")
+          .data(words)
+          .enter().append("text")
+          .style("font-size", function (d) { return d.size; })
+          .style("fill", function (d, i) { return colors[i]; })
+          .attr("text-anchor", "middle")
+          .style("font-family", "Impact")
+          .attr("transform", function (d) {
+            return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+          })
+          .text(function (d) { return d.text; });
+      }
+    })
+
+  </script>
+  <script>
+
+    // set the dimensions and margins of the graph
+    var margin = { top: 10, right: 10, bottom: 40, left: 200 },
+      width = 1000 - margin.left - margin.right,
+      height = 500 - margin.top - margin.bottom;
+    // append the svg object to the body of the page
+    var svg = d3.select("#my_dataviz2")
+      .append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+      .attr("transform",
+        "translate(" + margin.left + "," + margin.top + ")");
+
+    // Parse the Data
+    d3.csv("tag_count_top20.csv", function (data) {
+
+      // sort data
+      data.sort(function (b, a) {
+        return a.times - b.times;
+      });
+
+      // Add X axis
+      var x = d3.scaleLinear()
+        .domain([0, 1400])
+        .range([0, width * 0.6]);
+      svg.append("g")
+        .attr("transform", "translate(0," + height + ")")
+        .call(d3.axisBottom(x))
+        .selectAll("text")
+        .attr("transform", "translate(-10,0)rotate(-45)")
+        .style("text-anchor", "end");
+
+      //为x轴添加标题
+      svg.append("text")
+        .attr("y", 485)
+        .attr("x", 130)
+        .attr("fill", "#000")
+        .text("tag在message中出现的次数")
+        //字体缩小
+        .style("font-size", "12px")
+        ;
+      //为y轴添加标题
+      svg.append("text")
+        .attr("y", 80)
+        .attr("x", -150)
+        .attr("fill", "#000")
+        .text("tag");
+
+      // Y axis
+      var y = d3.scaleBand()
+        .range([0, height])
+        .domain(data.map(function (d) { return d.tag; }))
+        .padding(1);
+      svg.append("g")
+        .call(d3.axisLeft(y))
+
+      // Lines
+      svg.selectAll("myline")
+        .data(data)
+        .enter()
+        .append("line")
+        .attr("x1", function (d) { return x(d.times); })
+        .attr("x2", x(0))
+        .attr("y1", function (d) { return y(d.tag); })
+        .attr("y2", function (d) { return y(d.tag); })
+        .attr("stroke", "grey")
+
+      var tooltip = d3.select("body")
+        .append("div")
+        .attr("id", "tooltip")
+        .style("position", "absolute")
+      // Circles
+      svg.selectAll("mycircle")
+        .data(data)
+        .enter()
+        .append("circle")
+        .attr("cx", function (d) { return x(d.times); })
+        .attr("cy", function (d) { return y(d.tag); })
+        .attr("r", "5")
+        .style("fill", "#69b3a2")
+        .attr("stroke", "black")
+        //鼠标触碰时变色，显示数字
+        .on("mouseover", function (d) {
+          d3.select(this)
+            .style("fill", "red")
+            .attr("r", 7)
+          d3.select("#tooltip")//显示文字位置在圆形处
+            .style("left", x(d.times) + 200 + "px")
+            .style("top", y(d.tag) + "px")
+            .style("font-size", "12px")
+            .style("opacity", 1.0)
+            .html(d.times);
+
+        })
+        .on("mouseout", function (d) {
+          d3.select(this)
+            .style("fill", "#69b3a2")
+            .attr("r", 5);
+          d3.select("#tooltip")
+            .style("opacity", 0.0);
+        })
+    })
+  </script>
+
+</body>
+
+</html>
