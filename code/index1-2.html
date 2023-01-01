@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>任务一</title>
+
+<body>
+  <svg id="my_svg"></svg>
+  <!--在my_svg右侧添加一个6行2列的表格-->
+  <table id="my_table" border="1" style="float:right ;width: 420px;">
+    <!--两列属性分别为 种类和说明-->
+    <tr>
+      <th>种类</th>
+      <th>说明</th>
+    </tr>
+    <!--种类有unrelated: 1, advertisement: 2, chatter: 3, report: 4, others: 5 -->
+    <!--说明有unrelated: 无关, advertisement: 广告, chatter: 闲聊, report: 报告, others: 其他 -->
+    <tr>
+      <td>unrelated</td>
+      <td>与报道完全无关的消息。主要由用户@KronosQuoth和@Clevvah4Evah发出。
+        二人的消息主要是一些“心灵鸡汤”、励志格言，与报道内容完全无关，共1418条。</td>
+      </td>
+    </tr>
+    <tr>
+      <td>advertisement</td>
+      <td>广告。其内容中往往包含了网页链接，如“I recommend this site #abila dates.kronos/clickhere”
+        借助正则表达式'.*\..*/'进行筛选，共227条。
+      </td>
+    </tr>
+    <tr>
+      <td>chatter</td>
+      <td>闲聊。这部分内容主要为用户的闲聊，主要特征为通常以“RT @”开头，共1006条</td>
+    </tr>
+    <tr>
+      <td>report</td>
+      <td>报道。主要为当地媒体对新闻的报导，如关于火灾，枪击的报道。主要由@AbilaPost, @megaMan等用户发送，共359条。</td>
+    </tr>
+    <tr>
+      <td>others</td>
+      <td>其他。不能被以上四类所典型概括的消息，统一归为其他，共1053条。</td>
+</body>
+<script type=" text/javascript" src="js/d3.min.js">
+    </script>
+<script type="text/javascript" src="js/my.js"></script>
+
+</html>

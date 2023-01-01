@@ -10,7 +10,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\csv-2001-2131.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\tag_count_top20.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\total-type.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
 <!-- Load d3.js -->
+<title>任务一</title>
 <script src="https://d3js.org/d3.v4.js"></script>
 
 <!-- Load d3-cloud -->
@@ -19,7 +20,6 @@
         .fontSize(function (d) { return d.size; })      // font size of words
         .on("end", draw);
       layout.start();
-
 
       function draw(words) {
         svg
@@ -41,7 +41,6 @@
 
   </script>
   <script>
-
     // set the dimensions and margins of the graph
     var margin = { top: 10, right: 10, bottom: 40, left: 200 },
       width = 1000 - margin.left - margin.right,
@@ -57,12 +56,10 @@
 
     // Parse the Data
     d3.csv("tag_count_top20.csv", function (data) {
-
       // sort data
       data.sort(function (b, a) {
         return a.times - b.times;
       });
-
       // Add X axis
       var x = d3.scaleLinear()
         .domain([0, 1400])
@@ -88,7 +85,7 @@
         .attr("y", 80)
         .attr("x", -150)
         .attr("fill", "#000")
-        .text("tag");
+        .text("top tags");
 
       // Y axis
       var y = d3.scaleBand()
@@ -134,7 +131,6 @@
             .style("font-size", "12px")
             .style("opacity", 1.0)
             .html(d.times);
-
         })
         .on("mouseout", function (d) {
           d3.select(this)
@@ -145,7 +141,6 @@
         })
     })
   </script>
-
 </body>
 
 </html>
