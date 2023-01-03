@@ -1,0 +1,455 @@
+{
+  "name": "world",
+  "children": [
+    {
+      "name": "report",
+      "color": "#f58321",
+      "children": [
+        {
+          "name": "fire",
+          "size": 252
+        },
+        {
+          "name": "cop",
+          "size": 88
+        },
+        {
+          "name": "police",
+          "size": 244
+        },
+        {
+          "name": "van",
+          "size": 119
+        },
+        {
+          "name": "people",
+          "size": 208
+        },
+        {
+          "name": "out",
+          "size": 11
+        },
+        {
+          "name": "just",
+          "size": 8
+        },
+        {
+          "name": "what",
+          "size": 8
+        },
+        {
+          "name": "abila",
+          "size": 158
+        },
+        {
+          "name": "violence",
+          "size": 23
+        },
+        {
+          "name": "standoff",
+          "size": 20
+        },
+        {
+          "name": "shooting",
+          "size": 21
+        }
+      ]
+    },
+    {
+      "name": "unrelated",
+      "color": "#ef1621",
+      "children": [
+        {
+          "name": "what",
+          "size": 63
+        },
+        {
+          "name": "can",
+          "size": 53
+        },
+        {
+          "name": "success",
+          "size": 145
+        },
+        {
+          "name": "if",
+          "size": 43
+        },
+        {
+          "name": "but",
+          "size": 39
+        },
+        {
+          "name": "my",
+          "size": 38
+        },
+        {
+          "name": "do",
+          "size": 34
+        },
+        {
+          "name": "who",
+          "size": 33
+        },
+        {
+          "name": "no",
+          "size": 33
+        },
+        {
+          "name": "life",
+          "size": 126
+        },
+        {
+          "name": "people",
+          "size": 25
+        },
+        {
+          "name": "has",
+          "size": 23
+        },
+        {
+          "name": "all",
+          "size": 21
+        },
+        {
+          "name": "want",
+          "size": 121
+        },
+        {
+          "name": "just",
+          "size": 19
+        },
+        {
+          "name": "how",
+          "size": 18
+        },
+        {
+          "name": "up",
+          "size": 18
+        },
+        {
+          "name": "successful",
+          "size": 107
+        },
+        {
+          "name": "best",
+          "size": 28
+        },
+        {
+          "name": "ones",
+          "size": 8
+        },
+        {
+          "name": "time",
+          "size": 7
+        },
+        {
+          "name": "dream",
+          "size": 74
+        }
+      ]
+    },
+    {
+      "name": "advertisement",
+      "color": "#77bc45",
+      "children": [
+        {
+          "name": "online",
+          "size": 62
+        },
+        {
+          "name": "cheap",
+          "size": 52
+        },
+        {
+          "name": "you",
+          "size": 29
+        },
+        {
+          "name": "your",
+          "size": 28
+        },
+        {
+          "name": "no",
+          "size": 13
+        },
+        {
+          "name": "what",
+          "size": 11
+        },
+        {
+          "name": "recommend",
+          "size": 59
+        },
+        {
+          "name": "make",
+          "size": 9
+        },
+        {
+          "name": "look",
+          "size": 79
+        },
+        {
+          "name": "trust",
+          "size": 8
+        },
+        {
+          "name": "one",
+          "size": 7
+        },
+        {
+          "name": "getting",
+          "size": 7
+        },
+        {
+          "name": "around",
+          "size": 7
+        },
+        {
+          "name": "over",
+          "size": 6
+        },
+        {
+          "name": "got",
+          "size": 6
+        },
+        {
+          "name": "here",
+          "size": 6
+        },
+        {
+          "name": "get",
+          "size": 6
+        },
+        {
+          "name": "our",
+          "size": 6
+        },
+        {
+          "name": "pok",
+          "size": 5
+        },
+        {
+          "name": "more",
+          "size": 5
+        }
+      ]
+    },
+    {
+      "name": "chatter",
+      "color": "#4aaaea",
+      "children": [
+        {
+          "name": "sure",
+          "size": 51
+        },
+        {
+          "name": "fire",
+          "size": 101
+        },
+        {
+          "name": "police",
+          "size": 60
+        },
+        {
+          "name": "has",
+          "size": 60
+        },
+        {
+          "name": "people",
+          "size": 38
+        },
+        {
+          "name": "no",
+          "size": 29
+        },
+        {
+          "name": "abila",
+          "size": 27
+        },
+        {
+          "name": "apd",
+          "size": 24
+        },
+        {
+          "name": "out",
+          "size": 23
+        },
+        {
+          "name": "newman",
+          "size": 21
+        },
+        {
+          "name": "they",
+          "size": 16
+        },
+        {
+          "name": "van",
+          "size": 16
+        },
+        {
+          "name": "you",
+          "size": 15
+        },
+        {
+          "name": "just",
+          "size": 14
+        },
+        {
+          "name": "being",
+          "size": 13
+        },
+        {
+          "name": "still",
+          "size": 12
+        },
+        {
+          "name": "but",
+          "size": 12
+        },
+        {
+          "name": "dancing",
+          "size": 12
+        },
+        {
+          "name": "up",
+          "size": 11
+        },
+        {
+          "name": "take",
+          "size": 10
+        }
+      ]
+    },
+    {
+      "name": "others",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "police",
+          "size": 59
+        },
+        {
+          "name": "fire",
+          "size": 59
+        },
+        {
+          "name": "stop",
+          "size": 33
+        },
+        {
+          "name": "you",
+          "size": 33
+        },
+        {
+          "name": "people",
+          "size": 31
+        },
+        {
+          "name": "pok",
+          "size": 51
+        },
+        {
+          "name": "no",
+          "size": 30
+        },
+        {
+          "name": "we",
+          "size": 27
+        },
+        {
+          "name": "up",
+          "size": 27
+        },
+        {
+          "name": "they",
+          "size": 25
+        },
+        {
+          "name": "just",
+          "size": 25
+        },
+        {
+          "name": "what",
+          "size": 24
+        },
+        {
+          "name": "progress",
+          "size": 24
+        },
+        {
+          "name": "abila",
+          "size": 23
+        },
+        {
+          "name": "out",
+          "size": 22
+        },
+        {
+          "name": "going",
+          "size": 19
+        },
+        {
+          "name": "has",
+          "size": 18
+        },
+        {
+          "name": "van",
+          "size": 18
+        },
+        {
+          "name": "our",
+          "size": 15
+        },
+        {
+          "name": "who",
+          "size": 15
+        },
+        {
+          "name": "if",
+          "size": 14
+        },
+        {
+          "name": "newman",
+          "size": 14
+        },
+        {
+          "name": "get",
+          "size": 13
+        },
+        {
+          "name": "viktor-e",
+          "size": 53
+        },
+        {
+          "name": "your",
+          "size": 13
+        },
+        {
+          "name": "disturbance-noise",
+          "size": 12
+        },
+        {
+          "name": "but",
+          "size": 11
+        },
+        {
+          "name": "more",
+          "size": 11
+        },
+        {
+          "name": "sylvia",
+          "size": 10
+        },
+        {
+          "name": "check",
+          "size": 10
+        },
+        {
+          "name": "my",
+          "size": 10
+        }
+      ]
+    }
+  ]
+}
