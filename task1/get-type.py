@@ -12,7 +12,7 @@ df.loc[df['author'].isin(['KronosQuoth', 'Clevvah4Evah']), 'tag'] = 'unrelated'
 # 如果author为AbilaPost或megaMan,Homelandlllumination, KronosStar, CentralBulletin, NewsOnlineToday, InternationalNews,
 # truccotrucco，则tag为“report”
 df.loc[df['author'].isin(
-    ['AbilaPost', 'megaMan', 'Homelandlllumination', 'KronosStar', 'CentralBulletin', 'NewsOnlineToday',
+    ['AbilaPost', 'megaMan', 'HomelandIlluminations', 'KronosStar', 'CentralBulletin', 'NewsOnlineToday',
      'InternationalNews', 'truccotrucco']), 'tag'] = 'report'
 # 剩余的tag为others
 df.loc[df['tag'] == '', 'tag'] = 'others'

@@ -24,7 +24,7 @@
       function draw(words) {
         svg
           .append("g")
-          .attr("transform", "translate(" + (layout.size()[0] / 2 + 250) + "," + layout.size()[1] / 2 + ")")
+          .attr("transform", "translate(" + (layout.size()[0] / 2 + 450) + "," + layout.size()[1] / 2 + ")")
           .selectAll("text")
           .data(words)
           .enter().append("text")
@@ -42,8 +42,8 @@
   </script>
   <script>
     // set the dimensions and margins of the graph
-    var margin = { top: 10, right: 10, bottom: 40, left: 200 },
-      width = 1000 - margin.left - margin.right,
+    var margin = { top: 10, right: 150, bottom: 40, left: 200 },
+      width = 1200 - margin.left - margin.right,
       height = 500 - margin.top - margin.bottom;
     // append the svg object to the body of the page
     var svg = d3.select("#my_dataviz2")
@@ -143,7 +143,7 @@
   </script>
   <!--添加按钮跳转到index1-2 按钮位于页面右侧-->
   <button onclick="location.href='index1-2.html'"
-    style="position: absolute; top: 50%; right: 20%; transform: translate(50%, -50%);">下一页</button>
+    style="position: absolute; top: 80%; right: 20%; transform: translate(50%, -50%);">下一页</button>
 
 </body>
 
