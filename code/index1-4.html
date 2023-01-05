@@ -205,6 +205,8 @@
       legendContainer.append("text")
         .attr("transform", "translate(" + [0, -continents.length * (legendHeight + interLegend) - 5] + ")")
         .text("Type:");
+      //legend向右移动
+      legendContainer.attr("transform", "translate(" + [300 - legendContainer.node().getBBox().width / 2, legendsMinY] + ")");
     }
 
     function drawTreemap(hierarchy) {

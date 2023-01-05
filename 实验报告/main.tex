@@ -28,11 +28,11 @@
 
 \title{{\Huge 可视语言与信息可视化{\large\linebreak\\}}{\Large 团队ID: \linebreak}
 {\Large  \linebreak\linebreak}}
-\author{ \\
+\author{ \large
   刘京宗 3019213043
-  \\
+  \\\\
   杨朝涵 3020244160
-  \\
+  \\\\
   张雪雅 3020244317
   \\\\\\
   天津大学,智能与计算学部}
@@ -95,15 +95,78 @@
 
 \section{解决方案}
 \subsection*{ 4.1 任务一}
+(1)借助Python处理数据，提取message中的tag，并且统计每个tag出现的次数，据此绘制词云。
+
+(2)借助Python处理数据，对message进行分类，借助散点图和柱状图表征数据集中不同类型的内容。
+
+(3)使用tf-idf算法，对不同类型的message提取关键词，并且用TreeMap展示。
+
+(4)统计不同类型的message的作者信息，同样用TreeMap进行展示。
 \subsection*{ 4.2 任务二}
 \subsection*{ 4.3 任务三}
 
 \section{实验结果和案例分析}\label{sub:ptxeva}
 \subsection*{ 5.1 任务一}
+
+统计不同tag在message中出现的次数，如图~\ref{fig:1-tags}~所示。
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.9\textwidth]{images/1-tags.png}
+  \caption{不同tag在message中出现的次数}\label{fig:1-tags}
+  \vspace{\baselineskip}
+\end{figure}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{images/1-wordcloud.png}
+  \caption{tag词云}\label{fig:1-wordcloud}
+  \vspace{\baselineskip}
+\end{figure}
+通过这些tag，我们可以对message的主题有一个把握，并且词云的形象化展示，让我们对数据有了更直观的认识。
+
+借助Python处理数据，对message进行分类，具体如表~\ref{tab:table1}~所示。
+\begin{table}[H]
+  \caption{不同类别的message分类说明}\label{tab:table1}
+  \vspace{0.5em}\centering
+  %设置表格的宽度不超过页面长度
+  \begin{tabular}{|p{2.2cm}<{\raggedright}|p{8.5cm}<{\raggedright}|}
+    \toprule[1.5pt]
+    种类          & 说明                                                                                                                                      \\                                                                                                                               \\
+    \midrule[1pt]
+    unrelated     & 与报道完全无关的消息。主要由用户@KronosQuoth和@Clevvah4Evah发出。二人的消息主要是一些“心灵鸡汤”、励志格言，与报道内容完全无关，共1418条。 \\ \hline
+    advertisement & 广告。其内容中往往包含了网页链接，如“I recommend this site \#abila dates.kronos/clickhere” 借助正则表达式'.*\..*/'进行筛选，共227条。      \\ \hline
+    chatter       & 闲聊。这部分内容主要为用户的闲聊，主要特征为通常以“RT @”开头，共1006条                                                                    \\ \hline
+    report        & 报道。主要为当地媒体对新闻的报导，如关于火灾，枪击的报道。主要由@AbilaPost, @megaMan等用户发送，共424条。                                 \\ \hline
+    others        & 其他。不能被以上四类所典型概括的消息，统一归为其他，共988条。                                                                             \\ \hline
+    \bottomrule[1.5pt]
+  \end{tabular}
+  \vspace{\baselineskip}
+\end{table}
+在对message进行分类后，我们采用散点图和柱状图表征数据集中不同类型message的内容.
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{images/1-scatter-2.png}
+  \caption{散点图}\label{fig:1-scatter}
+  \vspace{\baselineskip}
+\end{figure}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=1\textwidth]{images/1-bars-2.png}
+  \caption{柱状图}\label{fig:1-bar}
+  \vspace{\baselineskip}
+\end{figure}
+通过散点图和柱状图，我们可以对不同类型的message随时间的变化有一个直观的认识。且我们能直观感受到有重大事件（如图~\ref{fig:1-scatter}~横轴所示）发生时，
+chatter和report类型的消息数量会有一个明显增加。
+且我们为这两幅图增加了一定的交互性，当鼠标悬停在散点图中的点上时，会
+有颜色变化，同时显示出该点对应的message信息，包括时间与作者信息。当
+鼠标悬停在柱状图中的柱子上时，会显示出该柱子对应的时间段以及该时间段内
+的各种message的数量。
+
+
+
 \subsection*{ 5.2 任务二}
 \subsection*{ 5.3 任务三}
 \section{总结}
-
 
 \bibliography{ref}
 
