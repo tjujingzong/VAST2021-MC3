@@ -134,7 +134,7 @@
     种类          & 说明                                                                                                                                      \\                                                                                                                               \\
     \midrule[1pt]
     unrelated     & 与报道完全无关的消息。主要由用户@KronosQuoth和@Clevvah4Evah发出。二人的消息主要是一些“心灵鸡汤”、励志格言，与报道内容完全无关，共1418条。 \\ \hline
-    advertisement & 广告。其内容中往往包含了网页链接，如“I recommend this site \#abila dates.kronos/clickhere” 借助正则表达式'.*\..*/'进行筛选，共227条。      \\ \hline
+    advertisement & 广告。其内容中往往包含了网页链接，如“I recommend this site \#abila dates.kronos/clickhere” 借助正则表达式'.*\..*/'进行筛选，共227条。     \\ \hline
     chatter       & 闲聊。这部分内容主要为用户的闲聊，主要特征为通常以“RT @”开头，共1006条                                                                    \\ \hline
     report        & 报道。主要为当地媒体对新闻的报导，如关于火灾，枪击的报道。主要由@AbilaPost, @megaMan等用户发送，共424条。                                 \\ \hline
     others        & 其他。不能被以上四类所典型概括的消息，统一归为其他，共988条。                                                                             \\ \hline
@@ -162,11 +162,35 @@ chatter和report类型的消息数量会有一个明显增加。
 鼠标悬停在柱状图中的柱子上时，会显示出该柱子对应的时间段以及该时间段内
 的各种message的数量。
 
-
+之后，我们使用tf-idf算法对message进行关键字提取，使用TreeMap对这些关键字进行可视化，
+通过关键词简洁明了地展示不同类别的message的内容。类似的，我们统计了不同类别的message的
+作者信息。同样选择使用TreeMap对这些信息进行可视化。具体如~\ref{fig:1-keyword}~和~\ref{fig:1-author}~所示。
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{images/1-keyword.png}
+  \caption{关键词TreeMap可视化}\label{fig:1-keyword}
+  \vspace{\baselineskip}
+\end{figure}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{images/1-author.png}
+  \caption{作者TreeMap可视化}\label{fig:1-author}
+  \vspace{\baselineskip}
+\end{figure}
+在上述两幅图中，我们选择展示面积占比较大的关键词和作者，以便于我们对数据集中的内容有一个直观的认识。
+对于占比较小的关键词和作者，只有鼠标悬浮在其上时才会显示出其具体信息。
 
 \subsection*{ 5.2 任务二}
 \subsection*{ 5.3 任务三}
 \section{总结}
+刘京宗：
+
+在本次实验中，我主要负责任务一的完成。对于我这部分内容来说，在进行可视化之前，需要
+对数据集进行预处理，这部分工作花费了我较多的时间。但这部分工作一方面让我熟悉了Python的一些
+语法和相关库的使用，也是后续可视化工作的基础。在进行可视化工作时，我还是对
+D3.js的接口不够熟悉，这也是我在本次实验中遇到的最大的困难。但在查阅相关资料后，
+我对D3.js有了一定的了解，也完成了本次实验的任务一。最后通过撰写文档，
+我对Latex的使用也有了一定的了解。总的来说，本次实验让我收益匪浅。
 
 \bibliography{ref}
 
