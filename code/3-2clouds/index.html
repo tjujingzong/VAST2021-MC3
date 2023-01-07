@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<script src="jquery.min.js"></script>
+		<script src="d3.min.js"></script>
+		
+		<script src="d3.layout.cloud.js"></script>
+</head>
+<body>
+</body>
+<script src="node.js"></script>
+
+ <script type="text/javascript">
+  var fill = d3.scale.category20();
+  d3.layout.cloud().size([300, 300])
+      //map 返回新的object数组
+	  .words([
+        "N. Achilleos St / N. Madeg St", "N. Madeg St / N. Acera St", "N. Alexandrias St / N. Ithakis St", "547 N. Schaber Ave"].map(function(d) {
+        return {"text": d, "size":15};
+      }))
+    /*.words([ "N. Achilleos St / N. Madeg St"].map(function(a) {
+        return{"text":a,"size":10};}))
+    .words([ "N. Madeg St / N. Acera St"].map(function(b) {
+        return{"text":b,"size":10};}))
+    .words([ "N. Alexandrias St / N. Ithakis St"].map(function(c) {
+        return{"text":c,"size":60};}))*/
+	  //~~的作用是单纯的去掉小数部分，不论正负都不会改变整数部分 
+	  //这里的作用是产生0 1 
+      .rotate(function() { return ~~(Math.random() * 2) * 90; })
+      .font("Impact")
+      .fontSize(function(d) { return d.size; })
+      .on("end", draw)//结束时运行draw函数
+      .start();
+	  
+  function draw(words) {
+    d3.select("body").append("svg")
+        .attr("width", 400)
+        .attr("height", 300)
+        .attr("style","border:1px solid red")
+      .append("g")
+        .attr("transform", "translate(150,150)")
+      .selectAll("text")
+        .data(words)
+      .enter().append("text")
+        .style("border","1px solid blue")
+        .style("font-size", function(d) { return d.size + "px"; })
+        .style("font-family", "Impact")
+        .style("fill", function(d, i) { return fill(i); })//fill 在前面15行定义为颜色集
+        .attr("text-anchor", "middle")
+        .attr("transform", function(d) {
+          return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+        })
+        .text(function(d) { return d.text; });
+		
+		
+  }
+  
+  
+  function whatin(data) {
+    alert(dataToString(data, 0));
+  }
+  function dataToString(d, p) {
+    var pre = "\n";
+    for ( var j = 0; j < p; j++) {
+      pre = pre + "　";
+    }
+    var s = pre + "{";
+    for (i in d) {
+      if (d[i] instanceof Object && p < 5)
+        s = s + pre + i + "=>" + dataToString(d[i], p + 1);
+      else
+        s = s + pre + i + "=>" + d[i];
+    }
+    return s + pre + "}";
+  }
+  
+</script>
+
+
+
+</html>
