@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>1930-keywords</title>
+	<script src="https://cdn.bootcss.com/d3/3.2.1/d3.js"></script>
+</head>
+<body>
+  <script type="text/javascript">
+    var width = 400;      //设置svg区域的宽度
+    var height = 400;     //设置svg区域的高度
+	var color = d3.scale.category10()
+
+    var svg = d3.select('body')               //选择body区
+            		.append('svg')                //在body中添加svg
+            		.attr('width', width)					//将宽度赋给width属性
+            		.attr('height', height);      //将高度赋给height属性
+ 
+    //确定初始数据
+    var dataset = [['fire', 26.83], ['dacing dolphin', 17.07], ['abila', 14.63], ['evacuate', 21.96], ['neighborhood', 12.21], ['residents', 7.3]];
+ 
+    //转换数据
+    var pie = d3.layout.pie()
+    									 .value(function (d) { return d[1]; });
+    var piedata = pie(dataset);
+    console.log(piedata);
+ 
+    //外半径和内半径
+    var outerRadius = width / 3;
+    var innerRadius = 0;
+ 
+    //创建弧生成器
+    var arc = d3.svg.arc()
+    								.innerRadius(innerRadius)
+    								.outerRadius(outerRadius);
+    var color = d3.scale.category20();
+ 
+    //添加对应数目的弧组，即<g>元素
+    var arcs = svg.selectAll('g')
+    							.data(piedata)
+    							.enter()
+    							.append('g')
+    							.attr('transform', 'translate(' + (width / 2) + ',' + (height / 2) + ')');
+ 
+    //添加弧的路径元素
+    arcs.append('path')
+    		.attr('fill', function(d,i) {
+    		  return color(i);         //设定弧的颜色
+    		})
+    		.attr('d', function(d) {
+    		  return arc(d);           //使用弧生成器
+    		});
+ 
+ 
+    //添加弧内的文字元素
+    arcs.append('text')
+    		.attr('transform', function(d) {
+    		  var x = arc.centroid(d)[0] * 1.4;      //文字的x坐标
+    		  var y = arc.centroid(d)[1] * 1.4;      //文字的y坐标
+    		  return 'translate(' + x + ',' + y + ')';
+    		})
+    		.attr('text-anchor', 'middle')
+    		.text(function(d) {
+    		  //计算市场份额和百分比
+    		  var percent = Number(d.value) / d3.sum(dataset, function(d) { return d[1]; }) * 100;
+    		  //保留一个小数点，末尾加一个百分号返回
+    		  return percent.toFixed(2) + '%';
+    		});
+ 
+    //添加连接弧外的直线元素
+    arcs.append('line')
+    		.attr('stroke', 'black')
+    		.attr('x1', function(d) { return arc.centroid(d)[0] * 2; })
+    		.attr('y1', function(d) { return arc.centroid(d)[1] * 2; })
+    		.attr('x2', function(d) { return arc.centroid(d)[0] * 2.2; })
+    		.attr('y2', function(d) { return arc.centroid(d)[1] * 2.2; });
+ 
+    //添加弧外的文字元素
+    arcs.append('text')
+    		.attr('transform', function(d) {
+    		  var x = arc.centroid(d)[0] * 2.5;
+    		  var y = arc.centroid(d)[1] * 2.5;
+    		  return 'translate(' + x + ',' + y + ')';
+    		})
+    		.attr('text-anchor', 'middle')
+    		.text(function(d) {
+    		  return d.data[0];
+    		});
+  </script>
+</body>
+</html>
