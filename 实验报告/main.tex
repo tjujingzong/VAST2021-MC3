@@ -48,13 +48,26 @@
 
 \begin{center}
   {\Large\bf{摘\ 要\\}}
-
-  % 大作业要求大家按照论文短文的格式进行书写，参考文献~\cite{bayrak2020pragma, govyadinov2019graph}。
-
-
-
 \end{center}
+% 大作业要求大家按照论文短文的格式进行书写，参考文献~\cite{bayrak2020pragma, govyadinov2019graph}。
 
+在2014年1月23日，阿比拉发生了多起事件。为了确定风险并更有效地缓解风险，系统要求进行回顾性分析。本文对两个主要来源的数据流——微博记录和紧急调度文字记录进行了分析，
+并对分析结果进行了可视化展示，并据此制定应对方案。具体来说，我们通过依次解决以下三个任务来完成本文的工作。
+
+首先，我们对微博记录进行了分析，我们统计了微博记录中的tag出现情况并且借助词云对其进行了可视化展示。并且根据记录对
+消息进行了分类，借助散点图、柱状图等对消息进行了可视化展示。此外借助tf-idf算法对消息进行了关键词提取，对提取的后关键词以及作者信息借助TreeMap进行了可视化展示。
+通过多种可视化手段，我们识别了有意义的事件报告。
+
+其次，我们在上一步的基础上，在消息出现的高峰期划分时间段，通过 QGIS 创建人群分布的地理地
+图。使用 D3 依据关键词随时间的变化绘制饼图，通过关键词所占比例，
+并参考提取数据中的 message 内容，评估了公众的风险水平在晚上如何演变。
+
+最后我们依据事件绘制事件流图，根据整晚的事件信息，我们分析出急救人员应被派往火灾发生地附近，应及时救治在火灾、
+坍塌、爆炸事件中受伤人群。
+如果要求必须实时而不是回顾性地响应事件，我们通过关键词比例分布饼图，分析出急救人员将被派往警匪枪战对峙事件发
+生地附近。
+
+综上，我们逐步推进分析，最终完成了确定风险以及缓解风险的目标。
 \newpage
 
 
@@ -130,6 +143,13 @@
 
 (4)统计不同类型的message的作者信息，同样用TreeMap进行展示。
 \subsection{任务二}
+(1)借助Python处理数据，去除无关项与停顿词，提取关键词随时间变化的数据。
+
+(2)借助Python构建词向量，提取不同时间段内，与关键词相关的message数据。
+
+(3)借助任务一处理结果可以发现，大约在下午6:50和7:50左右，帖子数量处于高峰期，以此划分时间段，通过QGIS创建人群分布的地理地图。
+
+(4)使用D3依据关键词随时间的变化绘制饼图，通过关键词所占比例，并参考提取数据中的message内容，评估公众的风险水平在晚上如何演变。
 \subsection{任务三}
 (1)提取不同时间段关键词，依据此关键词得出此时段事件，依据事件绘制事件流图。
 
@@ -146,7 +166,7 @@
 
 \begin{figure}[H]
   \centering
-  \includegraphics[width=0.9\textwidth]{images/1-tags.png}
+  \includegraphics[width=1\textwidth]{images/1-tags.png}
   \caption{不同tag在message中出现的次数}\label{fig:1-tags}
   \vspace{\baselineskip}
 \end{figure}
@@ -156,6 +176,7 @@
   \caption{tag词云}\label{fig:1-wordcloud}
   \vspace{\baselineskip}
 \end{figure}
+Hashtag(~\#)用于将消息与特定主题相关联。例如\#POK的标签显然与POK组织有关，\#AbilaPost的标签则表明该消息当地的媒体报告有关。
 通过这些tag，我们可以对message的主题有一个把握，并且词云的形象化展示，让我们对数据有了更直观的认识。
 
 借助Python处理数据，对message进行分类，具体如表~\ref{tab:table1}~所示。
@@ -179,7 +200,7 @@
 在对message进行分类后，我们采用散点图和柱状图表征数据集中不同类型message的内容.
 \begin{figure}[H]
   \centering
-  \includegraphics[width=0.95\textwidth]{images/1-scatter-2.png}
+  \includegraphics[width=1\textwidth]{images/1-scatter-2.png}
   \caption{散点图}\label{fig:1-scatter}
   \vspace{\baselineskip}
 \end{figure}
@@ -212,19 +233,119 @@ chatter和report类型的消息数量会有一个明显增加。
   \vspace{\baselineskip}
 \end{figure}
 在上述两幅图中，我们选择展示面积占比较大的关键词和作者，以便于我们对数据集中的内容有一个直观的认识。
+从中，我们不难获得一些有用的信息，例如我们最为关注的report类的信息中，“police”，“fire”，“van”等词概括性地
+表明了当晚的事件，且事件的报道的主要媒体是@AbilaPost, @megaMan等。
 对于占比较小的关键词和作者，只有鼠标悬浮在其上时才会显示出其具体信息。
 
 \subsection{任务二}
+根据任务一得到的结果可以发现，大约在下午06：30到晚上07：00和晚上 07：30到晚上08：00的时间帧之间，帖子的数量处于高峰期，说明在这些时间段很明显发生了有意义的事件。据此，我们主要对这些重要的时间节点来进行分析。
+
+（1）下午5:00-5:30时间段
+
+据图~\ref{fig:2-1}~所示，“POK拉力赛”、“暴力”、“警察”等关键词在饼图中有突出的位置。而从提取的message数据（图~\ref{fig:2-2}~）中我们了解到，阿比拉城市公园的POK集会在该时间段开始举行。可以推测在这段时间里，POK集市上可能发生了暴力事件，警察因此关闭了集会附近的街道，暗示这段时间里公众有轻度至中度的安全风险。
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{images/2-1.png}
+  \caption{5:00-5:30主要关键词分布图}\label{fig:2-1}
+  \vspace{\baselineskip}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{images/2-2.png}
+  \caption{5:00-5:30部分message数据}\label{fig:2-2}
+  \vspace{\baselineskip}
+\end{figure}
+
+对比5:40左右的饼图发现关键词没有太大变化，说明公众风险基本保持不变，这里不再过多赘述。
+
+（2）下午6:00-6:40时间段
+
+由图3可知出现了新的关键词“environmental”、“newman”、“education”等，推测似乎有一个集群在讨论环境活动，并且有几位演讲者，例如Newman博士。通过图~\ref{fig:2-4}~可以发现，相关参加者的活动范围非常集中且长时间没有改变，所以推测该活动的规模较小，不会对公共安全构成风险。
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{images/2-3.png}
+  \caption{6:00-6:40主要关键词分布图}\label{fig:2-3}
+  \vspace{\baselineskip}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{images/2-4.png}
+  \caption{6:40-7:00主要关键词分布图}\label{fig:2-4}
+  \vspace{\baselineskip}
+\end{figure}
+（3）下午6:40-7:00时间段
+
+由图~\ref{fig:2-5}~得出“dancing\_dolphin、“fire”、“police”等主要关键词，据图~\ref{fig:2-6}~可以推测在下午6:40左右，
+跳舞的海豚位置发生了火灾，火势还可能蔓延到了建筑物中。对比之前的地理地图可以发现
+，在图~\ref{fig:2-7}~中人群的分布范围开始扩大。据此可以推断，本次火灾的事件规模很大，对公众安
+全造成了中度至重度威胁，并且如果火灾在商业区蔓延，很有可能由于无法短时间内疏散人群而造成数百人伤亡。
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{images/2-5.png}
+  \caption{6:40-7:00主要关键词分布图}\label{fig:2-5}
+  \vspace{\baselineskip}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{images/2-6.png}
+  \caption{6:40-7:00部分message数据}\label{fig:2-6}
+  \vspace{\baselineskip}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{images/2-7.png}
+  \caption{6:40-7:00人群分布地理地图}\label{fig:2-7}
+  \vspace{\baselineskip}
+\end{figure}
+在7:30左右，“fire”关键词的频率显著减小，表明火灾的严重程度已经得到控制，可以推测此时火灾仅对公共安全构成中等风险。
+
+（4）下午7:30-8:00时间段
+
+由图~\ref{fig:2-8}~可知新关键词“hit”被引入并迅速增长，且出现了“van”、“killing”等关键词，结合message数据（图~\ref{fig:2-9}~），可以推测出当晚有一名警察在犯罪事件的追逐过程中被枪杀，由此可以推断出事件现场已经对公共安全构成严重而紧迫的威胁，在这个时间点，平民似乎可能会陷入这一危险事件的交火中。
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{images/2-8.png}
+  \caption{7:30-8:00主要关键词分布图}\label{fig:2-8}
+  \vspace{\baselineskip}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{images/2-9.png}
+  \caption{7:30-8:00部分message数据}\label{fig:2-9}
+  \vspace{\baselineskip}
+\end{figure}
+（5）下午8:00-8:30时间段
+
+据图~\ref{fig:2-10}~可知“hospital”、“criticismnt”、“police”、“standoff”关键词占较大比例，说明枪击事件已经发展到对峙阶段，事件的严重程度和危险性升级，特别是“hospital”关键词表明有人受伤，推测这种情况可能会继续对公共安全构成严重威胁。
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{images/2-10.png}
+  \caption{8:00-8:30主要关键词分布图}\label{fig:2-10}
+  \vspace{\baselineskip}
+\end{figure}
+（6）下午8:30-9:00时间段
+
+在这段时间里，“fire”关键词的比例上升，同时出现了“afdheroes”、“building”、“avoid”关键词，表明之前的火灾已经死灰复燃，考虑到火灾发生半个小时以内就已经得到控制，并且群众以及开始疏散，所以推测本次事件对公共安全仅构成轻度至中度风险。
+在9:30左右一些动词和形容词的占比开始增加，推测公众应该已经开始主动避开事发现场。但犯罪、警察等关键词出现的频率依旧比较频繁，推测pok集会和枪击事件的情况仍然紧迫，多重事件仍然对公共安全构成中度和严重威胁。
+概括来讲，在晚上5:30左右，集会似乎煽动了公众情绪，有大量警察在场。6:30左右发生的大火也很危险，后期甚至卷土重来。7:30左右发生了枪击警察事件，这有可能对公众造成致命后果，从而对公共安全构成严重威胁。而在9:30左右，公众开始撤离，但暴力事件情况依然紧迫，对公共安全有潜在严重威胁。
 \subsection{任务三}
 Question1:如果您能够将一组急救人员发送到任何地方，它将在哪里？
 
 Ansewer1:急救人员将被派往火灾发生地附近，其经度为36.059，纬度为24.894，位置为N. Achilleos St / N. Madeg St。
 
 \begin{figure}[H]
-    \centering
-    \includegraphics[width=0.9\textwidth]{images/3-1.png}
-    \caption{latitude-longitude-1}\label{fig:3-1}
-    \vspace{\baselineskip}
+  \centering
+  \includegraphics[width=0.9\textwidth]{images/3-1}
+  \caption{latitude-longitude-1}\label{fig:3-1}
+  \vspace{\baselineskip}
 \end{figure}
 
 \begin{figure}[H]
@@ -237,17 +358,17 @@ Ansewer1:急救人员将被派往火灾发生地附近，其经度为36.059，�
 Cause1：依据得出的各个时间段的关键词信息，可以得出事件流如图所示。
 
 \begin{figure}[H]
-    \centering
-    \includegraphics[width=0.9\textwidth]{images/3-3.png}
-    \caption{Dancing Dolphin fire}\label{fig:3-3}
-    \vspace{\baselineskip}
+  \centering
+  \includegraphics[width=1\textwidth]{images/3-3}
+  \caption{Dancing Dolphin fire}\label{fig:3-3}
+  \vspace{\baselineskip}
 \end{figure}
 
 \begin{figure}[H]
-    \centering
-    \includegraphics[width=0.9\textwidth]{images/3-4.png}
-    \caption{standoff}\label{fig:3-4}
-    \vspace{\baselineskip}
+  \centering
+  \includegraphics[width=1\textwidth]{images/3-4}
+  \caption{standoff}\label{fig:3-4}
+  \vspace{\baselineskip}
 \end{figure}
 
 可以直观看出火灾在18：40发生；19：00时火势失控，同时开始扩大疏散区域；后续火势持续失控，在20：30时顶层发生坍塌；21：30时发生爆炸且有人员受伤。在火灾事件中，自火灾发生，火势近三小时内一直未得良好控制，属于高风险度事件；同时，发生了坍塌和爆炸此类重大风险事件，爆炸影响范围超出人群疏散范围，严重危害到群众的生命财产安全。
@@ -261,33 +382,33 @@ Question2：如果您必须实时而不是回顾性地响应事件，那么您�
 Answer2：若实时性响应事件，急救人员将被派往警匪枪战对峙事件发生地附近，其经度为36.059，纬度为24.856。
 
 \begin{figure}[H]
-    \centering
-    \includegraphics[width=0.9\textwidth]{images/3-5.png}
-    \caption{latitude-longitude-2}\label{fig:3-5}
-    \vspace{\baselineskip}
+  \centering
+  \includegraphics[width=0.9\textwidth]{images/3-5}
+  \caption{latitude-longitude-2}\label{fig:3-5}
+  \vspace{\baselineskip}
 \end{figure}
 
 Cause2:考虑到火灾事件18：40时发生，19：30时警察扩大人群疏散范围，提取了自19：30至19：32时的信息关键字数据；考虑到对峙事件19：40左右发生，提取了自19：41至19：43时的信息关键字数据。选取两份数据中出现次数最多的且有意义的关键字，可视化其比例分布饼图，如图所示。
 
 \begin{figure}[H]
-    \centering
-    \includegraphics[width=0.9\textwidth]{images/3-6.png}
-    \caption{1930-1932keywords}\label{fig:3-6}
-    \vspace{\baselineskip}
+  \centering
+  \includegraphics[width=0.7\textwidth]{images/3-6.png}
+  \caption{19:30-19:32 keywords}\label{fig:3-6}
+  \vspace{\baselineskip}
 \end{figure}
 
 \begin{figure}[H]
-    \centering
-    \includegraphics[width=0.9\textwidth]{images/3-7.png}
-    \caption{1941-1943keywords}\label{fig:3-7}
-    \vspace{\baselineskip}
+  \centering
+  \includegraphics[width=0.7\textwidth]{images/3-7.png}
+  \caption{19:41-19:43 keywords}\label{fig:3-7}
+  \vspace{\baselineskip}
 \end{figure}
-    
+
 对比两张比例饼图，可以直观看到：
 \begin{itemize}
-    \item 19：30左右"fire"占比最大，其次是"evacuate"。结合所有关键词我们可以得出结论：19：30左右以发生在dancing dolphin的火灾事件为主，附近居民有序撤离，那么，也就意味着群众的安全在撤离到安全区域后得以保证。
-    
-    \item 19：40左右地点关键字"gelatogalore"占比最大，其次为"cop"和"police"此两个在此同义的词，次之为"shots fire"和"shoot"此两个在此近义的词。结合所有关键词可以得出结论：19：40左右以发生在gelatogalore的停车场的枪战事件为主，有警员受伤倒地，可能危害到群众安全。
+  \item 19：30左右"fire"占比最大，其次是"evacuate"。结合所有关键词我们可以得出结论：19：30左右以发生在dancing dolphin的火灾事件为主，附近居民有序撤离，那么，也就意味着群众的安全在撤离到安全区域后得以保证。
+
+  \item 19：40左右地点关键字"gelatogalore"占比最大，其次为"cop"和"police"此两个在此同义的词，次之为"shots fire"和"shoot"此两个在此近义的词。结合所有关键词可以得出结论：19：40左右以发生在gelatogalore的停车场的枪战事件为主，有警员受伤倒地，可能危害到群众安全。
 \end{itemize}
 
 综上，警察已对火灾事件在19：30左右给出相应应对措施，即扩大人群疏散区域，以此来保证人民群众安全。截止此时，距火灾事件已过近一个小时，相关部门给出了良好处理方案并实施，且有报道显示无严重受伤情况发生。而在之后的十分钟后，19：40发生的严重枪战事件，一名警员受伤倒地，其余警员继续与匪徒对峙，可能危及周围群众。此时，枪战事件刚刚发生，该事件还未得到良好的处理方案，目前急需的是对受伤警员进行救治，同时确认周围群众的健康状况。所以，对事件进行实时性响应，应将急救人员派往对峙事件发生地。
@@ -302,6 +423,12 @@ Cause2:考虑到火灾事件18：40时发生，19：30时警察扩大人群疏�
 D3.js的接口不够熟悉，这也是我在本次实验中遇到的最大的困难。但在查阅相关资料后，
 我对D3.js有了一定的了解，也完成了本次实验的任务一。最后通过撰写文档，
 我对Latex的使用也有了一定的了解。总的来说，本次实验让我收益匪浅。
+\\
+
+杨朝涵：
+
+在本次实验中，我主要负责任务二内容的实现。关于这部分内容，我认为处理得到关键词随时间变化的数据是任务二实现的基础，分析预处理后的重要关键词与message的关系是分析公众风险水平的关键。此外，通过分析message数据，我学会了如何充分利用已有文本类数据提取关键信息，并结合可视化推测在不同时间段发生的事件。通过制作带有动画效果的可交互的饼图和地理地图，我对D3动画与交互有了更加生动的认识，也能更加熟练地使用QGIS软件实现地理位置的可视化。虽然在实验过程中，由于我对D3知识掌握的不够熟练，出现了有些元素渲染不到等问题，关于用Python处理数据也耗费了较长时间，但通过查阅相关资料和求助同学，我最终完成了本次实验，并且收获良多。
+\\
 
 张雪雅：
 
