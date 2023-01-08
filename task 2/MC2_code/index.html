@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pie chart</title>
+    <link href="css/style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="timePick">
+    请输入开始和结束时间（以英文“:”隔开时分）
+    <input placeholder="开始时间" id="sT">到
+    <input placeholder="结束时间" id="eT"> 
+
+    <div class="pie"></div>
+    </div>
+</body>
+<script src="js/d3.js"></script>
+<script>
+let timePickResult=function(){
+    let sT=document.getElementById('sT').value
+    let eT=document.getElementById('eT').value
+    
+    return [sT,eT][0]===''?['18:00','19:00']:[sT,eT]
+}
+
+let timeParse=d3.timeParse('%H:%M')
+let timeLegaljudge=function(timePicked){
+    
+    return timeParse(timePicked[0])<timeParse(timePicked[1])
+}
+
+d3.select('body').on('dblclick',function(){
+
+
+    let timePicked=timePickResult()
+    if(!timeLegaljudge(timePicked))
+    {
+        alert('时间输入不合法，请重新输入')
+        timePicked=timePickResult()
+    }   
+
+   
+    d3.csv('./total-type-keyword.csv').then(data=>{
+
+        
+
+       let  timeParsecsv=d3.timeParse('%H:%M:%L')
+        let dataDuringTimePick=data.filter(d=>{
+
+            let currentTime=timeParsecsv(d.time)
+            return currentTime<timeParse(timePicked[1]) &&currentTime>timeParse(timePicked[0]) 
+
+
+        })
+
+      
+        dataDuringTimePick=d3.groups(dataDuringTimePick,d=>d.keyword)
+        dataDuringTimePick=d3.sort(dataDuringTimePick,(a,b)=>b[1].length-a[1].length).slice(0,10)
+    
+
+
+        let computedData=[]
+        let sumOfdataValue=0
+        dataDuringTimePick.forEach(e=> {
+            computedData.push({
+                "name":e[0],
+                "value":e[1].length,
+            })
+            sumOfdataValue+=e[1].length
+            
+        });
+
+
+        computedData.forEach(d=>{
+            d.percent=Math.round( d.value/sumOfdataValue*100)+'%'
+        })
+
+        console.log(computedData)
+
+
+    var width = 800,
+        height = 800,
+        margin = 40;
+
+
+    var radius = Math.min(width, height) / 2 - margin
+
+
+    d3.select('.pie').select('svg').remove()
+
+    let  svg = d3.select(".pie")
+        .append("svg")
+        .attr("width", width)
+        .attr("height", height)
+        .append("g")
+        .attr("transform", `translate(${width/2},${height/2})`);
+
+
+
+
+    var color = d3.scaleOrdinal()
+        .domain(computedData.map(d=>d.name))
+        .range(d3.schemeDark2);
+
+
+    var pie = d3.pie()
+        .value(d =>  d[1].value)
+    var data_ready = pie(Object.entries(computedData))
+
+    console.log('data_ready',data_ready)
+
+    var arc = d3.arc()
+        .innerRadius(radius * 0.4)         
+        .outerRadius(radius * 0.8)
+
+    svg
+        .append('g')
+        .attr('transform',`translate(-50,0)`)
+        .append('text')
+        .style('font-size','1.2em')
+        .attr('class','time')
+        .text(timePicked[0]+'--'+timePicked[1])
+
+    svg
+        .append('g')
+        .attr('transform',`translate(-50,40)`)
+        .append('text')
+        .style('font-size','1em')
+        .attr('class','ArcAttr')
+        .text('hover for detail ')
+
+
+    var pieArc=svg
+        .selectAll('.pieArc')
+        .data(data_ready)
+        .join('g')
+        .attr('class','pieArc')
+
+     pieArc.append('path')
+        .attr('d', arc)
+        .attr('class','pieArcPath')
+        .attr('fill', d => { 
+            return color(d.data[1].value)
+        })
+        .attr("stroke", "white")
+        .style("stroke-width", "2px")
+        .style("opacity", 0.7)
+
+    pieArc.append('text')
+        .join('path')
+        .attr('x',function(d){
+                return arc.centroid(d)[0]-20
+        })
+        .attr('y',function(d){
+                return arc.centroid(d)[1]*1.1
+        })
+        .attr('class','pieArcText')
+        .style('font-size','.6em')
+        .text(d=>{
+           return  d.data[1].name
+        })
+
+
+
+    pieArc.on('mouseenter',function(d){
+    
+        d3.selectAll('.pieArc').style('opacity',.2)
+        d3.select(this).transition().delay(200).duration(300).style('opacity',1)
+        let currData=d.path[0].__data__.data[1]
+        d3.select('.ArcAttr').text('  '+currData.value+'  ('+currData.percent+')')
+        })
+        .on('mouseout',function(d){
+
+            d3.selectAll('.pieArc').style('opacity',1)
+            d3.select('.ArcAttr').text('hover for details')
+        })
+
+    });//csv
+
+   
+    
+    
+
+
+
+
+})//del click 
+
+</script>
+</html>
