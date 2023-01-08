@@ -1,0 +1,289 @@
+type,time,author,message,latitude,longitude, location,tag,keyword
+mbdata,17:30:21,KronosQuoth,"['if', 'the', 'wind', 'will', 'not', 'serve,', 'take', 'to', 'the', 'oars.', '', '#kronosstar', '#pokrally']",,,,unrelated,if
+mbdata,17:30:45,CentralBulletin,"['police', 'have', 'closed', 'streets', 'surrounding', 'pok', 'rally', 'in', 'abila', '#abila', '#centralbulletin']",,,,report,police
+mbdata,17:30:46,KronosQuoth,"['when', 'everything', 'seems', 'to', 'be', 'going', 'against', 'you,', 'remember', 'that', 'the', 'airplane', 'takes', 'off', 'against', 'the', 'wind,', 'not', 'with', 'it.', '', '#kronosstar', '#pokrally']",,,,unrelated,going
+mbdata,17:30:46,KronosQuoth,"['develop', 'success', 'from', 'failures.', 'discouragement', 'and', 'failure', 'are', 'two', 'of', 'the', 'surest', 'stepping', 'stones', 'to', 'success.', '', '#pokrally', '#hi']",,,,unrelated,success
+mbdata,17:30:46,KronosQuoth,"['i', 'attribute', 'my', 'success', 'to', 'this:', 'i', 'never', 'gave', 'or', 'took', 'any', 'excuse.', '', '#kronosstar', '#pokrally']",,,,unrelated,my
+mbdata,17:31:00,muppiesRock,"['rt', '@abilapost', '#apd', 'has', 'closed', 'parla', 'st', 'from', 'egeou', 'st', 'north', 'to', 'alm', 'st', 'due', 'to', 'size', 'of', 'pok', 'rally', '#abilapost']",,,,chatter,has
+mbdata,17:31:04,Viktor-E,"['bert', 'hanns', 'grew', 'up', 'on', 'a', 'small', 'farm', 'near', 'the', 'notios', 'mountain', 'range']",,,,others,up
+mbdata,17:31:04,anaregents,"['viktor-e', 'is', 'taking', 'the', 'stage!?should', 'be', 'a', 'good', 'show']",,,,others,viktor-e
+mbdata,17:31:04,FriendsOfKronos,"['#apd', 'has', 'closed', 'surrounding', 'streets', 'of', 'pok', 'rally', 'is', 'it', 'crackdown', 'time?', 'hope', 'so']",,,,others,has
+mbdata,17:31:16,KronosQuoth,"['go', 'confidently', 'in', 'the', 'direction', 'of', 'your', 'dreams.', '', 'live', 'the', 'life', 'you', 'have', 'imagined.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,17:31:16,KronosQuoth,"['i', 'find', 'that', 'the', 'harder', 'i', 'work,', 'the', 'more', 'luck', 'i', 'seem', 'to', 'have.', '', '#pokrally', '#hi']",,,,unrelated,more
+mbdata,17:31:16,carjunkers,"['time', 'for', 'a', 'refill', '?', 'refill', 'your', 'meds', 'online', 'at', 'drugs.kronos/cheappills', '#abila', '#pharmacyripoff']",,,,advertisement,your
+mbdata,17:31:43,KronosQuoth,"['everything', 'has', 'beauty,', 'but', 'not', 'everyone', 'can', 'see.', '', '#kronosstar', '#pokrally']",,,,unrelated,has
+mbdata,17:31:43,KronosQuoth,"['there', 'are', 'two', 'types', 'of', 'people', 'who', 'will', 'tell', 'you', 'that', 'you', 'cannot', 'make', 'a', 'difference', 'in', 'this', 'world.', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,17:31:43,KronosQuoth,"['successful', 'entrepreneurs', 'are', 'givers', 'and', 'not', 'takers', 'of', 'positive', 'energy.', '', '#pokrally', '#hi']",,,,unrelated,successful
+mbdata,17:31:48,powercrystals,"['anyone', 'know', 'the', 'name', 'of', 'the', 'shoe', 'repair', 'on', 'egeou', 'st', '?']",,,,others,anyone
+mbdata,17:31:48,MindOfKronos,"['and', 'there', 'he', 'is', 'in', 'all', 'his', '""""glory"""".', 'mr.', 'no', 'talent', 'himself.""""']",,,,others,no
+mbdata,17:32:00,gardener4958,"['rt', '@abilapost', '#apd', 'has', 'closed', 'parla', 'st', 'from', 'egeou', 'st', 'north', 'to', 'alm', 'st', 'due', 'to', 'size', 'of', 'pok', 'rally', '#abilapost']",,,,chatter,has
+mbdata,17:32:00,POK,"['musician', 'bert', 'hanns', 'of', 'viktor-e', 'introduces', 'tha', 'band', 'and', 'talks', 'about', 'their', 'song', '""""river', 'soldiers""""""""']",,,,others,about
+mbdata,17:32:00,ReggieWassali,"['viktor-e!', 'viktor-e!', 'every', 'great', 'cause', 'needs', 'great', 'music', '#pokrally']",,,,others,great
+mbdata,17:32:00,MindOfKronos,"['then', 'why', 'did', 'you', 'book', 'victor?', '#pokrally']",,,,others,you
+ccdata,17:32:00,,"['alarm-secure', 'no', 'crime']",,,3234 N. Avionos St,others,no
+mbdata,17:32:04,vetsRock,"['rt', '@friendsofkronos', '#apd', 'has', 'closed', 'surrounding', 'streets', 'of', 'pok', 'rally', 'is', 'it', 'crackdown', 'time?', 'hope', 'so']",,,,chatter,has
+mbdata,17:32:05,superhero447,"[""how's"", 'your', 'credit', 'rating?', 'need', 'a', 'boost?', 'fixit.kronos/creditratings', '#abila', '#badcredit']",,,,advertisement,your
+mbdata,17:32:05,KronosQuoth,"['if', 'you', 'can', 'dream', 'it,', 'you', 'can', 'achieve', 'it.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,17:32:30,KronosQuoth,"['nothing', 'is', 'impossible,', 'the', 'word', 'itself', 'says,', 'im', 'possible!', '', '#kronosstar', '#pokrally']",,,,unrelated,im
+mbdata,17:32:55,Viktor-E,"['erik', 'gastov', 'and', 'lero', 'robeson', 'went', 'to', 'the', 'same', 'abila', 'secondary', 'school', '-', 'but', ""didn't"", 'meet', 'until', 'after', ""they'd"", 'graduated!']",,,,others,abila
+mbdata,17:32:55,ourcountryourrights,"['river', 'soldiers', '-', 'who', 'says', 'we', 'have', 'to', 'stand', 'by', 'and', 'watch', 'as', 'they', 'pollute', 'our', 'country?', '#pok']",,,,others,we
+mbdata,17:32:55,FriendsOfKronos,"['boycott', 'viktor-e!', 'boycott', 'viktor-e!', 'terrorist', 'supporters', 'are', 'terrorists', '#pok']",,,,others,terrorists
+mbdata,17:32:55,Officia1AbilaPost,"['elian', 'discovered', 'alive,', 'living', 'in', 'tethys.', 'smad.co.kronos/xx3942']",,,,advertisement,living
+mbdata,17:33:00,worldWatcher,"['rt', '@abilapost', '#apd', 'has', 'closed', 'parla', 'st', 'from', 'egeou', 'st', 'north', 'to', 'alm', 'st', 'due', 'to', 'size', 'of', 'pok', 'rally', '#abilapost']",,,,chatter,has
+mbdata,17:33:00,POK,"[""viktor-e's"", 'song', ""'river"", ""soldiers'"", 'was', 'inspired', 'by', 'the', 'work', 'pok', 'did', 'for', 'the', 'town', 'of', 'elodis']",,,,others,pok
+mbdata,17:33:00,truccotrucco,"['#rememberjuliana', '#rememberelian', '#vivasylvia']",36.052,24.852,,report,
+mbdata,17:33:01,KronosQuoth,"['if', 'you', 'want', 'your', 'children', 'to', 'turn', 'out', 'well,', 'spend', 'twice', 'as', 'much', 'time', 'with', 'them,', 'and', 'half', 'as', 'much', 'money.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,17:33:21,KronosQuoth,"['it', 'is', 'better', 'to', 'fail', 'in', 'originality', 'than', 'to', 'succeed', 'in', 'imitation.', '', '#pokrally', '#hi']",,,,unrelated,than
+mbdata,17:33:21,KronosQuoth,"['thinking', 'should', 'become', 'your', 'capital', 'asset,', 'no', 'matter', 'whatever', 'ups', 'and', 'downs', 'you', 'come', 'across', 'in', 'your', 'life.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,17:33:44,KronosQuoth,"['good', 'things', 'come', 'to', 'people', 'who', 'wait,', 'but', 'better', 'things', 'come', 'to', 'those', 'who', 'go', 'out', 'and', 'get', 'them.', '', '#pokrally', '#hi']",,,,unrelated,people
+mbdata,17:33:45,blueSunshine,"['rt', '@centralbulletin', 'police', 'have', 'closed', 'streets', 'surrounding', 'pok', 'rally', 'in', 'abila', '#abila', '#centralbulletin']",,,,chatter,police
+mbdata,17:33:45,gardener4958,"['rt', '@centralbulletin', 'police', 'have', 'closed', 'streets', 'surrounding', 'pok', 'rally', 'in', 'abila', '#abila', '#centralbulletin']",,,,chatter,police
+mbdata,17:34:00,POK,"['the', 'audience', 'is', 'cheering', 'at', 'the', 'refrain', 'of', 'river', 'soldiers']",,,,others,river
+mbdata,17:34:00,maha_Homeland,"['viktor-e', 'playing', ""'river"", ""soldiers'"", '-', 'such', 'a', 'bittersweet', 'haunting', 'song']",,,,others,viktor-e
+mbdata,17:34:00,Viktor-E,"['ellen', 'lomax', 'credits', 'her', 'grandmother', 'for', 'introducing', 'her', 'to', 'music', 'at', 'an', 'early', 'age.']",,,,others,her
+mbdata,17:34:00,AbilaPost,"['viktor-e', 'is', 'playing', 'a', 'song', 'river', 'soldiers', '#pokrally', '#abilapost']",,,,report,viktor-e
+mbdata,17:34:00,anaregents,"['viktor-e', 'is', 'playing', '""""river', 'soldiers""""', 'it', 'tugs', 'at', 'the', 'heart', 'strings', '#rememberjuliana', '#rememberelian', '#pok""""']",,,,others,viktor-e
+mbdata,17:34:00,ourcountryourrights,"['river', 'soldiers', '#remember', 'juliana', '#justiceforelian']",,,,others,river
+ccdata,17:34:00,,"['vehicle', 'accident-report']",,,N. Taxiarchon St / N. Arkadou St,others,vehicle
+mbdata,17:34:04,brain448,"['rt', '@viktor-e', 'bert', 'hanns', 'grew', 'up', 'on', 'a', 'small', 'farm', 'near', 'the', 'notios', 'mountain', 'range']",,,,chatter,up
+mbdata,17:34:08,KronosQuoth,"['trust', 'because', 'you', 'are', 'willing', 'to', 'accept', 'the', 'risk,', 'not', 'because', ""it's"", 'safe', 'or', 'certain.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,17:34:08,KronosQuoth,"['there', 'is', 'only', 'one', 'way', 'to', 'avoid', 'criticism:', 'do', 'nothing,', 'say', 'nothing,', 'and', 'be', 'nothing.', '', '#kronosstar', '#pokrally']",,,,unrelated,do
+mbdata,17:34:08,Clevvah4Evah,"['best', 'seizure', 'salad', 'evvah', '#pok', '#rally', '#grammar']",,,,unrelated,best
+mbdata,17:34:33,KronosQuoth,"['a', 'person', 'who', 'never', 'made', 'a', 'mistake', 'never', 'tried', 'anything', 'new.', '', '#kronosstar', '#pokrally']",,,,unrelated,who
+mbdata,17:34:33,KronosQuoth,"['non-judgment', 'shapes', 'reckless', 'self-knowledge', '#pokrally', '#hi']",,,,unrelated,non-judgment
+mbdata,17:34:34,MindOfKronos,"['freebird!!', '#pok']",,,,others,freebird!!
+mbdata,17:34:45,henri,"['rt', '@centralbulletin', 'police', 'have', 'closed', 'streets', 'surrounding', 'pok', 'rally', 'in', 'abila', '#abila', '#centralbulletin']",,,,chatter,police
+mbdata,17:34:45,pinky,"['rt', '@centralbulletin', 'police', 'have', 'closed', 'streets', 'surrounding', 'pok', 'rally', 'in', 'abila', '#abila', '#centralbulletin']",,,,chatter,police
+ccdata,17:35:01,,"['traffic', 'stop']",,,N. Artakis St / N. Evzonon St,others,stop
+mbdata,17:35:04,KronosQuoth,"['only', 'put', 'off', 'until', 'tomorrow', 'what', 'you', 'are', 'willing', 'to', 'die', 'having', 'left', 'undone.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,17:35:04,KronosQuoth,"['the', 'most', 'difficult', 'thing', 'is', 'the', 'decision', 'to', 'act,', 'the', 'rest', 'is', 'merely', 'tenacity.', '', '#kronosstar', '#pokrally']",,,,unrelated,most
+mbdata,17:35:27,KronosQuoth,"['whatever', 'the', 'mind', 'of', 'man', 'can', 'conceive', 'and', 'believe,', 'it', 'can', 'achieve.', '', '#kronosstar', '#pokrally']",,,,unrelated,can
+mbdata,17:35:27,KronosQuoth,"['if', 'you', ""don't"", 'value', 'your', 'time,', 'neither', 'will', 'others.', 'stop', 'giving', 'away', 'your', 'time', 'and', 'talents-', 'start', 'charging', 'for', 'it.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,17:35:27,KronosQuoth,"['the', 'mind', 'is', 'everything.', 'what', 'you', 'think', 'you', 'become.', '', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,17:35:27,KronosQuoth,"['what', 'seems', 'to', 'us', 'as', 'bitter', 'trials', 'are', 'often', 'blessings', 'in', 'disguise.', '#pokrally', '#hi']",,,,unrelated,what
+mbdata,17:35:38,Viktor-E,"['lero', 'robeson', 'plays', 'many', 'stringed', 'instruments,', 'including', 'the', 'lute,', 'the', 'laouto,', 'the', 'torban,', 'the', 'yehu', 'and', 'the', 'rubab.']",,,,others,many
+mbdata,17:35:38,FriendsOfKronos,"['figured', 'it', 'out:', 'pok', 'are', 'hippy', 'terrorists']",,,,others,pok
+mbdata,17:35:50,KronosQuoth,"['as', 'we', 'look', 'ahead', 'into', 'the', 'next', 'century,', 'leaders', 'will', 'be', 'those', 'who', 'empower', 'others.', '', '#pokrally', '#hi']",,,,unrelated,we
+mbdata,17:35:50,KronosQuoth,"['happiness', 'is', 'a', 'butterfly,', 'which', 'when', 'pursued,', 'is', 'always', 'beyond', 'your', 'grasp.', '#pokrally', '#hi']",,,,unrelated,your
+mbdata,17:36:00,lindyT,"['rt', '@maha_homeland', 'viktor-e', 'playing', ""'river"", ""soldiers'"", '-', 'such', 'a', 'bittersweet', 'haunting', 'song']",,,,chatter,viktor-e
+mbdata,17:36:11,POK,"['song', 'river', 'soldiers:', 'we', 'should', 'make', 'war', 'not', 'on', 'each', 'other', 'but', 'on', 'pollution', 'and', 'hate']",,,,others,we
+mbdata,17:36:11,footfingers,"['you', 'have', 'the', 'power', 'to', 'take', 'kronos', 'back', 'for', 'the', 'poeple', '#pok']",36.054,24.902,,others,you
+ccdata,17:36:11,,"['park', 'check']",,,2999 N. Arkadiou St,others,park
+mbdata,17:36:17,KronosQuoth,"['there', 'is', 'only', 'one', 'way', 'to', 'avoid', 'criticism:', 'do', 'nothing,', 'say', 'nothing,', 'and', 'be', 'nothing.', '', '#kronosstar', '#pokrally']",,,,unrelated,do
+mbdata,17:36:17,junkman377,"['cheap', 'car', 'sales!', 'no', 'questions', 'asked!', '', 'cars.kronos/choppers', '', '#abila', '#vans', '#cars']",,,,advertisement,no
+mbdata,17:36:17,KronosQuoth,"['you', 'cant', 'use', 'up', 'creativity.', '', 'the', 'more', 'you', 'use,', 'the', 'more', 'you', 'have.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,17:36:17,dirtdigger334,"['a', 'tear', 'is', '1%', 'water,', '99%', 'feelings', '#pok', '#rally', '#grammar']",,,,others,tear
+mbdata,17:36:42,KronosQuoth,"['if', 'you', 'want', 'to', 'achieve', 'greatness', 'stop', 'asking', 'for', 'permission.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,17:36:42,KronosQuoth,"['when', 'in', 'doubt,', 'punt!', '', '#kronosstar', '#pokrally']",,,,unrelated,when
+mbdata,17:36:55,slamrjamr,"['rt', '@officia1abilapost', 'elian', 'discovered', 'alive,', 'living', 'in', 'tethys.', 'smad.co.kronos/xx3942']",,,,advertisement,living
+mbdata,17:37:09,superhero447,"['i', 'trust', 'this', 'goodstuff.kronos/links', '#abilasfinest']",,,,advertisement,trust
+mbdata,17:37:09,KronosQuoth,"['do', 'one', 'thing', 'every', 'day', 'that', 'scares', 'you.', '', '#pokrally', '#hi']",,,,unrelated,do
+mbdata,17:37:31,KronosQuoth,"['the', 'road', 'to', 'success', 'and', 'the', 'road', 'to', 'failure', 'are', 'almost', 'exactly', 'the', 'same.', '', '#pokrally', '#hi']",,,,unrelated,success
+mbdata,17:37:31,KronosQuoth,"['successful', 'entrepreneurs', 'are', 'givers', 'and', 'not', 'takers', 'of', 'positive', 'energy.', '', '#pokrally', '#hi']",,,,unrelated,successful
+mbdata,17:37:31,cheapgoods998,"[""how's"", 'your', 'credit', 'rating?', 'need', 'a', 'boost?', 'fixit.kronos/creditratings', '#abila', '#badcredit']",,,,advertisement,your
+mbdata,17:37:31,KronosQuoth,"['strive', 'not', 'to', 'be', 'a', 'success,', 'but', 'rather', 'to', 'be', 'of', 'value.', '', '#kronosstar', '#pokrally']",,,,unrelated,but
+mbdata,17:37:38,farmboy,"['rt', '@friendsofkronos', 'figured', 'it', 'out:', 'pok', 'are', 'hippy', 'terrorists']",,,,chatter,pok
+mbdata,17:37:53,KronosQuoth,"['the', 'two', 'most', 'important', 'days', 'in', 'your', 'life', 'are', 'the', 'day', 'you', 'are', 'born', 'and', 'the', 'day', 'you', 'find', 'out', 'why.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,17:38:02,Viktor-E,"['viktor-e', 'covers', 'th', 'joni', 'mitchell', 'classis', 'big', 'yellow', 'taxi']",,,,others,viktor-e
+mbdata,17:38:02,truthforcadau,"['great', 'new', 'song', 'from', 'viktor-e!', 'river', 'soldiers', 'is', 'so', 'powerful', '#pokrallyinthepark', '#viktor-e']",36.051,24.854,,others,so
+ccdata,17:38:02,,"['business', 'check']",,,S. Achilleos St / S. Utanfor St,others,check
+mbdata,17:38:14,SaveOurWildlands,"['everyone', 'here', 'at', 'the', 'pok', 'rally', 'is', 'getting', 'in', 'the', 'mood', 'with', 'music!']",,,,others,pok
+mbdata,17:38:14,ReggieWassali,"['river', 'soldiers', 'new', 'favorite!', '#viktor-e', '#pokrally']",,,,others,new
+ccdata,17:38:14,,"['incomplete', 'call', 'for', 'police']",,,,others,police
+mbdata,17:38:24,KronosQuoth,"['real', 'difficulties', 'can', 'be', 'overcome;', 'it', 'is', 'only', 'the', 'imaginary', 'ones', 'that', 'are', 'unconquerable.', '', '#pokrally', '#hi']",,,,unrelated,can
+mbdata,17:38:24,KronosQuoth,"['it', 'does', 'not', 'matter', 'how', 'slowly', 'you', 'go', 'as', 'long', 'as', 'you', 'do', 'not', 'stop.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,17:38:24,Clevvah4Evah,"['the', 'rally', 'has', 'peaked', 'my', 'interest!', '#pok', '#rally', '#grammar']",,,,unrelated,has
+mbdata,17:38:52,KronosQuoth,"['i', 'find', 'that', 'the', 'harder', 'i', 'work,', 'the', 'more', 'luck', 'i', 'seem', 'to', 'have.', '', '#pokrally', '#hi']",,,,unrelated,more
+mbdata,17:38:52,KronosQuoth,"['the', 'number', 'one', 'reason', 'people', 'fail', 'in', 'life', 'is', 'because', 'they', 'listen', 'to', 'their', 'friends,', 'family,', 'and', 'neighbors.', '', '#pokrally', '#hi']",,,,unrelated,people
+mbdata,17:38:52,KronosQuoth,"['our', 'consciousness', 'arises', 'and', 'subsides', 'in', 'mortal', 'success', '#pokrally', '#hi']",,,,unrelated,our
+ccdata,17:39:00,,"['traffic', 'stop']",,,2014 Sannan Pky,others,stop
+mbdata,17:39:16,KronosQuoth,"['education', 'costs', 'money.', '', 'but', 'then', 'so', 'does', 'ignorance.', '', '#kronosstar', '#pokrally']",,,,unrelated,but
+mbdata,17:39:16,KronosQuoth,"['the', 'first', 'step', 'toward', 'success', 'is', 'taken', 'when', 'you', 'refuse', 'to', 'be', 'a', 'captive', 'of', 'the', 'environment', 'in', 'which', 'you', 'first', 'find', 'yourself.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,17:39:16,KronosQuoth,"['to', 'be', 'successful', 'you', 'must', 'accept', 'all', 'challenges', 'that', 'come', 'your', 'way.', 'you', ""can't"", 'just', 'accept', 'the', 'ones', 'you', 'like.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,17:39:40,KronosQuoth,"['i', 'find', 'that', 'when', 'you', 'have', 'a', 'real', 'interest', 'in', 'life', 'and', 'a', 'curious', 'life,', 'that', 'sleep', 'is', 'not', 'the', 'most', 'important', 'thing.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,17:39:40,KronosQuoth,"['you', 'take', 'your', 'life', 'in', 'your', 'own', 'hands,', 'and', 'what', 'happens?', 'a', 'terrible', 'thing,', 'no', 'one', 'to', 'blame.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,17:39:40,KronosQuoth,"['i', 'have', 'not', 'failed.', ""i've"", 'just', 'found', '10,000', 'ways', 'that', ""won't"", 'work.', '', '#pokrally', '#hi']",,,,unrelated,just
+mbdata,17:40:00,junk99902,"['booking', 'abila', 'city', 'park', 'for', 'the', 'human', 'trafficking', 'rally', 'in', 'march', '#savepeople']",,,,others,abila
+mbdata,17:40:06,KronosQuoth,"['nothing', 'in', 'the', 'world', 'is', 'more', 'common', 'than', 'unsuccessful', 'people', 'with', 'talent.', '', '#pokrally', '#hi']",,,,unrelated,people
+mbdata,17:40:06,junkman377,"['he', 'who', 'hesitates', 'is', 'lost!', '#kronosstar', '#pokrally']",,,,others,who
+mbdata,17:40:06,KronosQuoth,"['waste', 'not,', 'want', 'not', '', '#kronosstar', '#pokrally']",,,,unrelated,want
+mbdata,17:40:06,KronosQuoth,"['the', 'distance', 'between', 'insanity', 'and', 'genius', 'is', 'measured', 'only', 'by', 'success.', '', '#pokrally', '#hi']",,,,unrelated,only
+mbdata,17:40:32,KronosQuoth,"['either', 'write', 'something', 'worth', 'reading', 'or', 'do', 'something', 'worth', 'writing.', '', '#kronosstar', '#pokrally']",,,,unrelated,do
+mbdata,17:40:52,KronosQuoth,"['if', 'you', ""don't"", 'value', 'your', 'time,', 'neither', 'will', 'others.', 'stop', 'giving', 'away', 'your', 'time', 'and', 'talents-', 'start', 'charging', 'for', 'it.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,17:40:56,POK,"['bert', 'invites', 'everyone', 'to', 'sing', 'along', 'with', 'their', 'next', 'song']",,,,others,their
+ccdata,17:40:56,,"['subject', 'stop']",,,N. Berlau St / N. Taxiarchon Ave,others,stop
+ccdata,17:41:00,,['disturbance-noise'],,,4777 N. Arkadou St,others,disturbance-noise
+mbdata,17:41:02,siliconKing,"['rt', '@truthforcadau', 'great', 'new', 'song', 'from', 'viktor-e!', 'river', 'soldiers', 'is', 'so', 'powerful', '#pokrallyinthepark', '#viktor-e']",,,,chatter,so
+mbdata,17:41:22,KronosQuoth,"['successful', 'entrepreneurs', 'are', 'givers', 'and', 'not', 'takers', 'of', 'positive', 'energy.', '', '#pokrally', '#hi']",,,,unrelated,successful
+mbdata,17:41:50,KronosQuoth,"['the', 'function', 'of', 'leadership', 'is', 'to', 'produce', 'more', 'leaders,', 'not', 'more', 'followers.', '', '#pokrally', '#hi']",,,,unrelated,more
+mbdata,17:42:00,Viktor-E,"['viktor-e', 'sings', '""big', 'yellow', 'taxi""', 'by', 'joni', 'mitchell,', 'one', 'of', 'the', 'greatest', 'songwriters', 'of', 'our', 'time']",,,,others,one
+mbdata,17:42:00,anaregents,"['viktor-e', 'is', 'playing', 'joni', ""mitchell's"", 'big', 'yellow', 'taxi.', 'great', 'song']",,,,others,viktor-e
+mbdata,17:42:00,footfingers,"['corrupt', 'tethan', 'corporations', 'pollute', 'your', 'land', 'and', 'kill', 'your', 'children', '#pok']",36.054,24.902,,others,your
+mbdata,17:42:00,Officia1AbilaPost,"['abila', 'police', 'corruption', 'scandal', '-', 'the', '#pok', 'connection.', '', 'smad.co.kronos/1s923k9']",,,,advertisement,police
+ccdata,17:42:00,,"['vehicle', 'accident-report']",,,Vissaraki St / Rist Way,others,vehicle
+mbdata,17:42:14,slamrjamr,"['rt', '@reggiewassali', 'river', 'soldiers', 'new', 'favorite!', '#viktor-e', '#pokrally']",,,,chatter,new
+mbdata,17:42:19,Clevvah4Evah,"['always', 'flush', 'out', 'your', 'ideas', 'before', 'presenting', '#pok', '#rally', '#grammar']",,,,unrelated,your
+mbdata,17:42:19,KronosQuoth,"['if', 'youre', 'offered', 'a', 'seat', 'on', 'a', 'rocket', 'ship,', 'dont', 'ask', 'what', 'seat!', 'just', 'get', 'on.', '', '#kronosstar', '#pokrally']",,,,unrelated,what
+mbdata,17:42:31,POK,"['everyone', 'here', 'at', 'the', 'pok', 'rally', 'in', 'the', 'park', 'is', 'singing', 'along', 'with', 'viktor-e', 'to', ""mitchell's"", 'big', 'yellow', 'taxi']",,,,others,pok
+mbdata,17:42:31,SaveOurWildlands,"['crowd', 'is', 'wild', 'over', 'music', 'from', 'viktor-e']",,,,others,viktor-e
+mbdata,17:42:31,FriendsOfKronos,"['pok', 'teror', 'destroys', 'joni', 'mitchell', 'song', '-', 'never', 'think', 'of', 'it', 'the', 'same']",,,,others,pok
+ccdata,17:42:31,,"['traffic', 'stop']",,,N. Alexandrias St / N. Evzonon St,others,stop
+mbdata,17:42:41,KronosQuoth,"['an', 'unexamined', 'life', 'is', 'not', 'worth', 'living.', '', '#kronosstar', '#pokrally']",,,,unrelated,life
+mbdata,17:42:41,rockinHW,"['i', 'lost', 'a', 'bunch', 'of', 'weight,', 'this', 'stuff', 'works!', 'look', 'at', 'news', 'article', 'diet.kronos/starvenow', '', '#abila', '#bestfood']",,,,advertisement,look
+mbdata,17:42:41,eazymoney,"['i', 'recommend', 'this', 'site', '#abila', 'dates.kronos/clickhere']",,,,advertisement,recommend
+mbdata,17:42:41,KronosQuoth,"['if', 'you', 'do', 'what', 'you', 'always', 'did,', 'you', 'will', 'get', 'what', 'you', 'always', 'got.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,17:43:00,sarajane,"['rt', '@junk99902', 'booking', 'abila', 'city', 'park', 'for', 'the', 'human', 'trafficking', 'rally', 'in', 'march', '#savepeople']",,,,chatter,abila
+mbdata,17:43:06,KronosQuoth,"['courage', 'is', 'resistance', 'to', 'fear,', 'mastery', 'of', 'fear', '-', 'not', 'absense', 'of', 'fear.', '', '#pokrally', '#hi']",,,,unrelated,fear
+mbdata,17:43:06,KronosQuoth,"['if', 'you', ""can't"", 'explain', 'it', 'simply,', 'you', ""don't"", 'understand', 'it', 'well', 'enough.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,17:43:06,KronosQuoth,"['its', 'not', 'the', 'years', 'in', 'your', 'life', 'that', 'count.', 'its', 'the', 'life', 'in', 'your', 'years.', '', '#kronosstar', '#pokrally']",,,,unrelated,your
+mbdata,17:43:09,Viktor-E,"['bert', 'credits', 'joni', 'mitchell', 'with', 'inspiring', 'him', 'to', 'show', 'his', 'community', 'activism', 'through', 'music.']",,,,others,his
+mbdata,17:43:09,ourcountryourrights,"['why', 'do', 'they', 'hate', 'us', 'for', 'wanting', 'clean', 'water?', 'their', 'hate', 'is', 'irrational']",,,,others,do
+ccdata,17:43:09,,"['misdemeanor', 'assault-in', 'progress']",,,2211 N. Artakis St,others,progress
+mbdata,17:43:33,KronosQuoth,"['if', ""you're"", 'going', 'through', 'hell', 'keep', 'going.', '', '#pokrally', '#hi']",,,,unrelated,if
+mbdata,17:43:56,courage4life,"['rt', '@pok', 'bert', 'invites', 'everyone', 'to', 'sing', 'along', 'with', 'their', 'next', 'song']",,,,chatter,their
+mbdata,17:44:00,joyce101,"['rt', '@officia1abilapost', 'abila', 'police', 'corruption', 'scandal', '-', 'the', '#pok', 'connection.', '', 'smad.co.kronos/1s923k9']",,,,advertisement,police
+mbdata,17:44:00,POK,"['what', 'an', 'enthusiastic', 'response', 'from', 'the', 'crowd', 'to', 'viktor-e!']",,,,others,what
+mbdata,17:44:00,footfingers,"['people', 'of', 'kronos,', 'rise', 'up', 'and', 'take', 'your', 'country', 'back!', '#pok']",36.054,24.902,,others,your
+ccdata,17:44:00,,"['suspicious', 'subject/circumstances-in', 'progress']",,,1439 N. Utanfor St,others,progress
+mbdata,17:44:03,maskedWoman101,"['hi!', 'i', 'advise', 'you', 'to', 'visit', 'this', 'link', 'hottips.kronos/trading', '#abila']",,,,advertisement,you
+mbdata,17:44:03,KronosQuoth,"['your', 'time', 'is', 'limited,', 'so', 'dont', 'waste', 'it', 'living', 'someone', 'elses', 'life.', '', '#kronosstar', '#pokrally']",,,,unrelated,your
+mbdata,17:44:09,vonneka,"['rt', '@viktor-e', 'bert', 'credits', 'joni', 'mitchell', 'with', 'inspiring', 'him', 'to', 'show', 'his', 'community', 'activism', 'through', 'music.']",,,,chatter,his
+mbdata,17:44:25,KronosQuoth,"['either', 'you', 'run', 'the', 'day,', 'or', 'the', 'day', 'runs', 'you.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,17:44:25,KronosQuoth,"['thinking', 'should', 'become', 'your', 'capital', 'asset,', 'no', 'matter', 'whatever', 'ups', 'and', 'downs', 'you', 'come', 'across', 'in', 'your', 'life.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,17:44:25,KronosQuoth,"['success', 'does', 'not', 'consist', 'in', 'never', 'making', 'mistakes', 'but', 'in', 'never', 'making', 'the', 'same', 'one', 'a', 'second', 'time.', '', '#pokrally', '#hi']",,,,unrelated,but
+mbdata,17:44:30,SaveOurWildlands,"['a', 'lot', 'of', 'passionate', 'singing', 'at', 'abila', 'city', 'park', 'today', '-', 'all', 'for', 'a', 'great', 'cause']",,,,others,abila
+mbdata,17:44:46,meds4realz43,"['he', 'who', 'hesitates', 'is', 'lost!', '#kronosstar', '#pokrally']",,,,others,who
+mbdata,17:44:46,KronosQuoth,"['take', 'up', 'one', 'idea.', 'make', 'that', 'one', 'idea', 'your', 'life', '-', 'think', 'of', 'it,', 'dream', 'of', 'it,', 'live', 'on', 'that', 'idea.#pokrally', '#hi']",,,,unrelated,your
+mbdata,17:45:00,muppiesRock,"['rt', '@footfingers', 'corrupt', 'tethan', 'corporations', 'pollute', 'your', 'land', 'and', 'kill', 'your', 'children', '#pok']",,,,chatter,your
+mbdata,17:45:00,maha_Homeland,"['viktor-e', 'is', 'bringing', 'their', 'special', 'blend', 'of', 'inspiration', 'and', 'music', 'to', 'the', 'pok', 'rally', 'in', 'the', 'park!']",,,,others,pok
+mbdata,17:45:12,KronosQuoth,"['develop', 'success', 'from', 'failures.', 'discouragement', 'and', 'failure', 'are', 'two', 'of', 'the', 'surest', 'stepping', 'stones', 'to', 'success.', '', '#pokrally', '#hi']",,,,unrelated,success
+mbdata,17:45:12,KronosQuoth,"['all', 'progress', 'takes', 'place', 'outside', 'the', 'comfort', 'zone.', '', '#pokrally', '#hi']",,,,unrelated,all
+mbdata,17:45:12,KronosQuoth,"['i', 'am', 'not', 'a', 'product', 'of', 'my', 'circumstances.', 'i', 'am', 'a', 'product', 'of', 'my', 'decisions.', '', '#kronosstar', '#pokrally']",,,,unrelated,my
+mbdata,17:45:43,Clevvah4Evah,"['my', 'hand', 'hurts', 'i', 'think', 'i', 'have', 'carpet', 'tunnel', '#pok', '#rally', '#grammar']",,,,unrelated,my
+mbdata,17:46:11,Viktor-E,"[""there's"", 'still', 'time', 'to', 'join', 'the', 'band', 'at', 'the', 'abila', 'city', 'park,', 'viktor-e', 'will', 'be', 'playing', 'after', 'the', 'pok', 'presentations', 'are', 'done!']",,,,others,abila
+ccdata,17:46:11,,"['alarm-secure', 'no', 'crime']",,,2411 N. Averof St,others,no
+mbdata,17:46:14,KronosQuoth,"['the', 'best', 'time', 'to', 'plant', 'a', 'tree', 'was', '20', 'years', 'ago.', 'the', 'second', 'best', 'time', 'is', 'now.', '', '#kronosstar', '#pokrally']",,,,unrelated,time
+mbdata,17:46:14,whiteprotein,"['fyi', 'this', 'website', 'badprofiles.kronos/tacky', 'is', 'spreading', 'nasty', 'blogs', 'around', '#gettingfired']",,,,advertisement,around
+mbdata,17:46:31,BlueVelvet,"['rt', '@pok', 'everyone', 'here', 'at', 'the', 'pok', 'rally', 'in', 'the', 'park', 'is', 'singing', 'along', 'with', 'viktor-e', 'to', ""mitchell's"", 'big', 'yellow', 'taxi']",,,,chatter,pok
+mbdata,17:46:37,KronosQuoth,"['try', 'not', 'to', 'become', 'a', 'person', 'of', 'success,', 'but', 'rather', 'try', 'to', 'become', 'a', 'person', 'of', 'value.', '', '#pokrally', '#hi']",,,,unrelated,but
+mbdata,17:47:08,KronosQuoth,"['an', 'unexamined', 'life', 'is', 'not', 'worth', 'living.', '', '#kronosstar', '#pokrally']",,,,unrelated,life
+mbdata,17:47:08,KronosQuoth,"['develop', 'success', 'from', 'failures.', 'discouragement', 'and', 'failure', 'are', 'two', 'of', 'the', 'surest', 'stepping', 'stones', 'to', 'success.', '', '#pokrally', '#hi']",,,,unrelated,success
+mbdata,17:47:31,carjunkers,"['this', 'is', 'nuts,', 'i', 'swear', ""i'm"", 'getting', '100s', 'of', 'followers', 'from', 'this', 'program!!', 'check', 'it', 'followers.kronos/getpeople', '#abila', '#followers']",,,,advertisement,getting
+mbdata,17:47:31,KronosQuoth,"['the', 'best', 'revenge', 'is', 'massive', 'success.', '', '#kronosstar', '#pokrally']",,,,unrelated,best
+mbdata,17:47:31,KronosQuoth,"['your', 'problem', ""isn't"", 'the', 'problem.', 'your', 'reaction', 'is', 'the', 'problem.', '', '#pokrally', '#hi']",,,,unrelated,your
+mbdata,17:47:31,KronosQuoth,"['we', 'become', 'what', 'we', 'think', 'about', 'most', 'of', 'the', 'time,', 'and', ""that's"", 'the', 'strangest', 'secret.', '', '#pokrally', '#hi']",,,,unrelated,what
+mbdata,17:47:55,Clevvah4Evah,"['always', 'flush', 'out', 'your', 'ideas', 'before', 'presenting', '#pok', '#rally', '#grammar']",,,,unrelated,your
+mbdata,17:48:00,gardener4958,"['rt', '@maha_homeland', 'viktor-e', 'is', 'bringing', 'their', 'special', 'blend', 'of', 'inspiration', 'and', 'music', 'to', 'the', 'pok', 'rally', 'in', 'the', 'park!']",,,,chatter,pok
+mbdata,17:48:00,maha_Homeland,"['professor', 'lorenzo', 'di', 'stefano', 'teaches', 'environmental', 'science', 'at', 'abila', 'u']",,,,others,abila
+mbdata,17:48:00,truthforcadau,"['classic', 'cover', 'of', 'a', 'classic', 'song', 'big', 'yellow', 'taxi', 'is', 'one', 'of', 'the', 'best!', '#viktor-e', '#pokrallyinthepark']",36.051,24.854,,others,one
+mbdata,17:48:13,POK,"['sylvia', 'thanks', 'viktor-e', 'for', 'joining', 'the', 'pok', 'rally', 'today', 'and', 'looks', 'forward', 'to', 'more', 'music', 'later', 'today']",,,,others,pok
+mbdata,17:48:23,KronosQuoth,"['everything', 'has', 'beauty,', 'but', 'not', 'everyone', 'can', 'see.', '', '#kronosstar', '#pokrally']",,,,unrelated,has
+mbdata,17:48:23,junkman377,"['you', 'look', 'different', 'in', 'this', 'photo.', 'pics.kronos/pics', '', '#abila', '#pictures']",,,,advertisement,you
+mbdata,17:48:51,KronosQuoth,"['the', 'past', 'is', 'a', 'ghost,', 'the', 'future', 'a', 'dream.', 'all', 'we', 'ever', 'have', 'is', 'now.', '', '#kronosstar', '#pokrally']",,,,unrelated,we
+mbdata,17:48:51,KronosQuoth,"['happiness', 'is', 'not', 'something', 'readymade.', '', 'it', 'comes', 'from', 'your', 'own', 'actions.', '', '#kronosstar', '#pokrally']",,,,unrelated,your
+mbdata,17:48:51,KronosQuoth,"['how', 'wonderful', 'it', 'is', 'that', 'nobody', 'need', 'wait', 'a', 'single', 'moment', 'before', 'starting', 'to', 'improve', 'the', 'world.', '', '#kronosstar', '#pokrally']",,,,unrelated,how
+mbdata,17:49:00,POK,"['next', 'up', 'is', 'professor', 'lorenzo', 'di', 'stefano', 'of', 'univ', 'of', 'abila', 'to', 'talk', 'about', 'corporate', 'social', 'responsibility']",,,,others,abila
+mbdata,17:49:00,truthforcadau,"['viktor-e', 'should', 'collaborate', 'with', 'joni', 'mitchell', '#wishfulthinking']",36.051,24.854,,others,viktor-e
+ccdata,17:49:00,,"['vehicle', 'accident-report']",,,N. Pilau St / N. Barwyn St,others,vehicle
+mbdata,17:49:18,KronosQuoth,"['you', 'measure', 'the', 'size', 'of', 'the', 'accomplishment', 'by', 'the', 'obstacles', 'you', 'had', 'to', 'overcome', 'to', 'reach', 'your', 'goals.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,17:49:18,KronosQuoth,"['take', 'up', 'one', 'idea.', 'make', 'that', 'one', 'idea', 'your', 'life', '-', 'think', 'of', 'it,', 'dream', 'of', 'it,', 'live', 'on', 'that', 'idea.#pokrally', '#hi']",,,,unrelated,your
+mbdata,17:49:18,KronosQuoth,"['the', 'starting', 'point', 'of', 'all', 'achievement', 'is', 'desire.', '', '#pokrally', '#hi']",,,,unrelated,all
+mbdata,17:49:18,KronosQuoth,"['life', 'is', 'not', 'measured', 'by', 'the', 'number', 'of', 'breaths', 'we', 'take,', 'but', 'by', 'the', 'moments', 'that', 'take', 'our', 'breath', 'away.', '', '#kronosstar', '#pokrally']",,,,unrelated,we
+mbdata,17:49:27,maha_Homeland,"['prof', 'di', 'stefano', 'is', 'a', 'distinguised', 'member', 'of', 'the', 'uofa', 'faculty']",,,,others,di
+mbdata,17:49:27,Viktor-E,"['viktor-e', 'wants', 'to', 'thank', 'all', 'the', 'fans', 'who', 'have', 'turned', 'out', 'for', 'a', 'great', 'rally', 'today.']",,,,others,who
+mbdata,17:49:43,eazymoney,"['you', 'r', 'famous', 'now', 'haha', '', 'badprofiles.kronos/tacky', '', '', '#abila', '#pictures']",,,,advertisement,you
+mbdata,17:49:43,maskedWoman101,"['gain', 'over', '1,000', 'followers', 'a', 'week', 'by', 'using:', 'getem.kronos/followers', '#abilafinest', '#followme']",,,,advertisement,over
+mbdata,17:49:43,KronosQuoth,"[""don't"", 'raise', 'your', 'voice,', 'improve', 'your', 'argument.', '', '#pokrally', '#hi']",,,,unrelated,your
+mbdata,17:49:53,POK,"['sylvia', 'marek', 'welcomes', 'lorenzo', 'di', 'stefano', 'to', 'the', 'podium']",,,,others,sylvia
+mbdata,17:50:00,blueSunshine,"['rt', '@truthforcadau', 'viktor-e', 'should', 'collaborate', 'with', 'joni', 'mitchell', '#wishfulthinking']",,,,chatter,viktor-e
+mbdata,17:50:00,SaveOurWildlands,"['scientists', 'warn', 'of', '?devastation', 'beyond', 'belief?:', 'sow.kronos/climatechange/distafano_interview']",,,,advertisement,beyond
+ccdata,17:50:00,,"['traffic', 'stop']",,,N. Taxiarchon Ave / N. Alm St,others,stop
+mbdata,17:50:06,KronosQuoth,"['when', 'i', 'let', 'go', 'of', 'what', 'i', 'am,', 'i', 'become', 'what', 'i', 'might', 'be.', '', '#kronosstar', '#pokrally']",,,,unrelated,what
+mbdata,17:50:06,KronosQuoth,"['the', 'only', 'place', 'where', 'success', 'comes', 'before', 'work', 'is', 'in', 'the', 'dictionary.', '', '#pokrally', '#hi']",,,,unrelated,only
+mbdata,17:50:06,KronosQuoth,"['good', 'things', 'come', 'to', 'people', 'who', 'wait,', 'but', 'better', 'things', 'come', 'to', 'those', 'who', 'go', 'out', 'and', 'get', 'them.', '', '#pokrally', '#hi']",,,,unrelated,people
+mbdata,17:50:06,KronosQuoth,"['nothing', 'is', 'impossible,', 'the', 'word', 'itself', 'says,', 'im', 'possible!', '', '#kronosstar', '#pokrally']",,,,unrelated,im
+mbdata,17:50:27,BlueVelvet,"['rt', '@viktor-e', 'viktor-e', 'wants', 'to', 'thank', 'all', 'the', 'fans', 'who', 'have', 'turned', 'out', 'for', 'a', 'great', 'rally', 'today.']",,,,chatter,who
+mbdata,17:50:29,KronosQuoth,"['people', 'rarely', 'succeed', 'unless', 'they', 'have', 'fun', 'in', 'what', 'they', 'are', 'doing.', '', '#pokrally', '#hi']",,,,unrelated,what
+mbdata,17:50:29,KronosQuoth,"['life', 'shrinks', 'or', 'expands', 'in', 'proportion', 'to', 'ones', 'courage.', '', '#kronosstar', '#pokrally']",,,,unrelated,life
+mbdata,17:50:29,KronosQuoth,"['the', 'only', 'person', 'you', 'are', 'destined', 'to', 'become', 'is', 'the', 'person', 'you', 'decide', 'to', 'be.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,17:50:29,KronosQuoth,"['the', 'ones', 'who', 'are', 'crazy', 'enough', 'to', 'think', 'they', 'can', 'change', 'the', 'world,', 'are', 'the', 'ones', 'that', 'do.', '', '#pokrally', '#hi']",,,,unrelated,can
+mbdata,17:50:50,grassGreeener,"['discount', 'drugs', 'with', 'no', 'prescription', 'required', '', 'cheapdrugs.kronos/meds', '#meds', '#abila']",,,,advertisement,no
+mbdata,17:50:50,KronosQuoth,"['develop', 'success', 'from', 'failures.', 'discouragement', 'and', 'failure', 'are', 'two', 'of', 'the', 'surest', 'stepping', 'stones', 'to', 'success.', '', '#pokrally', '#hi']",,,,unrelated,success
+mbdata,17:51:00,blueSunshine,"['rt', '@saveourwildlands', 'scientists', 'warn', 'of', '?devastation', 'beyond', 'belief?:', 'sow.kronos/climatechange/distafano_interview']",,,,advertisement,beyond
+mbdata,17:51:19,Clevvah4Evah,"[""don't"", 'be', 'disinterested', 'in', 'the', 'movie!', '#pok', '#rally', '#grammar']",,,,unrelated,don't
+mbdata,17:51:19,KronosQuoth,"['dreaming,', 'after', 'all,', 'is', 'a', 'form', 'of', 'planning.', '', '#kronosstar', '#pokrally']",,,,unrelated,after
+mbdata,17:51:19,KronosQuoth,"['intuition', 'influences', 'your', 'own', 'observations', '#pokrally', '#hi']",,,,unrelated,your
+mbdata,17:51:23,maha_Homeland,"['prof', 'de', 'stefano', 'teaches', 'environmental', 'science', 'at', 'the', 'university', 'of', 'abila']",,,,others,abila
+ccdata,17:51:23,,"['subject', 'stop']",,,N. Carnero St / N. Omirou St,others,stop
+mbdata,17:51:50,KronosQuoth,"['no', 'masterpiece', 'was', 'ever', 'created', 'by', 'a', 'lazy', 'artist.', '#pokrally', '#hi']",,,,unrelated,no
+mbdata,17:52:18,KronosQuoth,"['too', 'many', 'of', 'us', 'are', 'not', 'living', 'our', 'dreams', 'because', 'we', 'are', 'living', 'our', 'fears.', '', '#kronosstar', '#pokrally']",,,,unrelated,we
+mbdata,17:52:18,KronosQuoth,"['just', 'when', 'the', 'caterpillar', 'thought', 'the', 'world', 'was', 'ending,', 'he', 'turned', 'into', 'a', 'butterfly.', '', '#pokrally', '#hi']",,,,unrelated,just
+mbdata,17:52:18,KronosQuoth,"['if', ""you're"", 'going', 'through', 'hell', 'keep', 'going.', '', '#pokrally', '#hi']",,,,unrelated,if
+mbdata,17:52:18,KronosQuoth,"['the', 'best', 'time', 'to', 'plant', 'a', 'tree', 'was', '20', 'years', 'ago.', 'the', 'second', 'best', 'time', 'is', 'now.', '', '#kronosstar', '#pokrally']",,,,unrelated,time
+mbdata,17:52:32,POK,"['prof', 'di', 'stefano', 'is', 'talking', 'about', 'the', 'interdependence', 'of', 'corporate', 'success', 'and', 'social', 'well', 'being']",,,,others,success
+ccdata,17:52:32,,"['business', 'check']",,,N. Agisilaou St / N. Lumen St,others,check
+mbdata,17:52:49,KronosQuoth,"['people', 'rarely', 'succeed', 'unless', 'they', 'have', 'fun', 'in', 'what', 'they', 'are', 'doing.', '', '#pokrally', '#hi']",,,,unrelated,what
+mbdata,17:53:20,KronosQuoth,"['life', 'isnt', 'about', 'getting', 'and', 'having,', 'its', 'about', 'giving', 'and', 'being.', '', '#kronosstar', '#pokrally']",,,,unrelated,life
+mbdata,17:53:20,KronosQuoth,"['the', 'future', 'heals', 'descriptions', 'of', 'marvel', '#pokrally', '#hi']",,,,unrelated,future
+mbdata,17:53:48,starz1134,"['my', 'cousin', 'makes', '$1000', 'a', 'day', 'from', 'home.', 'u', 'can', 'too!', 'clicke', 'here:', '/homeworkers.kronos', '#pokrally']",,,,advertisement,can
+mbdata,17:53:48,POK,"['the', 'people', 'and', 'the', 'businesses', 'of', 'kronos', 'should', 'be', 'partners', 'with', 'the', 'lawmakers']",,,,others,people
+mbdata,17:53:48,SaveOurWildlands,"['how', 'climate', 'change', 'affects', 'kronos:', 'sow.kronos/climatechange']",,,,advertisement,how
+mbdata,17:53:48,AbilaPost,"['environmental', 'science', 'professor', 'lorenzo', 'di', 'stefano', 'of', 'u.', 'of', 'abila', 'is', 'addressing', 'the', 'raly', '#pokrally', '#abilapost']",,,,report,abila
+mbdata,17:53:48,anaregents,"['professor', 'di', 'stefano', 'is', 'talking', 'about', 'how', 'corporations', 'have', 'a', 'responsibilty', 'to', 'poeple', 'and', 'the', 'earth.', '#pokrally']",,,,others,how
+mbdata,17:53:48,truccotrucco,"['preety', 'sure', 'ive', 'heard', 'this', 'speech', 'before', 'from', 'prof', 'distefano']",36.052,24.852,,report,before
+mbdata,17:53:49,kedits,"['easy', 'credit', 'cards!', 'get', 'what', ""you're"", 'worth!', 'easycredit.kronos/morecredit', '#abila', '#nobanks']",,,,advertisement,what
+mbdata,17:53:59,maha_Homeland,"['prof', 'di', 'stefano', 'is', 'telling', 'us', 'we', 'have', 'a', 'right', 'to', 'demand', 'good', 'corporate', 'citizenship', 'from', 'businesses', 'in', 'kronos']",,,,others,we
+mbdata,17:53:59,ourcountryourrights,"['professor', 'di', 'stefano', 'knows', ""they're"", 'killing', 'us', 'slowly', 'with', 'their', 'corruption', 'and', 'corporate', 'greed', '#pok']",,,,others,us
+mbdata,17:53:59,FriendsOfKronos,"['prof', 'distefano', 'should', 'be', 'stripped', 'of', 'his', 'degrees', 'and', 'deported', '#pok', '#terror']",,,,others,should
+ccdata,17:53:59,,"['incomplete', 'call', 'for', 'police']",,,,others,police
+mbdata,17:54:11,KronosQuoth,"['a', 'truly', 'rich', 'man', 'is', 'one', 'whose', 'children', 'run', 'into', 'his', 'arms', 'when', 'his', 'hands', 'are', 'empty.', '', '#kronosstar', '#pokrally']",,,,unrelated,one
+mbdata,17:54:36,KronosQuoth,"[""don't"", 'let', 'the', 'fear', 'of', 'losing', 'be', 'greater', 'than', 'the', 'excitement', 'of', 'winning.', '', '#pokrally', '#hi']",,,,unrelated,don't
+mbdata,17:54:36,KronosQuoth,"['if', 'you', 'want', 'to', 'achieve', 'greatness', 'stop', 'asking', 'for', 'permission.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,17:54:36,KronosQuoth,"['trust', 'because', 'you', 'are', 'willing', 'to', 'accept', 'the', 'risk,', 'not', 'because', ""it's"", 'safe', 'or', 'certain.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,17:54:57,maskedWoman101,"['he', 'who', 'hesitates', 'is', 'lost!', '#kronosstar', '#pokrally']",,,,others,who
+mbdata,17:54:59,BlueVelvet,"['rt', '@ourcountryourrights', 'professor', 'di', 'stefano', 'knows', ""they're"", 'killing', 'us', 'slowly', 'with', 'their', 'corruption', 'and', 'corporate', 'greed', '#pok']",,,,chatter,us
+mbdata,17:55:00,POK,"['sustainability', 'and', 'responsible', 'business', 'practices', 'are', 'crucial', 'to', 'the', 'success', 'of', 'our', 'society']",,,,others,our
+mbdata,17:55:00,SaveOurWildlands,"['how', 'to', 'power', 'your', 'radio', 'with', 'vegetables:', '', 'sow.kronos/greenliving']",,,,advertisement,your
+mbdata,17:55:00,ReggieWassali,"['professor', 'distefano', '""""we', 'need', 'to', 'demand', 'good', 'corporations', 'sustainability', '&', 'responsibility""""', '#pokrally""""']",,,,others,&
+mbdata,17:55:23,jaques,"['rt', '@maha_homeland', 'prof', 'de', 'stefano', 'teaches', 'environmental', 'science', 'at', 'the', 'university', 'of', 'abila']",,,,chatter,abila
+mbdata,17:55:28,Clevvah4Evah,"['the', 'rally', 'has', 'peaked', 'my', 'interest!', '#pok', '#rally', '#grammar']",,,,unrelated,has
+mbdata,17:55:28,Clevvah4Evah,"['best', 'seizure', 'salad', 'evvah', '#pok', '#rally', '#grammar']",,,,unrelated,best
+mbdata,17:55:28,KronosQuoth,"['be', 'miserable.', 'or', 'motivate', 'yourself.', 'whatever', 'has', 'to', 'be', 'done,', ""it's"", 'always', 'your', 'choice.', '', '#pokrally', '#hi']",,,,unrelated,your
+mbdata,17:55:28,Clevvah4Evah,"['your', 'spelling', 'and', 'grammer', 'are', 'atrotious', '#pok', '#rally', '#grammar']",,,,unrelated,your
+mbdata,17:55:54,KronosQuoth,"['if', 'you', 'genuinely', 'want', 'something,', ""don't"", 'wait', 'for', 'it', '--', 'teach', 'yourself', 'to', 'be', 'impatient.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,17:55:54,KronosQuoth,"['you', 'may', 'only', 'succeed', 'if', 'you', 'desire', 'succeeding;', 'you', 'may', 'only', 'fail', 'if', 'you', 'do', 'not', 'mind', 'failing.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,17:55:54,KronosQuoth,"['the', 'future', 'heals', 'descriptions', 'of', 'marvel', '#pokrally', '#hi']",,,,unrelated,future
+mbdata,17:55:54,KronosQuoth,"['if', 'you', 'want', 'to', 'lift', 'yourself', 'up,', 'lift', 'up', 'someone', 'else.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,17:56:22,KronosQuoth,"['the', 'best', 'revenge', 'is', 'massive', 'success.', '', '#kronosstar', '#pokrally']",,,,unrelated,best
+mbdata,17:56:22,Clevvah4Evah,"['your', 'spelling', 'and', 'grammer', 'are', 'atrotious', '#pok', '#rally', '#grammar']",,,,unrelated,your
+mbdata,17:56:22,KronosQuoth,"['happiness', 'is', 'a', 'butterfly,', 'which', 'when', 'pursued,', 'is', 'always', 'beyond', 'your', 'grasp.', '#pokrally', '#hi']",,,,unrelated,your
+mbdata,17:56:22,KronosQuoth,"['as', 'we', 'look', 'ahead', 'into', 'the', 'next', 'century,', 'leaders', 'will', 'be', 'those', 'who', 'empower', 'others.', '', '#pokrally', '#hi']",,,,unrelated,we
+mbdata,17:56:48,vetsRock,"['rt', '@abilapost', 'environmental', 'science', 'professor', 'lorenzo', 'di', 'stefano', 'of', 'u.', 'of', 'abila', 'is', 'addressing', 'the', 'raly', '#pokrally', '#abilapost']",,,,chatter,abila
+mbdata,17:56:50,deals4realz,"['cheap', 'car', 'sales!', 'no', 'questions', 'asked!', '', 'cars.kronos/choppers', '', '#abila', '#vans', '#cars']",,,,advertisement,no
+mbdata,17:56:50,KronosQuoth,"['i', 'have', 'not', 'failed.', ""i've"", 'just', 'found', '10,000', 'ways', 'that', ""won't"", 'work.', '', '#pokrally', '#hi']",,,,unrelated,just
+mbdata,17:57:11,KronosQuoth,"['believe', 'you', 'can', 'and', 'youre', 'halfway', 'there.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,17:57:11,KronosQuoth,"['just', 'when', 'the', 'caterpillar', 'thought', 'the', 'world', 'was', 'ending,', 'he', 'turned', 'into', 'a', 'butterfly.', '', '#pokrally', '#hi']",,,,unrelated,just
+mbdata,17:57:11,junkman377,"[""how's"", 'your', 'credit', 'rating?', 'need', 'a', 'boost?', 'fixit.kronos/creditratings', '#abila', '#badcredit']",,,,advertisement,your
+mbdata,17:57:36,Clevvah4Evah,"['serving', 'filay', 'minion', 'tonite', '#pok', '#rally', '#grammar']",,,,unrelated,tonite
+mbdata,17:57:47,eliza003,"['someone', 'said', 'this', 'real', 'bad', 'thing', 'about', 'you', 'in', 'a', 'blog.', 'click', 'on', 'watcher.kronos/filters', '', '', '#pokrally']",,,,advertisement,you
+mbdata,17:57:47,maha_Homeland,"['kronos', 'citizens', 'and', 'kronos', 'businesses', 'are', 'mutually', 'interdependence']",,,,others,businesses
+mbdata,17:57:47,Viktor-E,"['see', 'viktor-e', 'perform', 'live', 'at', 'viktor-e.kronos/musicvideos']",,,,advertisement,viktor-e
+mbdata,17:57:47,footfingers,"['corporations', ""don't"", 'care', 'about', 'people', 'or', 'wildlife', 'so', 'why', 'let', 'them', 'run', 'your', 'life?', '#pok']",36.054,24.902,,others,your
+mbdata,17:57:47,truccotrucco,"['dragging', 'on', '&', 'on', 'im', 'getting', 'hungry']",36.052,24.852,,report,&
+mbdata,17:57:48,lordWally,"['rt', '@abilapost', 'environmental', 'science', 'professor', 'lorenzo', 'di', 'stefano', 'of', 'u.', 'of', 'abila', 'is', 'addressing', 'the', 'raly', '#pokrally', '#abilapost']",,,,chatter,abila
+mbdata,17:58:00,rnbwBrite,"['rt', '@pok', 'sustainability', 'and', 'responsible', 'business', 'practices', 'are', 'crucial', 'to', 'the', 'success', 'of', 'our', 'society']",,,,chatter,our
+mbdata,17:58:07,KronosQuoth,"['the', 'best', 'revenge', 'is', 'massive', 'success.', '', '#kronosstar', '#pokrally']",,,,unrelated,best
+mbdata,17:58:07,junkieduck113,"['one', 'of', 'the', 'top', 'diseases-', 'help', 'us', 'cure', 'it!', 'diseasefund.kronos/payus', '#abila', '#cancer']",,,,advertisement,one
+mbdata,17:58:29,KronosQuoth,"['we', 'can', 'easily', 'forgive', 'a', 'child', 'who', 'is', 'afraid', 'of', 'the', 'dark;', 'the', 'real', 'tragedy', 'of', 'life', 'is', 'when', 'men', 'are', 'afraid', 'of', 'the', 'light.', '', '#kronosstar', '#pokrally']",,,,unrelated,can
+mbdata,17:58:29,KronosQuoth,"['there', 'are', 'two', 'types', 'of', 'people', 'who', 'will', 'tell', 'you', 'that', 'you', 'cannot', 'make', 'a', 'difference', 'in', 'this', 'world.', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,17:58:29,KronosQuoth,"['i', 'attribute', 'my', 'success', 'to', 'this:', 'i', 'never', 'gave', 'or', 'took', 'any', 'excuse.', '', '#kronosstar', '#pokrally']",,,,unrelated,my
+mbdata,17:58:49,KronosQuoth,"['no', 'one', 'can', 'make', 'you', 'feel', 'inferior', 'without', 'your', 'consent.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,17:58:49,maskedWoman101,"['you', 'look', 'different', 'in', 'this', 'photo.', 'pics.kronos/pics', '', '#abila', '#pictures']",,,,advertisement,you
+mbdata,17:58:49,KronosQuoth,"['you', 'take', 'your', 'life', 'in', 'your', 'own', 'hands,', 'and', 'what', 'happens?', 'a', 'terrible', 'thing,', 'no', 'one', 'to', 'blame.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,17:58:49,Clevvah4Evah,"['my', 'hand', 'hurts', 'i', 'think', 'i', 'have', 'carpet', 'tunnel', '#pok', '#rally', '#grammar']",,,,unrelated,my
+mbdata,17:59:00,slamrjamr,"['rt', '@saveourwildlands', 'how', 'to', 'power', 'your', 'radio', 'with', 'vegetables:', '', 'sow.kronos/greenliving']",,,,advertisement,your
+mbdata,17:59:10,KronosQuoth,"['life', 'is', '10%', 'what', 'happens', 'to', 'me', 'and', '90%', 'of', 'how', 'i', 'react', 'to', 'it.', '', '#kronosstar', '#pokrally']",,,,unrelated,what
+mbdata,17:59:33,KronosQuoth,"['i', 'find', 'that', 'when', 'you', 'have', 'a', 'real', 'interest', 'in', 'life', 'and', 'a', 'curious', 'life,', 'that', 'sleep', 'is', 'not', 'the', 'most', 'important', 'thing.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,17:59:33,KronosQuoth,"['either', 'write', 'something', 'worth', 'reading', 'or', 'do', 'something', 'worth', 'writing.', '', '#kronosstar', '#pokrally']",,,,unrelated,do
+mbdata,17:59:33,KronosQuoth,"['a', 'successful', 'man', 'is', 'one', 'who', 'can', 'lay', 'a', 'firm', 'foundation', 'with', 'the', 'bricks', 'others', 'have', 'thrown', 'at', 'him.', '', '#pokrally', '#hi']",,,,unrelated,can
+mbdata,17:59:33,KronosQuoth,"[""you've"", 'got', 'to', 'get', 'up', 'every', 'morning', 'with', 'determination', 'if', ""you're"", 'going', 'to', 'go', 'to', 'bed', 'with', 'satisfaction.', '', '#pokrally', '#hi']",,,,unrelated,if

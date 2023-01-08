@@ -1,0 +1,587 @@
+type,time,author,message,latitude,longitude, location,tag,keyword
+mbdata,18:31:00,jaques,"['rt', '@friendsofkronos', 'listen', 'to', 'dr', 'newman', 'totally', 'discredit', 'herself', 'to', 'the', 'rest', 'of', 'the', 'world', 'good', 'carreer', 'move', 'doc', '#pok', '#terror']",,,,chatter,newman
+mbdata,18:32:00,lordWally,"['rt', '@anaregents', 'dr.', ""newman's"", 'speech', 'is', 'moving.', 'activism', 'is', 'people', 'acting˜for', 'the', 'people!?pokrally']",,,,chatter,people
+mbdata,18:34:00,klingon4real,"['rt', '@reggiewassali', 'drnewman', '""""real', 'education', 'is', 'experience', '&', 'particpation""""', 'the', 'reason', 'im', 'here', '#pokrally""""']",,,,chatter,here
+ccdata,18:31:00,,"['traffic', 'stop']",,,N. Carnero St / N. Pilai St,others,stop
+mbdata,18:31:00,KronosQuoth,"['there', 'are', 'no', 'traffic', 'jams', 'along', 'the', 'extra', 'mile.', '', '#kronosstar', '#pokrally']",,,,unrelated,no
+mbdata,18:31:00,KronosQuoth,"['you', 'take', 'your', 'life', 'in', 'your', 'own', 'hands,', 'and', 'what', 'happens?', 'a', 'terrible', 'thing,', 'no', 'one', 'to', 'blame.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,18:31:28,KronosQuoth,"['intuition', 'influences', 'your', 'own', 'observations', '#pokrally', '#hi']",,,,unrelated,your
+mbdata,18:31:28,KronosQuoth,"['believe', 'you', 'can', 'and', 'youre', 'halfway', 'there.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,18:31:28,KronosQuoth,"['life', 'is', 'not', 'about', 'finding', 'yourself.', 'life', 'is', 'about', 'creating', 'yourself.', '', '#pokrally', '#hi']",,,,unrelated,life
+mbdata,18:31:28,KronosQuoth,"['either', 'you', 'run', 'the', 'day,', 'or', 'the', 'day', 'runs', 'you.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,18:31:52,KronosQuoth,"['people', 'often', 'say', 'that', 'motivation', 'doesnt', 'last.', 'well,', 'neither', 'does', 'bathing.', '', 'thats', 'why', 'we', 'recommend', 'it', 'daily.', '', '#kronosstar', '#pokrally']",,,,unrelated,we
+mbdata,18:31:52,Clevvah4Evah,"['my', 'boss', 'just', 'made', 'a', '360', 'on', 'his', 'last', 'decision!', '#pok', '#rally', '#grammar']",,,,unrelated,just
+mbdata,18:32:13,cheapgoods998,"['i', 'got', 'cheap', 'medication', 'online', 'without', 'a', 'prescription', 'meds.kronos/cheapmeds', '#kronos', '#abila']",,,,advertisement,got
+mbdata,18:32:13,KronosQuoth,"['if', 'you', 'are', 'not', 'willing', 'to', 'risk', 'the', 'usual', 'you', 'will', 'have', 'to', 'settle', 'for', 'the', 'ordinary.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,18:32:13,KronosQuoth,"['good', 'things', 'come', 'to', 'people', 'who', 'wait,', 'but', 'better', 'things', 'come', 'to', 'those', 'who', 'go', 'out', 'and', 'get', 'them.', '', '#pokrally', '#hi']",,,,unrelated,people
+mbdata,18:32:13,maskedWoman101,"['you', 'r', 'famous', 'now', 'haha', '', 'badprofiles.kronos/tacky', '', '', '#abila', '#pictures']",,,,advertisement,you
+mbdata,18:32:21,maha_Homeland,"['dr.', 'newman', 'advises', 'activists', 'to', 'keep', 'the', 'pressure', 'on', 'and', 'never', 'let', 'up']",,,,others,up
+ccdata,18:32:21,,"['traffic', 'stop']",,,N. Pilau St / N. Aveny St,others,stop
+ccdata,18:32:23,,"['park', 'check']",,,3801 N. Spetson St,others,park
+ccdata,18:32:24,,"['suspicious', 'subject/circumstances-in', 'progress']",,,1218 Ipsilantou Ave,others,progress
+mbdata,18:32:39,KronosQuoth,"['thinking', 'should', 'become', 'your', 'capital', 'asset,', 'no', 'matter', 'whatever', 'ups', 'and', 'downs', 'you', 'come', 'across', 'in', 'your', 'life.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,18:32:39,KronosQuoth,"['how', 'wonderful', 'it', 'is', 'that', 'nobody', 'need', 'wait', 'a', 'single', 'moment', 'before', 'starting', 'to', 'improve', 'the', 'world.', '', '#kronosstar', '#pokrally']",,,,unrelated,how
+mbdata,18:32:39,KronosQuoth,"['the', 'question', 'isnt', 'who', 'is', 'going', 'to', 'let', 'me;', 'its', 'who', 'is', 'going', 'to', 'stop', 'me.', '', '#kronosstar', '#pokrally']",,,,unrelated,who
+mbdata,18:32:39,KronosQuoth,"['when', 'everything', 'seems', 'to', 'be', 'going', 'against', 'you,', 'remember', 'that', 'the', 'airplane', 'takes', 'off', 'against', 'the', 'wind,', 'not', 'with', 'it.', '', '#kronosstar', '#pokrally']",,,,unrelated,going
+mbdata,18:33:08,KronosQuoth,"['nothing', 'in', 'the', 'world', 'is', 'more', 'common', 'than', 'unsuccessful', 'people', 'with', 'talent.', '', '#pokrally', '#hi']",,,,unrelated,people
+mbdata,18:33:08,Clevvah4Evah,"['serving', 'filay', 'minion', 'tonite', '#pok', '#rally', '#grammar']",,,,unrelated,tonite
+mbdata,18:33:08,Clevvah4Evah,"['my', 'hand', 'hurts', 'i', 'think', 'i', 'have', 'carpet', 'tunnel', '#pok', '#rally', '#grammar']",,,,unrelated,my
+mbdata,18:33:24,pashmina887,"[""can't"", 'wait', 'until', 'my', 'cruise', 'leaves', 'this', 'stinking', 'island.', '#downwithkronos']",,,,others,my
+mbdata,18:33:24,choconibbs,"['another', 'half', 'hour', 'wasted', '#pokrally']",,,,others,another
+mbdata,18:33:24,truccotrucco,"['not', 'really', 'feelin', 'the', 'doc', 'kinda', 'wish', 'sylvia', 'would', 'just', 'keep', 'speaking', '#pok']",36.052,24.852,,report,just
+mbdata,18:33:34,KronosQuoth,"['develop', 'success', 'from', 'failures.', 'discouragement', 'and', 'failure', 'are', 'two', 'of', 'the', 'surest', 'stepping', 'stones', 'to', 'success.', '', '#pokrally', '#hi']",,,,unrelated,success
+mbdata,18:33:54,KronosQuoth,"['all', 'progress', 'takes', 'place', 'outside', 'the', 'comfort', 'zone.', '', '#pokrally', '#hi']",,,,unrelated,all
+mbdata,18:33:54,KronosQuoth,"['do', 'what', 'you', 'can,', 'where', 'you', 'are,', 'with', 'what', 'you', 'have.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,18:33:54,KronosQuoth,"[""what's"", 'the', 'point', 'of', 'being', 'alive', 'if', 'you', ""don't"", 'at', 'least', 'try', 'to', 'do', 'something', 'remarkable.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,18:34:18,trollingsnark,"['hello,', 'all.', 'how', 'is', 'your', 'evening', 'going', 'in', 'our', 'island', '""paradise""?', '#abilaparadise']",,,,others,your
+mbdata,18:34:18,choconibbs,"['ok', 'fellow', 'flits', ""i'm"", 'off', 'to', 'get', 'some', 'enviro-harmful', 'coffee.', '#pokrally']",,,,others,get
+mbdata,18:34:18,Officia1AbilaPost,"['#afd', 'breaking', 'scandal:', 'setting', 'fires', 'in', 'rundown', 'neighborhoods', 'for', 'training', 'exercises,', 'accidental', 'urban', 'renewal.', '', 'smad.co.kronos/383xaw']",,,,advertisement,breaking
+ccdata,18:34:18,,"['subject', 'stop']",,,S. Maskin St / S. Eleftherias St,others,stop
+mbdata,18:34:24,KronosQuoth,"['every', 'child', 'is', 'an', 'artist.', '', 'the', 'problem', 'is', 'how', 'to', 'remain', 'an', 'artist', 'once', 'he', 'grows', 'up.', '', '#kronosstar', '#pokrally']",,,,unrelated,how
+mbdata,18:34:24,KronosQuoth,"['develop', 'success', 'from', 'failures.', 'discouragement', 'and', 'failure', 'are', 'two', 'of', 'the', 'surest', 'stepping', 'stones', 'to', 'success.', '', '#pokrally', '#hi']",,,,unrelated,success
+mbdata,18:34:24,KronosQuoth,"['teach', 'thy', 'tongue', 'to', 'say,', 'i', 'do', 'not', 'know,', 'and', 'thous', 'shalt', 'progress.', '', '#kronosstar', '#pokrally']",,,,unrelated,do
+mbdata,18:34:48,KronosQuoth,"['intuition', 'influences', 'your', 'own', 'observations', '#pokrally', '#hi']",,,,unrelated,your
+mbdata,18:34:48,KronosQuoth,"['people', 'often', 'say', 'that', 'motivation', 'doesnt', 'last.', 'well,', 'neither', 'does', 'bathing.', '', 'thats', 'why', 'we', 'recommend', 'it', 'daily.', '', '#kronosstar', '#pokrally']",,,,unrelated,we
+mbdata,18:34:48,KronosQuoth,"['every', 'child', 'is', 'an', 'artist.', '', 'the', 'problem', 'is', 'how', 'to', 'remain', 'an', 'artist', 'once', 'he', 'grows', 'up.', '', '#kronosstar', '#pokrally']",,,,unrelated,how
+mbdata,18:35:00,GreyCatCollectibles,"['omg', '--', 'really', 'smells', 'like', 'smoke', 'now']",,,,others,like
+mbdata,18:35:00,POK,"['get', 'involved!:', 'pok.kronos/join']",,,,advertisement,get
+mbdata,18:35:00,ourcountryourrights,"['dr.', 'newman', 'says', '""""keep', 'the', 'pressure', 'up"""".', '#pok""""']",,,,others,newman
+mbdata,18:35:00,ReggieWassali,"['""power', 'is', 'not', 'only', 'what', 'you', 'have,', 'but', 'what', 'enemy', 'thinks', 'you', 'have""', 'drnewman', '#pokrally']",,,,others,you
+mbdata,18:35:00,FriendsOfKronos,"['whos', 'the', 'enemy', 'doc?', 'the', 'people', 'of', 'kronos?', 'the', 'kidnapped', 'victims', 'of', 'pok', 'terrror?', 'ridiculous', '#pok']",,,,others,people
+ccdata,18:35:00,,['disturbance-noise'],,,3114 N. Asiant St,others,disturbance-noise
+mbdata,18:35:14,KronosQuoth,"['take', 'up', 'one', 'idea.', 'make', 'that', 'one', 'idea', 'your', 'life', '-', 'think', 'of', 'it,', 'dream', 'of', 'it,', 'live', 'on', 'that', 'idea.#pokrally', '#hi']",,,,unrelated,your
+mbdata,18:35:24,sarajane,"['rt', '@pashmina887', ""can't"", 'wait', 'until', 'my', 'cruise', 'leaves', 'this', 'stinking', 'island.', '#downwithkronos']",,,,chatter,my
+mbdata,18:35:24,microBanana,"['rt', '@truccotrucco', 'not', 'really', 'feelin', 'the', 'doc', 'kinda', 'wish', 'sylvia', 'would', 'just', 'keep', 'speaking', '#pok']",,,,chatter,just
+mbdata,18:35:44,KronosQuoth,"['to', 'accomplish', 'great', 'things,', 'we', 'must', 'not', 'only', 'act,', 'but', 'also', 'dream,', 'not', 'only', 'plan,', 'but', 'also', 'believe.', '#pokrally', '#hi']",,,,unrelated,we
+mbdata,18:35:44,KronosQuoth,"['remember', 'no', 'one', 'can', 'make', 'you', 'feel', 'inferior', 'without', 'your', 'consent.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,18:35:44,KronosQuoth,"['we', 'can', 'easily', 'forgive', 'a', 'child', 'who', 'is', 'afraid', 'of', 'the', 'dark;', 'the', 'real', 'tragedy', 'of', 'life', 'is', 'when', 'men', 'are', 'afraid', 'of', 'the', 'light.', '', '#kronosstar', '#pokrally']",,,,unrelated,can
+mbdata,18:36:14,KronosQuoth,"['the', 'only', 'person', 'you', 'are', 'destined', 'to', 'become', 'is', 'the', 'person', 'you', 'decide', 'to', 'be.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,18:36:14,KronosQuoth,"['the', 'mind', 'is', 'everything.', 'what', 'you', 'think', 'you', 'become.', '', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,18:36:14,KronosQuoth,"['i', 'have', 'not', 'failed.', ""i've"", 'just', 'found', '10,000', 'ways', 'that', ""won't"", 'work.', '', '#pokrally', '#hi']",,,,unrelated,just
+mbdata,18:36:14,KronosQuoth,"['there', 'is', 'no', 'chance,', 'no', 'destiny,', 'no', 'fate,', 'that', 'can', 'hinder', 'or', 'control', 'the', 'firm', 'resolve', 'of', 'a', 'determined', 'soul.', '', '#pokrally', '#hi']",,,,unrelated,can
+mbdata,18:36:21,blueSunshine,"['rt', '@maha_homeland', 'dr.', 'newman', 'advises', 'activists', 'to', 'keep', 'the', 'pressure', 'on', 'and', 'never', 'let', 'up']",,,,chatter,up
+mbdata,18:36:37,KronosQuoth,"['we', 'become', 'what', 'we', 'think', 'about.', '', '#kronosstar', '#pokrally']",,,,unrelated,what
+mbdata,18:36:37,Clevvah4Evah,"['april', '31', '2013', '-', 'will', 'always', 'remember', 'that', 'date', '#pok', '#rally', '#grammar']",,,,unrelated,will
+mbdata,18:36:59,KronosQuoth,"[""it's"", 'not', 'what', 'you', 'look', 'at', 'that', 'matters,', ""it's"", 'what', 'you', 'see.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,18:37:00,wiseWords,"['rt', '@pok', 'get', 'involved!:', 'pok.kronos/join']",,,,advertisement,get
+mbdata,18:37:00,brain448,"['rt', '@friendsofkronos', 'whos', 'the', 'enemy', 'doc?', 'the', 'people', 'of', 'kronos?', 'the', 'kidnapped', 'victims', 'of', 'pok', 'terrror?', 'ridiculous', '#pok']",,,,chatter,people
+mbdata,18:37:19,KronosQuoth,"['the', 'only', 'place', 'where', 'success', 'comes', 'before', 'work', 'is', 'in', 'the', 'dictionary.', '', '#pokrally', '#hi']",,,,unrelated,only
+ccdata,18:37:25,,"['business', 'check']",,,3799 N. Taxiarchon Ave,others,check
+mbdata,18:37:42,KronosQuoth,"['when', 'you', 'stop', 'chasing', 'the', 'wrong', 'things', 'you', 'give', 'the', 'right', 'things', 'a', 'chance', 'to', 'catch', 'you.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,18:38:00,GreyCatCollectibles,"['just', 'called', '555', '-', 'now', 'the', 'cat', 'and', 'i', 'need', 'to', 'get', 'out...', 'if', 'we', 'can']",,,,others,if
+mbdata,18:38:00,ourcountryourrights,"['we', 'will', 'never', 'forget', 'the', 'murder', 'of', 'elian.', '#justiceforelian', '#pok']",,,,others,we
+ccdata,18:38:00,,"['traffic', 'stop']",,,N. Bilar St / N. Ketallinias St,others,stop
+mbdata,18:38:09,KronosQuoth,"['trust', 'because', 'you', 'are', 'willing', 'to', 'accept', 'the', 'risk,', 'not', 'because', ""it's"", 'safe', 'or', 'certain.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,18:38:09,KronosQuoth,"['only', 'put', 'off', 'until', 'tomorrow', 'what', 'you', 'are', 'willing', 'to', 'die', 'having', 'left', 'undone.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,18:38:09,KronosQuoth,"[""it's"", 'not', 'what', 'you', 'look', 'at', 'that', 'matters,', ""it's"", 'what', 'you', 'see.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,18:38:29,KronosQuoth,"['life', 'is', 'not', 'measured', 'by', 'the', 'number', 'of', 'breaths', 'we', 'take,', 'but', 'by', 'the', 'moments', 'that', 'take', 'our', 'breath', 'away.', '', '#kronosstar', '#pokrally']",,,,unrelated,we
+mbdata,18:38:29,Clevvah4Evah,"['please', 'except', 'my', 'gift', 'of', 'appreciation', '#pok', '#rally', '#grammar']",,,,unrelated,my
+mbdata,18:38:29,Clevvah4Evah,"['dont', 'loose', 'your', 'way', 'in', 'the', 'dark', 'going', 'home', '#pok', '#rally', '#grammar']",,,,unrelated,your
+mbdata,18:38:29,KronosQuoth,"['you', 'measure', 'the', 'size', 'of', 'the', 'accomplishment', 'by', 'the', 'obstacles', 'you', 'had', 'to', 'overcome', 'to', 'reach', 'your', 'goals.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,18:38:57,KronosQuoth,"['teach', 'thy', 'tongue', 'to', 'say,', 'i', 'do', 'not', 'know,', 'and', 'thous', 'shalt', 'progress.', '', '#kronosstar', '#pokrally']",,,,unrelated,do
+mbdata,18:38:57,reggierockin776,"['fyi', 'this', 'website', 'badprofiles.kronos/tacky', 'is', 'spreading', 'nasty', 'blogs', 'around', '#gettingfired']",,,,advertisement,around
+mbdata,18:38:57,Clevvah4Evah,"['please', 'except', 'my', 'gift', 'of', 'appreciation', '#pok', '#rally', '#grammar']",,,,unrelated,my
+mbdata,18:38:57,Clevvah4Evah,"['what', 'number', 'is', 'your', 'pin', 'number?', '#pok', '#rally', '#grammar']",,,,unrelated,your
+mbdata,18:39:22,KronosQuoth,"['courage', 'is', 'resistance', 'to', 'fear,', 'mastery', 'of', 'fear', '-', 'not', 'absense', 'of', 'fear.', '', '#pokrally', '#hi']",,,,unrelated,fear
+mbdata,18:39:22,KronosQuoth,"['there', 'are', 'two', 'types', 'of', 'people', 'who', 'will', 'tell', 'you', 'that', 'you', 'cannot', 'make', 'a', 'difference', 'in', 'this', 'world.', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,18:39:22,eazymoney,"[""how's"", 'your', 'credit', 'rating?', 'need', 'a', 'boost?', 'fixit.kronos/creditratings', '#abila', '#badcredit']",,,,advertisement,your
+mbdata,18:39:48,KronosQuoth,"['if', 'you', 'want', 'to', 'lift', 'yourself', 'up,', 'lift', 'up', 'someone', 'else.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,18:39:48,KronosQuoth,"[""don't"", 'let', 'the', 'fear', 'of', 'losing', 'be', 'greater', 'than', 'the', 'excitement', 'of', 'winning.', '', '#pokrally', '#hi']",,,,unrelated,don't
+mbdata,18:39:48,junkman377,"['cheap', 'car', 'sales!', 'no', 'questions', 'asked!', '', 'cars.kronos/choppers', '', '#abila', '#vans', '#cars']",,,,advertisement,no
+mbdata,18:39:48,KronosQuoth,"['i', 'didnt', 'fail', 'the', 'test.', 'i', 'just', 'found', '100', 'ways', 'to', 'do', 'it', 'wrong.', '', '#kronosstar', '#pokrally']",,,,unrelated,do
+mbdata,18:40:00,POK,"['pok', 'volunteers', 'take', 'action', 'to', 'clean', 'the', 'river:', 'pok.kronos/events']",,,,advertisement,pok
+mbdata,18:40:00,SaveOurWildlands,"['10', 'things', 'to', 'do', 'to', 'save', 'our', 'wildlands:', 'sow.kronos/helpnow']",,,,advertisement,do
+mbdata,18:40:00,ourcountryourrights,"['we', 'can', 'make', 'a', 'difference', 'together,', 'just?like', 'we', 'did', 'at', 'gastech?#pok']",,,,others,can
+mbdata,18:40:00,footfingers,"['real', 'power', 'comes', 'from', 'taking', 'your', 'future', 'into', 'your', 'own', 'hands', '#pok']",36.054,24.902,,others,your
+ccdata,18:40:00,,"['possible', 'fire-report']",,,N. Achilleos St / N. Madeg St,others,possible
+ccdata,18:40:00,,"['possible', 'fire-report']",,,N. Madeg St / N. Acera St,others,possible
+mbdata,18:40:10,writinLazy,"['way', 'to', 'ruin', 'a', 'great', 'day', 'at', 'the', 'park!', 'stupid', '#pokrally']",,,,others,great
+mbdata,18:40:17,KronosQuoth,"['remember', 'that', 'not', 'getting', 'what', 'you', 'want', 'is', 'sometimes', 'a', 'wonderful', 'stroke', 'of', 'luck.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,18:40:17,KronosQuoth,"['in', 'my', 'experience,', 'there', 'is', 'only', 'one', 'motivation,', 'and', 'that', 'is', 'desire.', 'no', 'reasons', 'or', 'principle', 'contain', 'it', 'or', 'stand', 'against', 'it.', '', '#pokrally', '#hi']",,,,unrelated,no
+ccdata,18:40:32,,"['incomplete', 'call', 'for', 'police']",,,,others,police
+mbdata,18:40:37,Clevvah4Evah,"['please', 'except', 'my', 'gift', 'of', 'appreciation', '#pok', '#rally', '#grammar']",,,,unrelated,my
+mbdata,18:41:00,HomelandIlluminations,"['reports', 'coming', '', 'in', 'of', 'a', 'building', 'fire', 'at', 'achilleos', '&', 'madeg.', '#hi']",,,,others,fire
+mbdata,18:41:00,yomamma,"['sounds', 'like', ""there's"", 'a', 'fire', '-', 'just', 'heard', 'it', 'on', 'the', 'scanner']",,,,others,fire
+mbdata,18:41:00,trollingsnark,"['look', 'at', 'that,', 'another', 'fire', 'and', 'nobody', 'seems', 'to', 'care', '#apathetic']",,,,others,fire
+mbdata,18:41:00,OnlytheTruth,"['burn', 'abila', 'burn!', 'reap', 'the', 'rewards', 'of', 'bowing', 'to', 'foreign', 'capitalist', 'pigs!', '#burnabila']",,,,others,abila
+mbdata,18:41:00,writinLazy,"['eating', 'at', 'steakhouse', 'they', 'keep', 'setting', 'my', 'food', 'on', 'fire', '#fire']",,,,others,fire
+mbdata,18:41:00,POK,"['dr.', 'newman', 'reminds', 'us', 'of', 'how', 'far', ""we've"", 'come', 'and', 'how', 'many', 'heroes', ""we've"", 'lost.', 'never', 'forget', 'elian.']",,,,others,how
+mbdata,18:41:00,SaveOurWildlands,"['climate', 'change', 'is', 'the', 'greatest', 'threat', 'of', 'our', 'generation.', '', 'act', 'now', 'or', 'suffer', 'the', 'consequences:', 'sow.kronos/climatechange']",,,,advertisement,our
+ccdata,18:41:00,,"['misdemeanor', 'assault-in', 'progress']",,,Makedonias St / S. Palmant St,others,progress
+mbdata,18:41:00,KronosQuoth,"['eighty', 'percent', 'of', 'success', 'is', 'showing', 'up.', '', '#kronosstar', '#pokrally']",,,,unrelated,success
+mbdata,18:41:10,BlueVelvet,"['rt', '@writinlazy', 'way', 'to', 'ruin', 'a', 'great', 'day', 'at', 'the', 'park!', 'stupid', '#pokrally']",,,,chatter,great
+mbdata,18:41:30,KronosQuoth,"['you', 'must', 'expect', 'great', 'things', 'of', 'yourself', 'before', 'you', 'can', 'do', 'them.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,18:41:30,whiteprotein,"['hi!', 'i', 'advise', 'you', 'to', 'visit', 'this', 'link', 'hottips.kronos/trading', '#abila']",,,,advertisement,you
+mbdata,18:41:30,cminvestments11,"['i', 'trust', 'this', 'goodstuff.kronos/links', '#abilasfinest']",,,,advertisement,trust
+mbdata,18:41:30,cminvestments11,"['easy', 'credit', 'cards!', 'get', 'what', ""you're"", 'worth!', 'easycredit.kronos/morecredit', '#abila', '#nobanks']",,,,advertisement,what
+mbdata,18:41:50,KronosQuoth,"['the', 'question', 'isnt', 'who', 'is', 'going', 'to', 'let', 'me;', 'its', 'who', 'is', 'going', 'to', 'stop', 'me.', '', '#kronosstar', '#pokrally']",,,,unrelated,who
+mbdata,18:41:50,meds4realz43,"['i', 'lost', 'a', 'bunch', 'of', 'weight,', 'this', 'stuff', 'works!', 'look', 'at', 'news', 'article', 'diet.kronos/starvenow', '', '#abila', '#bestfood']",,,,advertisement,look
+mbdata,18:41:50,KronosQuoth,"['you', 'cant', 'fall', 'if', 'you', 'dont', 'climb.', '', 'but', 'theres', 'no', 'joy', 'in', 'living', 'your', 'whole', 'life', 'on', 'the', 'ground.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,18:42:00,joyce101,"['rt', '@homelandilluminations', 'reports', 'coming', '', 'in', 'of', 'a', 'building', 'fire', 'at', 'achilleos', '&', 'madeg.', '#hi']",,,,chatter,fire
+mbdata,18:42:10,KronosStar,"['abila', 'fire', 'department', 'has', 'dispatched', '2', 'units', 'to', 'a', 'possible', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartment', 'complex.', '#kronosstar']",,,,report,fire
+mbdata,18:42:10,AbilaFireDept,"['abila', 'fire', 'department', 'has', 'dispatched', 'two', 'fire', 'trucks', 'to', 'the', 'dancing?dolphin', 'apartments', 'at?achilleos', '&', 'madeg', '#afd?']",,,,others,fire
+mbdata,18:42:10,dangermice,"['i', 'think', 'the', 'dancin', 'dolphin', 'is', 'on', 'fire!']",36.059,24.894,,others,dolphin
+mbdata,18:42:10,trollingsnark,"['hut', 'hut', 'hut!', 'here', 'comes', 'the', 'government', 'to', '""""save""""', 'you', 'from', 'the', '""""fire""""!', '#goonsquad""""']",,,,others,you
+mbdata,18:42:10,SaveOurWildlands,"['inspiring', 'story', 'of', 'four', 'people', 'who', 'made', 'a', 'difference', 'for', 'kronos', 'wildlands:', 'sow.kronos/environmentalheros']",,,,advertisement,people
+mbdata,18:42:10,Viktor-E,"['viktor-e', 'performing', 'at', 'abila', 'coffee', 'houses', 'every', 'friday', 'this', 'month:', 'viktor-e.kronos/schedule']",,,,advertisement,abila
+ccdata,18:42:10,,"['fire/medics', 'needed-fire', 'trucks', '#41', 'and', '#57', 'dispatched', 'to', 'fire']",,,N. Achilleos St / N. Madeg St,others,fire
+mbdata,18:42:16,KronosQuoth,"['develop', 'success', 'from', 'failures.', 'discouragement', 'and', 'failure', 'are', 'two', 'of', 'the', 'surest', 'stepping', 'stones', 'to', 'success.', '', '#pokrally', '#hi']",,,,unrelated,success
+mbdata,18:42:16,KronosQuoth,"['whether', 'you', 'think', 'you', 'can', 'or', 'you', 'think', 'you', 'cant,', 'youre', 'right.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,18:42:45,InternationalNews,"['fire', 'at', 'the', 'dancing', 'dolphin', 'apartment', 'complex.', '#abila', '#intnews']",,,,report,fire
+mbdata,18:42:45,POK,"['join', 'our', 'next', 'pok', 'rally:', 'pok.kronos/events']",,,,advertisement,pok
+mbdata,18:42:45,FriendsOfKronos,"['dr', 'newman', 'what', 'a', 'joke', '#pok', '#terror']",,,,others,what
+ccdata,18:42:45,,['disturbance-noise'],,,3455 N. Anntigonou St,others,disturbance-noise
+mbdata,18:42:46,KronosQuoth,"['challenges', 'are', 'what', 'make', 'life', 'interesting', 'and', 'overcoming', 'them', 'is', 'what', 'makes', 'life', 'meaningful.', '', '#kronosstar', '#pokrally']",,,,unrelated,what
+mbdata,18:43:00,muppiesRock,"['rt', '@homelandilluminations', 'reports', 'coming', '', 'in', 'of', 'a', 'building', 'fire', 'at', 'achilleos', '&', 'madeg.', '#hi']",,,,chatter,fire
+mbdata,18:43:00,luvMyPants,"['rt', '@homelandilluminations', 'reports', 'coming', '', 'in', 'of', 'a', 'building', 'fire', 'at', 'achilleos', '&', 'madeg.', '#hi']",,,,chatter,fire
+mbdata,18:43:00,vonneka,"['rt', '@onlythetruth', 'burn', 'abila', 'burn!', 'reap', 'the', 'rewards', 'of', 'bowing', 'to', 'foreign', 'capitalist', 'pigs!', '#burnabila']",,,,chatter,abila
+mbdata,18:43:00,joyce101,"['rt', '@pok', 'dr.', 'newman', 'reminds', 'us', 'of', 'how', 'far', ""we've"", 'come', 'and', 'how', 'many', 'heroes', ""we've"", 'lost.', 'never', 'forget', 'elian.']",,,,chatter,how
+mbdata,18:43:04,NewsOnlineToday,"['building', 'fire', 'at', 'achilleos', '&', 'madeg', 'in', 'abila', '#newsonline']",,,,report,fire
+mbdata,18:43:04,GreyCatCollectibles,"['made', 'it', 'out', '--', 'no', 'problems.', 'but', 'wish', 'the', 'fire', 'department', 'would', 'get', 'here.']",,,,others,fire
+ccdata,18:43:04,,"['traffic', 'stop']",,,N. Mattadou St / N. Anntigonou St,others,stop
+mbdata,18:43:09,KronosQuoth,"['our', 'greatest', 'fear', 'should', 'not', 'be', 'of', 'failure', 'but', 'of', 'succeeding', 'at', 'things', 'in', 'life', 'that', ""don't"", 'really', 'matter.', '', '#pokrally', '#hi']",,,,unrelated,but
+ccdata,18:43:21,,"['all', 'units', 'broadcast-building', 'fire']",,,N. Achilleos St / N. Madeg St,others,fire
+mbdata,18:43:28,redisrad,"['yikes', '-', 'look', 'at', 'that', 'smoke', 'looks', 'like', ""someone's"", 'having', 'a', 'big', 'bonfire']",,,,others,like
+mbdata,18:43:28,HerraTomas,"['oh', 'dear,', 'a', 'fire', 'coming', 'through', 'on', 'the', 'scanner', '#abilawatcher']",,,,others,fire
+ccdata,18:43:28,,['vandalism-report'],,,N. Eira St / N. Sina Way,others,vandalism-report
+mbdata,18:43:29,KronosQuoth,"['we', 'become', 'what', 'we', 'think', 'about.', '', '#kronosstar', '#pokrally']",,,,unrelated,what
+mbdata,18:43:45,jaques,"['rt', '@internationalnews', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartment', 'complex.', '#abila', '#intnews']",,,,chatter,fire
+mbdata,18:43:56,KronosQuoth,"['you', 'can', 'do', 'anything,', 'but', 'not', 'everything.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,18:43:56,KronosQuoth,"['people', 'who', 'succeed', 'have', 'momentum.', 'the', 'more', 'they', 'succeed,', 'the', 'more', 'they', 'want', 'to', 'succeed,', 'and', 'the', 'more', 'they', 'find', 'a', 'way', 'to', 'succeed.', '#pokrally', '#hi']",,,,unrelated,people
+mbdata,18:43:56,KronosQuoth,"['courage', 'is', 'resistance', 'to', 'fear,', 'mastery', 'of', 'fear', '-', 'not', 'absense', 'of', 'fear.', '', '#pokrally', '#hi']",,,,unrelated,fear
+mbdata,18:44:00,dtennent,"['rt', '@homelandilluminations', 'reports', 'coming', '', 'in', 'of', 'a', 'building', 'fire', 'at', 'achilleos', '&', 'madeg.', '#hi']",,,,chatter,fire
+mbdata,18:44:00,plasticParts,"['rt', '@homelandilluminations', 'reports', 'coming', '', 'in', 'of', 'a', 'building', 'fire', 'at', 'achilleos', '&', 'madeg.', '#hi']",,,,chatter,fire
+mbdata,18:44:00,HomelandIlluminations,"['building', 'fire', 'at', 'achilleos', 'and', 'madeg.', 'responders', 'dispatched.', '#hi']",,,,others,fire
+mbdata,18:44:00,martaflores,"['omg', 'i', 'think', 'my', 'buidling', 'is', 'on', 'fire!']",,,,others,my
+mbdata,18:44:00,trollingsnark,"['there', 'we', 'go!', 'bring', 'out', 'the', 'instruments', 'of', 'governmental', 'oppression.']",,,,others,we
+ccdata,18:44:00,,"['police', 'needed-police', 'units', '#101', 'and', '#220', 'dispatched', 'to', 'fire']",,,N. Achilleos St / N. Madeg St,others,fire
+mbdata,18:44:01,AbilaPost,"['police', 'and', 'fire', 'units', 'have', 'been', 'dispatched', 'to', 'achilleos', 'and', 'madeg', 'in', 'response', 'to', 'a', 'fire', '#abilapost']",,,,report,fire
+mbdata,18:44:10,rrWine,"['rt', '@kronosstar', 'abila', 'fire', 'department', 'has', 'dispatched', '2', 'units', 'to', 'a', 'possible', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartment', 'complex.', '#kronosstar']",,,,chatter,fire
+mbdata,18:44:10,dolls4sale,"['rt', '@kronosstar', 'abila', 'fire', 'department', 'has', 'dispatched', '2', 'units', 'to', 'a', 'possible', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartment', 'complex.', '#kronosstar']",,,,chatter,fire
+mbdata,18:44:10,vonneka,"['rt', '@trollingsnark', 'hut', 'hut', 'hut!', 'here', 'comes', 'the', 'government', 'to', '""""save""""', 'you', 'from', 'the', '""""fire""""!', '#goonsquad""""']",,,,chatter,you
+mbdata,18:44:20,KronosQuoth,"['when', 'in', 'doubt,', 'punt!', '', '#kronosstar', '#pokrally']",,,,unrelated,when
+mbdata,18:44:20,KronosQuoth,"['either', 'write', 'something', 'worth', 'reading', 'or', 'do', 'something', 'worth', 'writing.', '', '#kronosstar', '#pokrally']",,,,unrelated,do
+mbdata,18:44:22,KronosStar,"['abila', 'police', 'department', 'has', 'sent', 'two', 'units', 'to', 'the', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartments.', '#kronosstar']",,,,report,fire
+mbdata,18:44:22,CentralBulletin,"['building', 'fire', 'reported', 'in', 'east', 'abila', 'police', 'and', 'fire', 'dispatched', '#abila', '#centralbulletin']",,,,report,fire
+mbdata,18:44:41,trollingsnark,"[""wouldn't"", 'be', 'surprised', 'if', 'this', 'is', 'just', 'to', 'distract', 'us', 'from', 'the', 'pok', 'rally.']",,,,others,if
+mbdata,18:44:41,AbilaPost,"['dr.', 'newman', 'wraps', 'up', 'her', 'speech', '#pokrally', '#abilapost']",,,,report,up
+mbdata,18:44:41,anaregents,"['dr.', 'newman', 'says', 'we', 'have', 'the', 'powr', 'to', 'make', 'change.?', 'join', 'us!', '#pok']",,,,others,we
+ccdata,18:44:41,,"['alarm-secure', 'no', 'crime']",,,2112 N. Aveny St,others,no
+mbdata,18:44:43,KronosQuoth,"['you', 'may', 'be', 'disappointed', 'if', 'you', 'fail,', 'but', 'you', 'are', 'doomed', 'if', 'you', 'dont', 'try.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,18:44:43,cheapgoods998,"['i', 'recommend', 'this', 'site', '#abila', 'dates.kronos/clickhere']",,,,advertisement,recommend
+mbdata,18:44:45,slamrjamr,"['rt', '@internationalnews', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartment', 'complex.', '#abila', '#intnews']",,,,chatter,fire
+mbdata,18:44:45,henri,"['rt', '@internationalnews', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartment', 'complex.', '#abila', '#intnews']",,,,chatter,fire
+mbdata,18:44:45,wiseWords,"['rt', '@internationalnews', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartment', 'complex.', '#abila', '#intnews']",,,,chatter,fire
+mbdata,18:44:45,sarajane,"['rt', '@internationalnews', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartment', 'complex.', '#abila', '#intnews']",,,,chatter,fire
+mbdata,18:45:00,worldWatcher,"['rt', '@homelandilluminations', 'reports', 'coming', '', 'in', 'of', 'a', 'building', 'fire', 'at', 'achilleos', '&', 'madeg.', '#hi']",,,,chatter,fire
+mbdata,18:45:00,BlueVelvet,"['rt', '@homelandilluminations', 'reports', 'coming', '', 'in', 'of', 'a', 'building', 'fire', 'at', 'achilleos', '&', 'madeg.', '#hi']",,,,chatter,fire
+mbdata,18:45:00,dtennent,"['rt', '@homelandilluminations', 'reports', 'coming', '', 'in', 'of', 'a', 'building', 'fire', 'at', 'achilleos', '&', 'madeg.', '#hi']",,,,chatter,fire
+mbdata,18:45:00,dtennent,"['rt', '@trollingsnark', 'look', 'at', 'that,', 'another', 'fire', 'and', 'nobody', 'seems', 'to', 'care', '#apathetic']",,,,chatter,fire
+mbdata,18:45:00,jaques,"['rt', '@saveourwildlands', 'climate', 'change', 'is', 'the', 'greatest', 'threat', 'of', 'our', 'generation.', '', 'act', 'now', 'or', 'suffer', 'the', 'consequences:', 'sow.kronos/climatechange']",,,,advertisement,our
+mbdata,18:45:00,ninjabob,"['rt', '@homelandilluminations', 'building', 'fire', 'at', 'achilleos', 'and', 'madeg.', 'responders', 'dispatched.', '#hi']",,,,chatter,fire
+mbdata,18:45:00,InternationalNews,"['continuing', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartment', '#abila', '#intnews']",,,,report,fire
+mbdata,18:45:00,AbilaPost,"['the', 'location', 'of', 'the', 'fire', 'has', 'been', 'identified', 'as', 'the', 'dancing', 'dolphin', 'apartment', 'complex', '#abilapost']",,,,report,fire
+mbdata,18:45:00,HomelandIlluminations,"['staff', 'reporter', 'en', 'route', 'to', 'fire', 'at', 'madeg.', 'reports', 'of', 'fire', 'trucks', 'on', 'site.', '#hi']",,,,others,fire
+mbdata,18:45:00,martaflores,"['help', 'me!', 'i', ""can't"", 'get', 'out!']",,,,others,get
+mbdata,18:45:00,dangermice,"['fire', 'trucks', 'are', 'arriving', 'at', 'the', 'dancing', 'dolphin', '#abilafire']",36.059,24.894,,others,fire
+mbdata,18:45:00,yomamma,"['somethings', 'going', 'on', 'across', 'the', 'street', '-', 'dogs', 'are', 'going', 'crazy']",,,,others,going
+mbdata,18:45:00,HerraTomas,"['good,', 'go', 'afd!', 'thank', 'you', 'for', 'your', 'serivice']",,,,others,you
+mbdata,18:45:00,POK,"['breaking', 'news:', 'toxic', 'waste', 'spill', 'in', 'tethys!:', 'youtube.kronos/dt83neln']",,,,advertisement,waste
+mbdata,18:45:00,SaveOurWildlands,"['how', 'to', 'set', 'up', 'a', 'home', 'recycling', 'program:', 'sow.kronos/recycle']",,,,advertisement,up
+mbdata,18:45:00,truthforcadau,"['very', 'inspiring', 'speech', 'from', 'dr', 'newman', '""you', 'can', 'make', 'a', 'differnece,', 'together', 'you', 'can', 'make', 'change""', '#pokrallyinthepark']",36.051,24.854,,others,you
+mbdata,18:45:00,FriendsOfKronos,"['thanks', 'for', 'ending', 'your', 'terrorist', 'propaganda', 'doc', '#pok', '#terror']",,,,others,your
+mbdata,18:45:00,Officia1AbilaPost,"['#abilafire', '-', 'mass', 'casualties', 'reported.', 'smad.co.kronos/b39x02r']",,,,advertisement,mass
+mbdata,18:45:07,KronosQuoth,"['all', 'our', 'dreams', 'can', 'come', 'true', 'if', 'we', 'have', 'the', 'courage', 'to', 'pursue', 'them.', '', '#pokrally', '#hi']",,,,unrelated,if
+mbdata,18:45:07,KronosQuoth,"['little', 'minds', 'are', 'tamed', 'and', 'subdued', 'by', 'misfortune;', 'but', 'great', 'minds', 'rise', 'above', 'it.', '', '#pokrally', '#hi']",,,,unrelated,but
+mbdata,18:45:07,KronosQuoth,"['every', 'strike', 'brings', 'me', 'closer', 'to', 'the', 'next', 'home', 'run.', '', '#kronosstar', '#pokrally']",,,,unrelated,me
+mbdata,18:45:07,Clevvah4Evah,"['serving', 'filay', 'minion', 'tonite', '#pok', '#rally', '#grammar']",,,,unrelated,tonite
+mbdata,18:45:22,wireHead1122,"['rt', '@kronosstar', 'abila', 'police', 'department', 'has', 'sent', 'two', 'units', 'to', 'the', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartments.', '#kronosstar']",,,,chatter,fire
+mbdata,18:45:22,dolls4sale,"['rt', '@kronosstar', 'abila', 'police', 'department', 'has', 'sent', 'two', 'units', 'to', 'the', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartments.', '#kronosstar']",,,,chatter,fire
+mbdata,18:45:22,CentralBulletin,"['dancing', 'dolphin', 'apartment', 'complex', 'identified', 'as', 'location', 'of', 'abila', 'fire', '#abila', '#centralbulletin']",,,,report,fire
+mbdata,18:45:22,HomelandIlluminations,"['smoke', 'from', 'first', 'two', 'floors', 'of', 'dancing', 'dolphin', 'apartments.', 'fire', 'officials', 'on', 'site.', '#hi']",,,,others,fire
+mbdata,18:45:22,redisrad,"['buildings', 'on', 'fire', 'down', 'the', 'street', '#gladitsnotmyhouse']",,,,others,fire
+mbdata,18:45:22,OnlytheTruth,"['fire', 'fire', 'fire!!', 'yesssss!', '#burnabilaburn']",,,,others,fire
+mbdata,18:45:22,POK,"['up', 'next:', 'local', 'band', 'viktor-e', 'plays', 'your', 'favorites!']",,,,others,your
+mbdata,18:45:22,Viktor-E,"['viktor-e', 'sings', ""'stand"", 'up', 'speak', ""up'."", 'sing', 'along!', 'lyrics', 'available', 'on', 'your', 'mobile', 'device', 'at', 'viktor-e.kronos/ourmusic/standupspeakup']",,,,advertisement,your
+ccdata,18:45:22,,"['traffic', 'stop']",,,5066 N. Berlau St,others,stop
+mbdata,18:45:28,teresaJ,"['rt', '@herratomas', 'oh', 'dear,', 'a', 'fire', 'coming', 'through', 'on', 'the', 'scanner', '#abilawatcher']",,,,chatter,fire
+mbdata,18:45:31,KronosStar,"['smoke', 'is', 'coming', 'from', 'the', 'windows', 'of', 'the', 'second', 'floor', 'of', 'the', 'dancing', 'dolphin', 'apartments.', '#kronosstar']",,,,report,dancing
+mbdata,18:45:31,HomelandIlluminations,"['homeland', 'illumation', 'on', 'site.', '', 'flames', 'visible', 'from', 'second', 'floor', 'of', 'six', 'floor', 'apartment', 'building.', '#hi']",,,,others,apartment
+mbdata,18:45:31,OnlytheTruth,['omgwtfbbq!!!!'],,,,others,omgwtfbbq!!!!
+mbdata,18:45:32,NewsOnlineToday,"['flames', 'visible', 'from', 'the', 'second', 'floor', 'at', 'the', 'dancing', 'dolphin', 'apartments', 'in', 'abila', '#newsonline']",,,,report,abila
+mbdata,18:45:32,trollingsnark,"['did', 'someone', 'just', 'tweet', 'for', 'help?', 'obviously', 'an', 'actor', '#falseflag']",,,,others,just
+mbdata,18:45:32,writinLazy,"['anyone', 'know', 'about', 'the', 'dancing', 'dolphin', 'apts', '-', 'looking', 'at', 'a', 'place', 'there', '#aptsearch']",,,,others,dancing
+mbdata,18:45:32,POK,"['sylvia', 'thanks', 'dr.', 'newman', 'for', 'being', 'a', 'park', 'of', 'this', 'important', 'day', 'for', 'the', 'pok.']",,,,others,being
+mbdata,18:45:32,FriendsOfKronos,"['#apd', 'should', 'be', 'arresting', 'everyone', 'that', 'has', 'spoken', 'today', 'starting', 'with', 'sylvia', 'marek', '#pok']",,,,others,has
+mbdata,18:45:38,KronosQuoth,"['i', 'find', 'that', 'the', 'harder', 'i', 'work,', 'the', 'more', 'luck', 'i', 'seem', 'to', 'have.', '', '#pokrally', '#hi']",,,,unrelated,more
+mbdata,18:45:38,KronosQuoth,"['happiness', 'is', 'not', 'something', 'readymade.', '', 'it', 'comes', 'from', 'your', 'own', 'actions.', '', '#kronosstar', '#pokrally']",,,,unrelated,your
+mbdata,18:45:38,KronosQuoth,"['you', 'may', 'only', 'succeed', 'if', 'you', 'desire', 'succeeding;', 'you', 'may', 'only', 'fail', 'if', 'you', 'do', 'not', 'mind', 'failing.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,18:45:38,KronosQuoth,"['i', 'attribute', 'my', 'success', 'to', 'this:', 'i', 'never', 'gave', 'or', 'took', 'any', 'excuse.', '', '#kronosstar', '#pokrally']",,,,unrelated,my
+mbdata,18:45:45,ninjabob,"['rt', '@internationalnews', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartment', 'complex.', '#abila', '#intnews']",,,,chatter,fire
+mbdata,18:45:45,rnbwBrite,"['rt', '@internationalnews', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartment', 'complex.', '#abila', '#intnews']",,,,chatter,fire
+mbdata,18:45:45,sarajane,"['rt', '@internationalnews', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartment', 'complex.', '#abila', '#intnews']",,,,chatter,fire
+mbdata,18:45:47,AbilaPost,"['second', 'floor', 'of', 'six?of', 'the', 'dancing', 'dolphin', 'appears', 'engulfed', 'in', 'flames', '#abilapost']",,,,report,dancing
+mbdata,18:45:47,hempRules,"['wow', 'thats', 'intense.', '#fire']",,,,others,thats
+mbdata,18:45:47,maha_Homeland,"['dr.', 'newman', 'conclused', 'her', 'remarks.', 'viktor-e', 'set', 'to', 'return', 'to', 'the', 'stage.']",,,,others,newman
+ccdata,18:45:47,,"['incomplete', 'call', 'for', 'police']",,,,others,police
+mbdata,18:46:00,slamrjamr,"['rt', '@homelandilluminations', 'building', 'fire', 'at', 'achilleos', 'and', 'madeg.', 'responders', 'dispatched.', '#hi']",,,,chatter,fire
+mbdata,18:46:00,dragonRider1,"['rt', '@homelandilluminations', 'building', 'fire', 'at', 'achilleos', 'and', 'madeg.', 'responders', 'dispatched.', '#hi']",,,,chatter,fire
+mbdata,18:46:00,zengardener,"['rt', '@homelandilluminations', 'building', 'fire', 'at', 'achilleos', 'and', 'madeg.', 'responders', 'dispatched.', '#hi']",,,,chatter,fire
+mbdata,18:46:00,phantomagate,"['rt', '@trollingsnark', 'there', 'we', 'go!', 'bring', 'out', 'the', 'instruments', 'of', 'governmental', 'oppression.']",,,,chatter,we
+mbdata,18:46:00,henri,"['rt', '@abilapost', 'the', 'location', 'of', 'the', 'fire', 'has', 'been', 'identified', 'as', 'the', 'dancing', 'dolphin', 'apartment', 'complex', '#abilapost']",,,,chatter,fire
+mbdata,18:46:00,joyce101,"['rt', '@abilapost', 'the', 'location', 'of', 'the', 'fire', 'has', 'been', 'identified', 'as', 'the', 'dancing', 'dolphin', 'apartment', 'complex', '#abilapost']",,,,chatter,fire
+mbdata,18:46:00,stolkfair,"['rt', '@homelandilluminations', 'staff', 'reporter', 'en', 'route', 'to', 'fire', 'at', 'madeg.', 'reports', 'of', 'fire', 'trucks', 'on', 'site.', '#hi']",,,,chatter,fire
+mbdata,18:46:00,jgrobannne,"['rt', '@homelandilluminations', 'staff', 'reporter', 'en', 'route', 'to', 'fire', 'at', 'madeg.', 'reports', 'of', 'fire', 'trucks', 'on', 'site.', '#hi']",,,,chatter,fire
+mbdata,18:46:00,courage4life,"['rt', '@homelandilluminations', 'staff', 'reporter', 'en', 'route', 'to', 'fire', 'at', 'madeg.', 'reports', 'of', 'fire', 'trucks', 'on', 'site.', '#hi']",,,,chatter,fire
+mbdata,18:46:00,HomelandIlluminations,"['no', 'word', 'yet', 'on', 'residents', 'in', 'dancing', 'dolphin.', '#hi']",,,,others,no
+mbdata,18:46:00,GreyCatCollectibles,"['omg', 'sirens', 'are', 'spooking', 'the', 'cat.', 'poor', 'timmy!']",,,,others,omg
+mbdata,18:46:00,POK,"['connect', 'with', 'the', 'pok', 'community:', 'pok.kronos/join']",,,,advertisement,pok
+mbdata,18:46:00,ReggieWassali,"['thanks', 'dr', 'newman!', '#pokrally']",,,,others,thanks
+mbdata,18:46:01,cheapgoods998,"[""how's"", 'your', 'credit', 'rating?', 'need', 'a', 'boost?', 'fixit.kronos/creditratings', '#abila', '#badcredit']",,,,advertisement,your
+mbdata,18:46:01,KronosQuoth,"['teach', 'thy', 'tongue', 'to', 'say,', 'i', 'do', 'not', 'know,', 'and', 'thous', 'shalt', 'progress.', '', '#kronosstar', '#pokrally']",,,,unrelated,do
+mbdata,18:46:01,dealsRUs101,"['i', 'just', 'found', 'out', 'who', 'viewed', 'my', 'profile!', 'find', 'whos', 'watching', 'yours', 'chirpwatch.kronos/watchme', '#abila']",,,,advertisement,who
+mbdata,18:46:01,KronosQuoth,"['happiness', 'is', 'not', 'something', 'readymade.', '', 'it', 'comes', 'from', 'your', 'own', 'actions.', '', '#kronosstar', '#pokrally']",,,,unrelated,your
+mbdata,18:46:10,teresaJ,"['rt', '@abilafiredept', 'abila', 'fire', 'department', 'has', 'dispatched', 'two', 'fire', 'trucks', 'to', 'the', 'dancing?dolphin', 'apartments', 'at?achilleos', '&', 'madeg', '#afd?']",,,,chatter,fire
+mbdata,18:46:11,AbilaPost,"['2', 'police', 'units', 'arrived', 'and', 'are', 'managing', 'crowd', '#abilapost']",,,,report,police
+mbdata,18:46:11,HomelandIlluminations,"['police', 'arrived', 'at', 'dancing', 'dolphin', 'fire.', '#hi']",,,,others,police
+mbdata,18:46:11,OnlytheTruth,"['cop', 'time!', 'come', 'on!!!', '#startseomething']",,,,others,cop
+mbdata,18:46:11,POK,"['sylvia', 'marek', 'welcomes', 'viktor-e', 'back', 'on', 'stage', 'to', 'sing', 'their', 'hit', ""'stand"", 'up', 'speak', ""up'""]",,,,others,up
+mbdata,18:46:21,KronosStar,"['police', 'have', 'arrived', 'at', 'the', 'fire', 'and', 'are', 'helping', 'manage', 'the', 'scene.', '#kronosstar']",,,,report,fire
+mbdata,18:46:21,HomelandIlluminations,"['fire', 'officials', 'report', 'they', 'do', 'not', 'yet', 'know', 'if', 'apartment', 'is', 'currently', 'occupied.', '#hi']",,,,others,fire
+mbdata,18:46:21,trollingsnark,"['how', 'long', 'until', 'bullets', 'begin', 'flying?', '#waitforit']",,,,others,how
+mbdata,18:46:21,footfingers,"['real', 'change', 'is', 'only', 'possibly', 'if', 'kronos', 'is', 'ruled', 'by', 'the', 'poeple,', 'not', 'the', 'corrupt', '#pok']",36.054,24.902,,others,if
+mbdata,18:46:22,blueSunshine,"['rt', '@kronosstar', 'abila', 'police', 'department', 'has', 'sent', 'two', 'units', 'to', 'the', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartments.', '#kronosstar']",,,,chatter,fire
+mbdata,18:46:22,henri,"['rt', '@kronosstar', 'abila', 'police', 'department', 'has', 'sent', 'two', 'units', 'to', 'the', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartments.', '#kronosstar']",,,,chatter,fire
+mbdata,18:46:22,klingon4real,"['rt', '@onlythetruth', 'fire', 'fire', 'fire!!', 'yesssss!', '#burnabilaburn']",,,,chatter,fire
+mbdata,18:46:22,KronosQuoth,"['success', 'is', 'walking', 'from', 'failure', 'to', 'failure', 'with', 'no', 'loss', 'of', 'enthusiasm.', '', '#pokrally', '#hi']",,,,unrelated,no
+mbdata,18:46:22,KronosQuoth,"['eighty', 'percent', 'of', 'success', 'is', 'showing', 'up.', '', '#kronosstar', '#pokrally']",,,,unrelated,success
+mbdata,18:46:45,dtennent,"['rt', '@friendsofkronos', 'dr', 'newman', 'what', 'a', 'joke', '#pok', '#terror']",,,,chatter,what
+mbdata,18:46:45,KronosQuoth,"['a', 'successful', 'man', 'is', 'one', 'who', 'can', 'lay', 'a', 'firm', 'foundation', 'with', 'the', 'bricks', 'others', 'have', 'thrown', 'at', 'him.', '', '#pokrally', '#hi']",,,,unrelated,can
+mbdata,18:46:52,HomelandIlluminations,"['just', 'received', 'word', 'from', 'witnesses', 'that', 'building', 'is', 'occupied.', '#hi']",,,,others,just
+mbdata,18:46:52,trollingsnark,"['yes', 'searched', 'for', 'their', 'own', 'protection.', 'what', 'or', 'who', 'are', 'they', 'really', 'looking', 'for?']",,,,others,what
+mbdata,18:47:00,vetsRock,"['rt', '@homelandilluminations', 'building', 'fire', 'at', 'achilleos', 'and', 'madeg.', 'responders', 'dispatched.', '#hi']",,,,chatter,fire
+mbdata,18:47:00,wireHead1122,"['rt', '@homelandilluminations', 'building', 'fire', 'at', 'achilleos', 'and', 'madeg.', 'responders', 'dispatched.', '#hi']",,,,chatter,fire
+mbdata,18:47:00,henri,"['rt', '@internationalnews', 'continuing', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartment', '#abila', '#intnews']",,,,chatter,fire
+mbdata,18:47:00,slamrjamr,"['rt', '@abilapost', 'the', 'location', 'of', 'the', 'fire', 'has', 'been', 'identified', 'as', 'the', 'dancing', 'dolphin', 'apartment', 'complex', '#abilapost']",,,,chatter,fire
+mbdata,18:47:00,wireHead1122,"['rt', '@abilapost', 'the', 'location', 'of', 'the', 'fire', 'has', 'been', 'identified', 'as', 'the', 'dancing', 'dolphin', 'apartment', 'complex', '#abilapost']",,,,chatter,fire
+mbdata,18:47:00,dtennent,"['rt', '@abilapost', 'the', 'location', 'of', 'the', 'fire', 'has', 'been', 'identified', 'as', 'the', 'dancing', 'dolphin', 'apartment', 'complex', '#abilapost']",,,,chatter,fire
+mbdata,18:47:00,joyce101,"['rt', '@dangermice', 'fire', 'trucks', 'are', 'arriving', 'at', 'the', 'dancing', 'dolphin', '#abilafire']",,,,chatter,fire
+mbdata,18:47:00,luvMyPants,"['rt', '@pok', 'connect', 'with', 'the', 'pok', 'community:', 'pok.kronos/join']",,,,advertisement,pok
+mbdata,18:47:00,AbilaPost,"['residents', 'have', 'begun', 'to', 'trickle', 'out', 'of', 'the', 'dancing', 'dolphin', '#abilapost']",,,,report,out
+mbdata,18:47:00,HomelandIlluminations,"['police', 'report', 'the', 'building', 'is', 'being', 'searched', 'for', 'occupants.', '#hi']",,,,others,police
+mbdata,18:47:00,AbilaFireDept,"['abila', 'fire', 'department', 'on', 'the', 'scene', 'of', 'dancing', 'dolphin', 'fire', 'at', 'achilleos', '&', 'madeg', 'assessing', 'the', 'extent', 'of', 'the', 'fire', '#afd']",,,,others,fire
+mbdata,18:47:00,martaflores,"['my', 'apartment', 'is', 'filling', 'up', 'with', 'smoke', '-', 'help', ""i'm"", 'in', 'apartment', '301!!!!', '#helpme']",,,,others,up
+mbdata,18:47:00,kingWilly,"['say', 'a', 'prayer', 'for', 'our', 'neighbors', '#dansingdolfinfire']",,,,others,our
+mbdata,18:47:00,AbilaAllFaith,"['prayers', 'for', 'our', 'brothers', 'and', 'sisters', 'at', 'the', 'dancind', 'dolphins', 'appartments']",,,,others,our
+mbdata,18:47:00,trollingsnark,"['srsly!?', 'did', 'the', 'government', 'make', 'a', 'helpless', 'victim', 'bot?', 'they', 'expect', 'us', 'to', 'buy', 'this?', '#noway']",,,,others,they
+mbdata,18:47:00,OnlytheTruth,"['whoever', 'did', 'this,', 'thank', 'you!!!', '#firestarter']",,,,others,did
+ccdata,18:47:00,,"['fire/medics', 'needed-amublance', 'dispatched', 'to', 'fire']",,,N. Achilleos St / N. Madeg St,others,fire
+mbdata,18:47:03,KronosStar,"['abila', 'fire', 'department', 'has', 'dispatched', 'an', 'ambulance', 'to', 'assist', 'at', 'the', 'dancing', 'dolphin', 'fire.', '#kronosstar']",,,,report,fire
+mbdata,18:47:03,HomelandIlluminations,"['several', 'residents', 'are', 'exiting', 'building.', '#hi']",,,,others,residents
+mbdata,18:47:03,Viktor-E,"['bert', 'hanns', 'tells', 'rally', 'how', 'he', 'draws', 'inspiration', 'from', 'the', 'historical', 'persons']",,,,others,rally
+mbdata,18:47:06,KronosQuoth,"['eighty', 'percent', 'of', 'success', 'is', 'showing', 'up.', '', '#kronosstar', '#pokrally']",,,,unrelated,success
+mbdata,18:47:06,KronosQuoth,"['happiness', 'is', 'not', 'something', 'readymade.', '', 'it', 'comes', 'from', 'your', 'own', 'actions.', '', '#kronosstar', '#pokrally']",,,,unrelated,your
+mbdata,18:47:06,KronosQuoth,"['the', 'distance', 'between', 'insanity', 'and', 'genius', 'is', 'measured', 'only', 'by', 'success.', '', '#pokrally', '#hi']",,,,unrelated,only
+mbdata,18:47:07,trollingsnark,"['find', 'anything', 'yet?', 'political', 'enemies?', 'bribe', 'money?']",,,,others,find
+mbdata,18:47:09,AbilaPost,"['unclear', 'how', 'many', 'people', 'are', 'still', 'inside', 'the', 'building', '#abilapost']",,,,report,people
+mbdata,18:47:09,NewsOnlineToday,"['residents', 'being', 'saved', 'from', 'dancing', 'dolphin', 'fire', 'in', 'abila.', '#newsonline']",,,,report,fire
+mbdata,18:47:09,AbilaFireDept,"['abila', 'fire', 'department', 'has', 'dispatched', 'an', 'additional', 'fire', 'truck', 'to', 'dancing', 'dolphin', 'apartment', 'fire', '#afd']",,,,others,fire
+mbdata,18:47:09,GreyCatCollectibles,"['so', 'sad', '--', 'all', 'my', 'stuff', 'is', 'in', 'there.', '', '#putitout']",,,,others,my
+mbdata,18:47:09,rockStar113,"['most', 'excietemtn', 'ive', 'seen', 'on', 'this', 'street', 'in', 'a', 'long', 'time.', '#fire']",,,,others,most
+mbdata,18:47:09,OnlytheTruth,"['nooo', ""don't"", '#putitout']",,,,others,don't
+ccdata,18:47:09,,"['fire/medics', 'needed-fire', 'truck', '#23', 'dispatched', 'to', 'fire']",,,N. Achilleos St / N. Madeg St,others,fire
+mbdata,18:47:10,CentralBulletin,"['unclear', 'how', 'many', 'people', 'still', 'inside', 'of', 'building', '#abila', '#centralbulletin']",,,,report,people
+mbdata,18:47:11,KronosStar,"['additional', 'fire', 'units', 'have', 'been', 'called', 'in', 'to', 'assist', 'at', 'the', 'dancing', 'dolphin', 'fire.', '#kronosstar']",,,,report,fire
+mbdata,18:47:11,HerraTomas,"['some', 'of', 'these', 'comments', 'are', 'disgusting.', '#peoplearehorrible']",,,,others,some
+mbdata,18:47:11,cleaningFish,"[""where's"", 'the', 'rave', 'in', 'east', 'abila', 'tomorrow', 'night?', '#abila', '#rave']",,,,others,abila
+ccdata,18:47:11,,"['traffic', 'stop']",,,N. Arbete St / N. Utmana St,others,stop
+mbdata,18:47:19,InternationalNews,"['fire', 'growing', 'at', 'the', 'dancing', 'dolphin', 'fire.', '#abila', '#intnews']",,,,report,fire
+mbdata,18:47:19,AbilaPost,"['a', 'third?fire', 'truck', 'has', 'been', 'dispatched', 'to', 'the', 'fire', '#abilapost']",,,,report,fire
+mbdata,18:47:19,windAvatar,"['anyone', 'hurt?', '', '#dancingdolphinfire']",,,,others,anyone
+mbdata,18:47:21,henri,"['rt', '@kronosstar', 'police', 'have', 'arrived', 'at', 'the', 'fire', 'and', 'are', 'helping', 'manage', 'the', 'scene.', '#kronosstar']",,,,chatter,fire
+mbdata,18:47:22,henri,"['rt', '@kronosstar', 'abila', 'police', 'department', 'has', 'sent', 'two', 'units', 'to', 'the', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartments.', '#kronosstar']",,,,chatter,fire
+mbdata,18:47:22,dragonRider1,"['rt', '@kronosstar', 'abila', 'police', 'department', 'has', 'sent', 'two', 'units', 'to', 'the', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartments.', '#kronosstar']",,,,chatter,fire
+mbdata,18:47:22,vonneka,"['rt', '@kronosstar', 'abila', 'police', 'department', 'has', 'sent', 'two', 'units', 'to', 'the', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartments.', '#kronosstar']",,,,chatter,fire
+mbdata,18:47:29,KronosQuoth,"['your', 'problem', ""isn't"", 'the', 'problem.', 'your', 'reaction', 'is', 'the', 'problem.', '', '#pokrally', '#hi']",,,,unrelated,your
+mbdata,18:47:29,KronosQuoth,"['there', 'is', 'no', 'chance,', 'no', 'destiny,', 'no', 'fate,', 'that', 'can', 'hinder', 'or', 'control', 'the', 'firm', 'resolve', 'of', 'a', 'determined', 'soul.', '', '#pokrally', '#hi']",,,,unrelated,can
+mbdata,18:47:31,vetsRock,"['rt', '@homelandilluminations', 'homeland', 'illumation', 'on', 'site.', '', 'flames', 'visible', 'from', 'second', 'floor', 'of', 'six', 'floor', 'apartment', 'building.', '#hi']",,,,chatter,apartment
+mbdata,18:47:31,lindyT,"['rt', '@homelandilluminations', 'homeland', 'illumation', 'on', 'site.', '', 'flames', 'visible', 'from', 'second', 'floor', 'of', 'six', 'floor', 'apartment', 'building.', '#hi']",,,,chatter,apartment
+mbdata,18:47:31,AbilaFireDept,"['abila', 'fire', 'department', 'indicates', 'dancing', 'dolphin', 'apartment', 'is', 'a', 'six', 'story', 'structure', 'with', 'the', 'bottom', 'three', 'stories', 'currently', 'occupied', '#afd?']",,,,others,fire
+mbdata,18:47:31,redisrad,"['its', 'all', 'over', 'the', 'interwebs', '#dancingdolfinfire', '-', 'that', ""'s"", 'really', 'close']",,,,others,all
+mbdata,18:47:31,Viktor-E,"['ellen', 'and', 'erik', 'interviewed', 'by', 'athenamusiconline:', 'viktor-e.kronos/theband/lomax-gastov-athena']",,,,advertisement,ellen
+mbdata,18:47:31,truccotrucco,"['who', 'else', 'has', 'had', 'enough', 'of', 'the', 'speeches?', 'feel', 'like', 'im', 'in', 'school!', 'gelatogalore', 'time']",36.052,24.852,,report,has
+mbdata,18:47:38,prettyRain,"['this', 'guy', 'wants', 'to', 'make', 'a', 'break', 'for', 'it', 'hes', 'going', 'to', 'get', 'us', 'killed!']",,,,others,going
+mbdata,18:47:51,KronosQuoth,"['successful', 'people', 'do', 'what', 'unsuccessful', 'people', 'are', 'not', 'willing', 'to', ""dodon't"", 'wish', 'it', 'were', 'easier,', 'wish', 'you', 'were', 'better.', '', '#pokrally', '#hi']",,,,unrelated,you
+ccdata,18:47:56,,"['misdemeanor', 'assault-in', 'progress']",,,N. Els St / N. Polvo St,others,progress
+mbdata,18:47:59,HomelandIlluminations,"['more', 'police', 'have', 'arrived.', 'still', 'no', 'word', 'on', 'any', 'residents', 'trapped', 'in', 'the', 'building.', '#hi']",,,,others,police
+mbdata,18:47:59,jenny90210,"['pulled', '14', 'hour', 'shift', 'last', 'night', '-', 'have', 'to', 'go', 'in', 'again', 'at', 'midnight.', 'so', 'what', 'happens?', 'fire', 'trucks', 'screaming', 'down', 'the', 'street.', '#norest']",,,,others,fire
+mbdata,18:47:59,trollingsnark,"['@hi', 'of', 'course', ""there's"", 'nothing', 'on', 'the', 'residents.', 'there', 'has', 'to', 'be', 'residents', 'in', 'the', 'first', 'place']",,,,chatter,has
+mbdata,18:48:00,luvMyPants,"['rt', '@homelandilluminations', 'building', 'fire', 'at', 'achilleos', 'and', 'madeg.', 'responders', 'dispatched.', '#hi']",,,,chatter,fire
+mbdata,18:48:00,brandonL,"['rt', '@homelandilluminations', 'building', 'fire', 'at', 'achilleos', 'and', 'madeg.', 'responders', 'dispatched.', '#hi']",,,,chatter,fire
+mbdata,18:48:00,zengardener,"['rt', '@internationalnews', 'continuing', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartment', '#abila', '#intnews']",,,,chatter,fire
+mbdata,18:48:00,dtennent,"['rt', '@abilapost', 'the', 'location', 'of', 'the', 'fire', 'has', 'been', 'identified', 'as', 'the', 'dancing', 'dolphin', 'apartment', 'complex', '#abilapost']",,,,chatter,fire
+mbdata,18:48:00,blueSunshine,"['rt', '@abilapost', 'the', 'location', 'of', 'the', 'fire', 'has', 'been', 'identified', 'as', 'the', 'dancing', 'dolphin', 'apartment', 'complex', '#abilapost']",,,,chatter,fire
+mbdata,18:48:00,farmboy,"['rt', '@truthforcadau', 'very', 'inspiring', 'speech', 'from', 'dr', 'newman', '""you', 'can', 'make', 'a', 'differnece,', 'together', 'you', 'can', 'make', 'change""', '#pokrallyinthepark']",,,,chatter,you
+mbdata,18:48:00,siliconKing,"['rt', '@friendsofkronos', 'thanks', 'for', 'ending', 'your', 'terrorist', 'propaganda', 'doc', '#pok', '#terror']",,,,chatter,your
+mbdata,18:48:00,siliconKing,"['rt', '@homelandilluminations', 'no', 'word', 'yet', 'on', 'residents', 'in', 'dancing', 'dolphin.', '#hi']",,,,chatter,no
+mbdata,18:48:00,henri,"['rt', '@homelandilluminations', 'police', 'report', 'the', 'building', 'is', 'being', 'searched', 'for', 'occupants.', '#hi']",,,,chatter,police
+mbdata,18:48:00,slamrjamr,"['rt', '@homelandilluminations', 'police', 'report', 'the', 'building', 'is', 'being', 'searched', 'for', 'occupants.', '#hi']",,,,chatter,police
+mbdata,18:48:00,siliconKing,"['rt', '@homelandilluminations', 'police', 'report', 'the', 'building', 'is', 'being', 'searched', 'for', 'occupants.', '#hi']",,,,chatter,police
+mbdata,18:48:00,blueSunshine,"['rt', '@homelandilluminations', 'police', 'report', 'the', 'building', 'is', 'being', 'searched', 'for', 'occupants.', '#hi']",,,,chatter,police
+mbdata,18:48:00,HomelandIlluminations,"['residents', '', 'trickling', 'out', 'of', 'dancing', 'dolphin.', '#hi']",,,,others,out
+mbdata,18:48:02,redisrad,"[""they're"", 'going', 'into', 'the', 'building', 'even', 'tho', ""it's"", '#enfuego']",,,,others,going
+mbdata,18:48:02,mamin,"['is', 'anyone', 'taking', 'donations', 'for', '#abilafire?']",,,,others,anyone
+mbdata,18:48:02,truccotrucco,"['heading', 'to', 'gelatogalore!', 'whos', 'with', 'me?']",36.055,24.855,,report,whos
+ccdata,18:48:02,,"['police', 'unit', 'dispatched-crowd', 'control']",,,N. Achilleos St / N. Madeg St,others,police
+mbdata,18:48:09,brain448,"['rt', '@abilapost', 'unclear', 'how', 'many', 'people', 'are', 'still', 'inside', 'the', 'building', '#abilapost']",,,,chatter,people
+mbdata,18:48:09,brandonL,"['rt', '@abilapost', 'unclear', 'how', 'many', 'people', 'are', 'still', 'inside', 'the', 'building', '#abilapost']",,,,chatter,people
+mbdata,18:48:11,pinky,"['rt', '@cleaningfish', ""where's"", 'the', 'rave', 'in', 'east', 'abila', 'tomorrow', 'night?', '#abila', '#rave']",,,,chatter,abila
+mbdata,18:48:12,KronosQuoth,"['dream', 'big', 'and', 'dare', 'to', 'fail.', '', '#kronosstar', '#pokrally']",,,,unrelated,dream
+mbdata,18:48:22,joyce101,"['rt', '@kronosstar', 'abila', 'police', 'department', 'has', 'sent', 'two', 'units', 'to', 'the', 'fire', 'at', 'the', 'dancing', 'dolphin', 'apartments.', '#kronosstar']",,,,chatter,fire
+mbdata,18:48:31,courage4life,"['rt', '@homelandilluminations', 'homeland', 'illumation', 'on', 'site.', '', 'flames', 'visible', 'from', 'second', 'floor', 'of', 'six', 'floor', 'apartment', 'building.', '#hi']",,,,chatter,apartment
+mbdata,18:48:34,KronosQuoth,"['teach', 'thy', 'tongue', 'to', 'say,', 'i', 'do', 'not', 'know,', 'and', 'thous', 'shalt', 'progress.', '', '#kronosstar', '#pokrally']",,,,unrelated,do
+mbdata,18:48:57,KronosStar,"['abila', 'pd', 'has', 'called', 'for', 'additional', 'support.', '#kronosstar']",,,,report,has
+mbdata,18:48:57,AbilaAllFaith,"['may', 'the', 'grace', 'of', 'the', 'creator', 'be', 'with', 'those', 'who', 'are', 'in', 'distress', '#abila', '#dancingdolphinsfire']",,,,others,who
+mbdata,18:48:57,POK,"['bert', 'hanns', 'says', 'songs', 'inspired', 'by', 'gandhi', 'and', 'other', 'historic', 'figures.']",,,,others,says
+mbdata,18:48:57,truccotrucco,"['im', 'on', 'the', 'corner', 'of', 'ermou', '&', 'parla', '#gelatorocks']",36.055,24.855,,report,&
+mbdata,18:49:00,joyce101,"['rt', '@abilapost', 'the', 'location', 'of', 'the', 'fire', 'has', 'been', 'identified', 'as', 'the', 'dancing', 'dolphin', 'apartment', 'complex', '#abilapost']",,,,chatter,fire
+mbdata,18:49:00,vonneka,"['rt', '@homelandilluminations', 'staff', 'reporter', 'en', 'route', 'to', 'fire', 'at', 'madeg.', 'reports', 'of', 'fire', 'trucks', 'on', 'site.', '#hi']",,,,chatter,fire
+mbdata,18:49:00,sarajane,"['rt', '@homelandilluminations', 'no', 'word', 'yet', 'on', 'residents', 'in', 'dancing', 'dolphin.', '#hi']",,,,chatter,no
+mbdata,18:49:00,jaques,"['rt', '@homelandilluminations', 'no', 'word', 'yet', 'on', 'residents', 'in', 'dancing', 'dolphin.', '#hi']",,,,chatter,no
+mbdata,18:49:00,klingon4real,"['rt', '@homelandilluminations', 'no', 'word', 'yet', 'on', 'residents', 'in', 'dancing', 'dolphin.', '#hi']",,,,chatter,no
+mbdata,18:49:00,dtennent,"['rt', '@homelandilluminations', 'police', 'report', 'the', 'building', 'is', 'being', 'searched', 'for', 'occupants.', '#hi']",,,,chatter,police
+mbdata,18:49:00,sarajane,"['rt', '@homelandilluminations', 'police', 'report', 'the', 'building', 'is', 'being', 'searched', 'for', 'occupants.', '#hi']",,,,chatter,police
+mbdata,18:49:00,brandonL,"['rt', '@homelandilluminations', 'residents', '', 'trickling', 'out', 'of', 'dancing', 'dolphin.', '#hi']",,,,chatter,out
+mbdata,18:49:02,worldWatcher,"['rt', '@mamin', 'is', 'anyone', 'taking', 'donations', 'for', '#abilafire?']",,,,chatter,anyone
+mbdata,18:49:02,KronosQuoth,"['if', 'you', 'want', 'to', 'lift', 'yourself', 'up,', 'lift', 'up', 'someone', 'else.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,18:49:02,carjunkers,"['i', 'lost', 'a', 'bunch', 'of', 'weight,', 'this', 'stuff', 'works!', 'look', 'at', 'news', 'article', 'diet.kronos/starvenow', '', '#abila', '#bestfood']",,,,advertisement,look
+mbdata,18:49:02,carjunkers,"['i', 'got', 'cheap', 'medication', 'online', 'without', 'a', 'prescription', 'meds.kronos/cheapmeds', '#kronos', '#abila']",,,,advertisement,got
+mbdata,18:49:02,KronosQuoth,"['in', 'my', 'experience,', 'there', 'is', 'only', 'one', 'motivation,', 'and', 'that', 'is', 'desire.', 'no', 'reasons', 'or', 'principle', 'contain', 'it', 'or', 'stand', 'against', 'it.', '', '#pokrally', '#hi']",,,,unrelated,no
+mbdata,18:49:03,phantomagate,"['rt', '@kronosstar', 'abila', 'fire', 'department', 'has', 'dispatched', 'an', 'ambulance', 'to', 'assist', 'at', 'the', 'dancing', 'dolphin', 'fire.', '#kronosstar']",,,,chatter,fire
+mbdata,18:49:03,worldWatcher,"['rt', '@kronosstar', 'abila', 'fire', 'department', 'has', 'dispatched', 'an', 'ambulance', 'to', 'assist', 'at', 'the', 'dancing', 'dolphin', 'fire.', '#kronosstar']",,,,chatter,fire
+mbdata,18:49:03,sithLordJames,"['rt', '@kronosstar', 'abila', 'fire', 'department', 'has', 'dispatched', 'an', 'ambulance', 'to', 'assist', 'at', 'the', 'dancing', 'dolphin', 'fire.', '#kronosstar']",,,,chatter,fire
+mbdata,18:49:03,wireHead1122,"['rt', '@viktor-e', 'bert', 'hanns', 'tells', 'rally', 'how', 'he', 'draws', 'inspiration', 'from', 'the', 'historical', 'persons']",,,,chatter,rally
+mbdata,18:49:19,klingon4real,"['rt', '@internationalnews', 'fire', 'growing', 'at', 'the', 'dancing', 'dolphin', 'fire.', '#abila', '#intnews']",,,,chatter,fire
+mbdata,18:49:19,luvMyPants,"['rt', '@internationalnews', 'fire', 'growing', 'at', 'the', 'dancing', 'dolphin', 'fire.', '#abila', '#intnews']",,,,chatter,fire
+mbdata,18:49:22,stolkfair,"['rt', '@viktor-e', 'viktor-e', 'sings', ""'stand"", 'up', 'speak', ""up'."", 'sing', 'along!', 'lyrics', 'available', 'on', 'your', 'mobile', 'device', 'at', 'viktor-e.kronos/ourmusic/standupspeakup']",,,,advertisement,your
+mbdata,18:49:24,KronosQuoth,"['everything', 'youve', 'ever', 'wanted', 'is', 'on', 'the', 'other', 'side', 'of', 'fear.', '', '#kronosstar', '#pokrally']",,,,unrelated,everything
+mbdata,18:49:43,Viktor-E,"['bert', 'quotes', 'gandhi', '""""the', 'difference', 'between', 'what', 'we', 'do', 'and', 'what', 'we', 'can', 'do', 'would', 'solve', 'the', ""world's"", 'problems""""""""']",,,,others,what
+ccdata,18:49:43,,"['traffic', 'stop']",,,Rist Way / N. Desafio St,others,stop
+mbdata,18:49:47,rrWine,"['rt', '@maha_homeland', 'dr.', 'newman', 'conclused', 'her', 'remarks.', 'viktor-e', 'set', 'to', 'return', 'to', 'the', 'stage.']",,,,chatter,newman
+mbdata,18:49:55,KronosQuoth,"['change', 'your', 'thoughts', 'and', 'you', 'change', 'your', 'world.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,18:49:55,KronosQuoth,"['you', 'may', 'only', 'succeed', 'if', 'you', 'desire', 'succeeding;', 'you', 'may', 'only', 'fail', 'if', 'you', 'do', 'not', 'mind', 'failing.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,18:49:55,KronosQuoth,"['if', 'you', 'do', 'what', 'youve', 'always', 'done,', 'youll', 'get', 'what', 'youve', 'always', 'gotten.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,18:49:55,KronosQuoth,"['an', 'unexamined', 'life', 'is', 'not', 'worth', 'living.', '', '#kronosstar', '#pokrally']",,,,unrelated,life
+mbdata,18:49:57,BlueVelvet,"['rt', '@kronosstar', 'abila', 'pd', 'has', 'called', 'for', 'additional', 'support.', '#kronosstar']",,,,chatter,has
+mbdata,18:50:00,plasticParts,"['rt', '@homelandilluminations', 'no', 'word', 'yet', 'on', 'residents', 'in', 'dancing', 'dolphin.', '#hi']",,,,chatter,no
+mbdata,18:50:00,courage4life,"['rt', '@trollingsnark', 'srsly!?', 'did', 'the', 'government', 'make', 'a', 'helpless', 'victim', 'bot?', 'they', 'expect', 'us', 'to', 'buy', 'this?', '#noway']",,,,chatter,they
+mbdata,18:50:03,brain448,"['rt', '@kronosstar', 'abila', 'fire', 'department', 'has', 'dispatched', 'an', 'ambulance', 'to', 'assist', 'at', 'the', 'dancing', 'dolphin', 'fire.', '#kronosstar']",,,,chatter,fire
+mbdata,18:50:03,blueSunshine,"['rt', '@kronosstar', 'abila', 'fire', 'department', 'has', 'dispatched', 'an', 'ambulance', 'to', 'assist', 'at', 'the', 'dancing', 'dolphin', 'fire.', '#kronosstar']",,,,chatter,fire
+mbdata,18:50:21,soup4u,"['rt', '@kronosstar', 'police', 'have', 'arrived', 'at', 'the', 'fire', 'and', 'are', 'helping', 'manage', 'the', 'scene.', '#kronosstar']",,,,chatter,fire
+mbdata,18:50:21,AbilaPost,"['reports', 'that', 'the', 'top', 'three', 'floors', 'are', 'under', 'renovation', '@dancingdolphin', '#abilapost']",,,,report,reports
+mbdata,18:50:21,HomelandIlluminations,"['residents', 'report', 'top', 'floors', 'of', 'apartments', 'were', 'unoccupied.', '#hi']",,,,others,report
+mbdata,18:50:21,AbilaFireDept,['?'],,,,others,?
+mbdata,18:50:21,powercrystals,"['join', 'the', 'movement', 'rally.kronos/friendsofllm', '#rally']",,,,advertisement,join
+mbdata,18:50:21,Viktor-E,"['thank', 'you', 'to', 'all', 'our', 'followers!']",,,,others,you
+mbdata,18:50:21,truthforcadau,"['guess', 'i', 'need', 'to', 'find', 'out', 'about', 'hilel', 'the', 'elder?', 'anybody', 'know?', '#inspiration', '#viktor-e']",36.051,24.854,,others,out
+ccdata,18:50:21,,['disturbance-noise'],,,2491 N. Thessalias St,others,disturbance-noise
+mbdata,18:50:22,KronosQuoth,"['build', 'your', 'own', 'dreams,', 'or', 'someone', 'else', 'will', 'hire', 'you', 'to', 'build', 'theirs.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,18:50:22,KronosQuoth,"['the', 'distance', 'between', 'insanity', 'and', 'genius', 'is', 'measured', 'only', 'by', 'success.', '', '#pokrally', '#hi']",,,,unrelated,only
+mbdata,18:50:22,KronosQuoth,"['i', 'am', 'not', 'a', 'product', 'of', 'my', 'circumstances.', 'i', 'am', 'a', 'product', 'of', 'my', 'decisions.', '', '#kronosstar', '#pokrally']",,,,unrelated,my
+mbdata,18:50:48,KronosQuoth,"['ask', 'and', 'it', 'will', 'be', 'given', 'to', 'you;', 'search,', 'and', 'you', 'will', 'find;', 'knock', 'and', 'the', 'door', 'will', 'be', 'opened', 'for', 'you.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,18:50:48,KronosQuoth,"['winning', 'isnt', 'everything,', 'but', 'wanting', 'to', 'win', 'is.', '', '#kronosstar', '#pokrally']",,,,unrelated,but
+mbdata,18:50:57,wireHead1122,"['rt', '@kronosstar', 'abila', 'pd', 'has', 'called', 'for', 'additional', 'support.', '#kronosstar']",,,,chatter,has
+mbdata,18:50:57,lordWally,"['rt', '@kronosstar', 'abila', 'pd', 'has', 'called', 'for', 'additional', 'support.', '#kronosstar']",,,,chatter,has
+mbdata,18:50:59,worldWatcher,"['rt', '@trollingsnark', '@hi', 'of', 'course', ""there's"", 'nothing', 'on', 'the', 'residents.', 'there', 'has', 'to', 'be', 'residents', 'in', 'the', 'first', 'place']",,,,chatter,has
+mbdata,18:51:00,vonneka,"['rt', '@homelandilluminations', 'police', 'report', 'the', 'building', 'is', 'being', 'searched', 'for', 'occupants.', '#hi']",,,,chatter,police
+mbdata,18:51:00,blueSunshine,"['rt', '@kingwilly', 'say', 'a', 'prayer', 'for', 'our', 'neighbors', '#dansingdolfinfire']",,,,chatter,our
+mbdata,18:51:00,vetsRock,"['rt', '@homelandilluminations', 'residents', '', 'trickling', 'out', 'of', 'dancing', 'dolphin.', '#hi']",,,,chatter,out
+mbdata,18:51:03,gardener4958,"['rt', '@kronosstar', 'abila', 'fire', 'department', 'has', 'dispatched', 'an', 'ambulance', 'to', 'assist', 'at', 'the', 'dancing', 'dolphin', 'fire.', '#kronosstar']",,,,chatter,fire
+mbdata,18:51:09,jaques,"['rt', '@abilapost', 'unclear', 'how', 'many', 'people', 'are', 'still', 'inside', 'the', 'building', '#abilapost']",,,,chatter,people
+mbdata,18:51:10,KronosQuoth,"['the', 'best', 'reason', 'to', 'start', 'an', 'organization', 'is', 'to', 'make', 'meaning;', 'to', 'create', 'a', 'product', 'or', 'service', 'to', 'make', 'the', 'world', 'a', 'better', 'place.', '', '#pokrally', '#hi']",,,,unrelated,make
+mbdata,18:51:19,jgrobannne,"['rt', '@internationalnews', 'fire', 'growing', 'at', 'the', 'dancing', 'dolphin', 'fire.', '#abila', '#intnews']",,,,chatter,fire
+mbdata,18:51:38,KronosQuoth,"['waste', 'not,', 'want', 'not', '', '#kronosstar', '#pokrally']",,,,unrelated,want
+mbdata,18:51:38,KronosQuoth,"['if', 'you', ""don't"", 'value', 'your', 'time,', 'neither', 'will', 'others.', 'stop', 'giving', 'away', 'your', 'time', 'and', 'talents-', 'start', 'charging', 'for', 'it.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,18:51:57,vonneka,"['rt', '@kronosstar', 'abila', 'pd', 'has', 'called', 'for', 'additional', 'support.', '#kronosstar']",,,,chatter,has
+mbdata,18:51:59,brandonL,"['rt', '@jenny90210', 'pulled', '14', 'hour', 'shift', 'last', 'night', '-', 'have', 'to', 'go', 'in', 'again', 'at', 'midnight.', 'so', 'what', 'happens?', 'fire', 'trucks', 'screaming', 'down', 'the', 'street.', '#norest']",,,,chatter,fire
+mbdata,18:52:00,stolkfair,"['rt', '@homelandilluminations', 'residents', '', 'trickling', 'out', 'of', 'dancing', 'dolphin.', '#hi']",,,,chatter,out
+mbdata,18:52:00,AbilaFireDept,"['abila', 'fire', 'department', 'fire', 'truck', '#23', 'has', 'arrived', 'at', 'dancing', 'dolphin', 'apartment', '#afd']",,,,others,fire
+mbdata,18:52:00,martaO,"[""what's"", 'up', 'with', 'this', 'traffic?']",,,,others,up
+ccdata,18:52:00,,"['alarm-secure', 'no', 'crime']",,,3671 N. Valmai St,others,no
+mbdata,18:52:00,superhero447,"['i', 'lost', 'a', 'bunch', 'of', 'weight,', 'this', 'stuff', 'works!', 'look', 'at', 'news', 'article', 'diet.kronos/starvenow', '', '#abila', '#bestfood']",,,,advertisement,look
+mbdata,18:52:00,KronosQuoth,"['no', 'one', 'can', 'make', 'you', 'feel', 'inferior', 'without', 'your', 'consent.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,18:52:00,rockinHW,"['hi!', 'i', 'advise', 'you', 'to', 'visit', 'this', 'link', 'hottips.kronos/trading', '#abila']",,,,advertisement,you
+mbdata,18:52:00,KronosQuoth,"['too', 'many', 'of', 'us', 'are', 'not', 'living', 'our', 'dreams', 'because', 'we', 'are', 'living', 'our', 'fears.', '', '#kronosstar', '#pokrally']",,,,unrelated,we
+mbdata,18:52:02,phantomagate,"['rt', '@truccotrucco', 'heading', 'to', 'gelatogalore!', 'whos', 'with', 'me?']",,,,chatter,whos
+mbdata,18:52:14,KronosStar,"['flames', 'are', 'shooting', 'from', 'the', 'windows', 'on', 'the', 'second', 'floor.', '', '#kronosstar']",,,,report,shooting
+mbdata,18:52:14,HomelandIlluminations,"['flames', 'visible', 'on', '2nd', 'floor.', '#hi']",,,,others,floor.
+mbdata,18:52:14,GreyCatCollectibles,"[""where's"", 'all', 'the', 'people', 'from', 'upstairs?']",,,,others,people
+mbdata,18:52:14,unicorns,"['#dancingdolphin', 'full', 'of', '#dancingfire.', '#danzamacabra']",,,,others,full
+mbdata,18:52:19,InternationalNews,"['flames', 'are', 'shooting', 'from', 'the', 'windows', 'on', 'the', 'second', 'floor.', '#abila', '#intnews']",,,,report,shooting
+mbdata,18:52:19,AbilaPost,"['third', 'fire', 'truck', 'has', 'arrived', 'on', 'the', 'scene', '#abilapost']",,,,report,fire
+mbdata,18:52:19,HomelandIlluminations,"['firemen', 'still', 'clearing', 'building.', '#hi']",,,,others,still
+mbdata,18:52:19,trollingsnark,"['pictures', 'are', 'totally', 'shopped', '#yeahright']",,,,others,pictures
+mbdata,18:52:19,OnlytheTruth,"['moar', 'fire!', 'really,', 'thatz', 'it??', 'pahetic']",,,,others,fire!
+mbdata,18:52:19,POK,"['the', 'crowd', 'cheers', 'as', 'viktor-e', 'sings', 'their', 'hit', '""""stand', 'up', 'speak', 'up""""""""']",,,,others,up
+mbdata,18:52:21,GreyCatCollectibles,"[""haven't"", 'seen', 'anyone', 'from', '3', 'yet']",,,,others,anyone
+mbdata,18:52:21,junkieduck113,"[""how's"", 'your', 'credit', 'rating?', 'need', 'a', 'boost?', 'fixit.kronos/creditratings', '#abila', '#badcredit']",,,,advertisement,your
+mbdata,18:52:21,KronosQuoth,"['successful', 'entrepreneurs', 'are', 'givers', 'and', 'not', 'takers', 'of', 'positive', 'energy.', '', '#pokrally', '#hi']",,,,unrelated,successful
+mbdata,18:52:21,KronosQuoth,"['you', 'cant', 'fall', 'if', 'you', 'dont', 'climb.', '', 'but', 'theres', 'no', 'joy', 'in', 'living', 'your', 'whole', 'life', 'on', 'the', 'ground.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,18:52:25,soulofShi,"['kindafun', 'watching', 'the', 'fire', '#pyroatheart']",,,,others,fire
+mbdata,18:52:25,anaregents,"['viktor-e', 'is', 'playing', '""""stand', 'up', 'speak', 'up""""', 'inspired', 'by', 'ghandi', 'very', 'moving', 'song""""']",,,,others,up
+mbdata,18:52:27,AbilaPost,"['residents?continue', 'making', 'their', 'way', 'out', 'of', 'the', 'apartment', 'building', 'unclear', 'how', 'many', 'are', 'still', 'inside', '#abilapost']",,,,report,out
+mbdata,18:52:27,GreyCatCollectibles,"[""haven't"", 'heard', 'from', 'rachel', 'in', 'days.', 'hope', ""she's"", 'off', 'on', 'vaca', 'somewhere']",,,,others,off
+mbdata,18:52:27,Officia1AbilaPost,"['death', 'toll', 'mounts', '-', '#kronoskidnapping.', 'smad.co.kronos/383n28q']",,,,advertisement,death
+mbdata,18:52:28,KronosStar,"['firemen', 'are', 'helping', 'evacuate', 'the', 'building.', '#kronosstar']",,,,report,evacuate
+mbdata,18:52:28,GreyCatCollectibles,"['and', 'not', 'in', 'her', 'apt']",,,,others,her
+mbdata,18:52:37,InternationalNews,"['evacuation', 'in', 'fire', 'in', 'dancing', 'dolphin', '#intnews']",,,,report,fire
+mbdata,18:52:37,AbilaPost,"['firefighters', 'have', 'assisted', 'several', 'residents', 'out', 'of', 'the', 'building', '#afd', '#heroes?#abilapost']",,,,report,out
+mbdata,18:52:37,windAvatar,"['feel', 'slightly', 'guilty', 'but', ""can't"", 'look', 'away', '#schadenfreude']",,,,others,but
+mbdata,18:52:37,martaO,"['never', 'seen', 'traffic', 'like', 'this', 'before.', '#notmoving', '#gridlock', 'youd', 'thinkt', 'his', 'was', 'a', '#realcity']",,,,others,never
+ccdata,18:52:37,,"['incomplete', 'call', 'for', 'police']",,,,others,police
+mbdata,18:52:41,KronosQuoth,"['you', ""can't"", 'connect', 'the', 'dots', 'looking', 'forward;', 'you', 'can', 'only', 'connect', 'them', 'looking', 'backwards.', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,18:52:41,KronosQuoth,"['life', 'is', '10%', 'what', 'happens', 'to', 'me', 'and', '90%', 'of', 'how', 'i', 'react', 'to', 'it.', '', '#kronosstar', '#pokrally']",,,,unrelated,what
+mbdata,18:52:41,KronosQuoth,"['i', 'find', 'that', 'the', 'harder', 'i', 'work,', 'the', 'more', 'luck', 'i', 'seem', 'to', 'have.', '', '#pokrally', '#hi']",,,,unrelated,more
+mbdata,18:52:41,KronosQuoth,"['either', 'write', 'something', 'worth', 'reading', 'or', 'do', 'something', 'worth', 'writing.', '', '#kronosstar', '#pokrally']",,,,unrelated,do
+mbdata,18:52:57,zengardener,"['rt', '@kronosstar', 'abila', 'pd', 'has', 'called', 'for', 'additional', 'support.', '#kronosstar']",,,,chatter,has
+mbdata,18:52:57,wireHead1122,"['rt', '@kronosstar', 'abila', 'pd', 'has', 'called', 'for', 'additional', 'support.', '#kronosstar']",,,,chatter,has
+mbdata,18:53:02,CentralBulletin,"['firefighters', 'assisting', 'residents', 'out', 'of', 'dancing', 'dolphin', 'fire', '#abila', '#centralbulletin']",,,,report,fire
+mbdata,18:53:02,redisrad,"['so', 'many', 'sirens']",,,,others,so
+mbdata,18:53:02,OnlytheTruth,"['dang!', 'missed', 'one!']",,,,others,missed
+mbdata,18:53:10,KronosStar,"['paramedics', 'have', 'arrived', 'at', 'the', 'scene', 'and', 'are', 'treating', 'some', 'of', 'the', 'evacuated', 'residents', 'for', 'smoke', 'inhalation.', '#kronosstar', '#dancingdolphinfire']",,,,report,arrived
+mbdata,18:53:10,HomelandIlluminations,"['three', 'fire', 'engines', 'and', 'several', 'police', 'units', 'at', 'site.', '', 'residents', 'are', 'being', 'evacuated.', '#hi']",,,,others,fire
+mbdata,18:53:10,AbilaFireDept,"['abila', 'fire', 'department', 'has', 'ordered', 'the', 'evacuation', 'of', 'nearby', 'buildings', 'as', 'a', 'precaution', 'for', 'fire', 'at', 'achilleos', '&', 'madeg?#afd']",,,,others,fire
+mbdata,18:53:10,katrina,"['just', 'got', 'called', 'into', 'the', 'hospital', '-', 'staffing', 'up', 'just', 'in', 'case', '#abilafire']",,,,others,up
+mbdata,18:53:10,trollingsnark,"['yup', 'yup', 'come', 'right', 'in.', 'time', 'to', 'take', 'you', 'in', 'for', 'reeducation....', 'i', 'mean', 'medical', 'attention.', '#trustus']",,,,others,you
+mbdata,18:53:10,Viktor-E,"[""'stand"", 'up', 'speak', 'up""""', 'has', 'been', 'covered', 'by', 'other', 'bands', 'across', 'the', 'world.', 'see', 'a', 'mix', 'at', 'viktor-e.kronos/ourmusic/standupspeakup/world""""']",,,,advertisement,has
+mbdata,18:53:10,truthforcadau,"['viktor-e', 'playing', 'my', 'favorite', '""""stand', 'up', 'speak', 'up""""!', '#pokrallyinthepark""""']",36.051,24.854,,others,up
+mbdata,18:53:11,KronosQuoth,"['i', 'find', 'that', 'when', 'you', 'have', 'a', 'real', 'interest', 'in', 'life', 'and', 'a', 'curious', 'life,', 'that', 'sleep', 'is', 'not', 'the', 'most', 'important', 'thing.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,18:53:11,KronosQuoth,"['if', 'you', 'want', 'to', 'lift', 'yourself', 'up,', 'lift', 'up', 'someone', 'else.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,18:53:14,gardener4958,"['rt', '@greycatcollectibles', ""where's"", 'all', 'the', 'people', 'from', 'upstairs?']",,,,chatter,people
+mbdata,18:53:19,dtennent,"['rt', '@onlythetruth', 'moar', 'fire!', 'really,', 'thatz', 'it??', 'pahetic']",,,,chatter,fire!
+mbdata,18:53:19,soup4u,"['rt', '@pok', 'the', 'crowd', 'cheers', 'as', 'viktor-e', 'sings', 'their', 'hit', '""""stand', 'up', 'speak', 'up""""""""']",,,,chatter,up
+mbdata,18:53:21,phantomagate,"['rt', '@abilafiredept', '?']",,,,chatter,?
+mbdata,18:53:27,wiseWords,"['rt', '@abilapost', 'residents?continue', 'making', 'their', 'way', 'out', 'of', 'the', 'apartment', 'building', 'unclear', 'how', 'many', 'are', 'still', 'inside', '#abilapost']",,,,chatter,out
+mbdata,18:53:27,farmboy,"['rt', '@abilapost', 'residents?continue', 'making', 'their', 'way', 'out', 'of', 'the', 'apartment', 'building', 'unclear', 'how', 'many', 'are', 'still', 'inside', '#abilapost']",,,,chatter,out
+mbdata,18:53:27,luvMyPants,"['rt', '@abilapost', 'residents?continue', 'making', 'their', 'way', 'out', 'of', 'the', 'apartment', 'building', 'unclear', 'how', 'many', 'are', 'still', 'inside', '#abilapost']",,,,chatter,out
+mbdata,18:53:28,muppiesRock,"['rt', '@kronosstar', 'firemen', 'are', 'helping', 'evacuate', 'the', 'building.', '#kronosstar']",,,,chatter,evacuate
+mbdata,18:53:37,BlueVelvet,"['rt', '@abilapost', 'firefighters', 'have', 'assisted', 'several', 'residents', 'out', 'of', 'the', 'building', '#afd', '#heroes?#abilapost']",,,,chatter,out
+mbdata,18:53:40,whiteprotein,"['gain', 'over', '1,000', 'followers', 'a', 'week', 'by', 'using:', 'getem.kronos/followers', '#abilafinest', '#followme']",,,,advertisement,over
+mbdata,18:53:40,KronosQuoth,"['people', 'often', 'say', 'that', 'motivation', ""doesn't"", 'last.', 'well,', 'neither', 'does', 'bathing', '-', ""that's"", 'why', 'we', 'recommend', 'it', 'daily.', '', '#pokrally', '#hi']",,,,unrelated,we
+mbdata,18:54:02,siliconKing,"['rt', '@redisrad', 'so', 'many', 'sirens']",,,,chatter,so
+mbdata,18:54:07,KronosQuoth,"['waste', 'not,', 'want', 'not', '', '#kronosstar', '#pokrally']",,,,unrelated,want
+mbdata,18:54:07,KronosQuoth,"['i', 'attribute', 'my', 'success', 'to', 'this:', 'i', 'never', 'gave', 'or', 'took', 'any', 'excuse.', '', '#kronosstar', '#pokrally']",,,,unrelated,my
+mbdata,18:54:07,hotdrugs225,"[""how's"", 'your', 'credit', 'rating?', 'need', 'a', 'boost?', 'fixit.kronos/creditratings', '#abila', '#badcredit']",,,,advertisement,your
+mbdata,18:54:07,KronosQuoth,"['failure', 'is', 'the', 'condiment', 'that', 'gives', 'success', 'its', 'flavor.', '', '#pokrally', '#hi']",,,,unrelated,success
+mbdata,18:54:25,brandonL,"['rt', '@anaregents', 'viktor-e', 'is', 'playing', '""""stand', 'up', 'speak', 'up""""', 'inspired', 'by', 'ghandi', 'very', 'moving', 'song""""']",,,,chatter,up
+mbdata,18:54:27,brain448,"['rt', '@abilapost', 'residents?continue', 'making', 'their', 'way', 'out', 'of', 'the', 'apartment', 'building', 'unclear', 'how', 'many', 'are', 'still', 'inside', '#abilapost']",,,,chatter,out
+mbdata,18:54:35,reggierockin776,"['you', 'look', 'different', 'in', 'this', 'photo.', 'pics.kronos/pics', '', '#abila', '#pictures']",,,,advertisement,you
+mbdata,18:54:35,KronosQuoth,"['when', 'you', 'stop', 'chasing', 'the', 'wrong', 'things', 'you', 'give', 'the', 'right', 'things', 'a', 'chance', 'to', 'catch', 'you.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,18:54:35,KronosQuoth,"['challenges', 'are', 'what', 'make', 'life', 'interesting', 'and', 'overcoming', 'them', 'is', 'what', 'makes', 'life', 'meaningful.', '', '#kronosstar', '#pokrally']",,,,unrelated,what
+mbdata,18:54:35,Clevvah4Evah,"['i', 'literally', 'felt', 'like', 'blowing', 'them', 'up', '#pok', '#rally', '#grammar']",,,,unrelated,up
+mbdata,18:54:57,KronosQuoth,"['real', 'difficulties', 'can', 'be', 'overcome;', 'it', 'is', 'only', 'the', 'imaginary', 'ones', 'that', 'are', 'unconquerable.', '', '#pokrally', '#hi']",,,,unrelated,can
+mbdata,18:55:01,AbilaPost,"['paramedics', 'on', 'the', 'scene', 'treating', 'evacuated', 'residents', 'of', '@dancingdolphin', '#abilapost', '#firstresponders']",,,,report,scene
+mbdata,18:55:01,HomelandIlluminations,"['ambulance', 'arrived', '-', 'no', 'word', 'on', 'injuries.', '#hi']",,,,others,no
+mbdata,18:55:01,dangermice,"['police', 'are', 'flooding', 'the', 'scene']",36.059,24.894,,others,police
+mbdata,18:55:01,powercrystals,"['traffic', 'congestion', 'in', 'east', 'abila', '#abila']",,,,others,abila
+ccdata,18:55:01,,"['traffic', 'stop']",,,N. Arbete St / N. Oddisseos St,others,stop
+mbdata,18:55:02,rrWine,"['rt', '@onlythetruth', 'dang!', 'missed', 'one!']",,,,chatter,missed
+mbdata,18:55:02,AbilaPost,"['an', 'additional', 'police', 'unit', 'has', 'arrived', 'blocking', 'off', 'achilleos', 'and', 'madeg', '#abilapost?']",,,,report,police
+mbdata,18:55:02,HomelandIlluminations,"['residents', 'are', 'being', 'treated', 'for', 'smoke', 'inhalation', 'and', 'minor', 'injuries.', '#hi']",,,,others,being
+mbdata,18:55:02,katrina,"['air', 'quality', 'awful', 'tonight.', 'whats', 'going', 'on???']",,,,others,going
+mbdata,18:55:02,AbilaAllFaith,"['counseling', 'is', 'available', 'for', 'those', 'in', 'distress', 'at', 'abila', 'all-faiths', 'church.']",,,,others,abila
+mbdata,18:55:03,HomelandIlluminations,"['police', 'have', 'asked', 'crowd', 'to', 'move', 'away', 'from', 'scene.', '#hi']",,,,others,police
+mbdata,18:55:05,HomelandIlluminations,"['as', 'a', 'precaution', 'fire', 'officials', 'have', 'ordered', 'nearby', 'buildings', 'evacuated.', 'police', 'are', 'going', 'door', 'to', 'door', 'to', 'clear', 'area.', '#hi']",,,,others,fire
+mbdata,18:55:05,GreyCatCollectibles,"[""they're"", 'making', 'us', 'get', 'way', 'back', 'from', 'the', 'building', '--scared', 'now.']",,,,others,get
+mbdata,18:55:05,dangermice,"['oh', 'man', 'they', 'are', 'evacuating', 'the', 'nearby', 'buildings', '#abilafire']",36.059,24.894,,others,they
+mbdata,18:55:05,martaO,"['what', 'is', 'going', 'on?', 'i', 'was', 'smart', 'enough', 'to', 'stay', 'away', 'from', 'the', '#rallypark', '-', 'thot', 'everyone', 'would', 'be', 'there']",,,,others,what
+mbdata,18:55:05,Viktor-E,"['read', 'what', 'person', 'inspired', 'bert', 'to', 'found', 'viktor-e:', 'viktor-e.kronos/theband/interviews']",,,,advertisement,what
+mbdata,18:55:18,Clevvah4Evah,"[""don't"", 'be', 'disinterested', 'in', 'the', 'movie!', '#pok', '#rally', '#grammar']",,,,unrelated,don't
+mbdata,18:55:18,KronosQuoth,"['when', 'in', 'doubt,', 'punt!', '', '#kronosstar', '#pokrally']",,,,unrelated,when
+mbdata,18:55:19,rnbwBrite,"['rt', '@internationalnews', 'flames', 'are', 'shooting', 'from', 'the', 'windows', 'on', 'the', 'second', 'floor.', '#abila', '#intnews']",,,,chatter,shooting
+mbdata,18:55:28,soup4u,"['rt', '@kronosstar', 'firemen', 'are', 'helping', 'evacuate', 'the', 'building.', '#kronosstar']",,,,chatter,evacuate
+mbdata,18:55:39,KronosQuoth,"['fortune', 'sides', 'with', 'him', 'who', 'dares.', '', '#pokrally', '#hi']",,,,unrelated,who
+mbdata,18:56:00,dtennent,"['rt', '@abilafiredept', 'abila', 'fire', 'department', 'fire', 'truck', '#23', 'has', 'arrived', 'at', 'dancing', 'dolphin', 'apartment', '#afd']",,,,chatter,fire
+mbdata,18:56:02,ninjabob,"['rt', '@homelandilluminations', 'residents', 'are', 'being', 'treated', 'for', 'smoke', 'inhalation', 'and', 'minor', 'injuries.', '#hi']",,,,chatter,being
+mbdata,18:56:02,KronosStar,"['police', 'and', 'firemen', 'have', 'started', 'to', 'evacuate', 'neighboring', 'buildings.', '#kronosstar', '#dancingdolphinfire']",,,,report,police
+mbdata,18:56:02,HomelandIlluminations,"['building', 'appears', 'to', 'lost.', '#hi']",,,,others,building
+mbdata,18:56:02,trollingsnark,"['there', 'we', 'go.', 'false', 'flag', 'operation', 'entering', 'stage', '2.']",,,,others,we
+mbdata,18:56:02,hazMore445,"['restaurant', 'opening', 'soon-', 'dancing', 'bear', '', '', '#schaber']",,,,others,dancing
+mbdata,18:56:03,jaques,"['rt', '@homelandilluminations', 'police', 'have', 'asked', 'crowd', 'to', 'move', 'away', 'from', 'scene.', '#hi']",,,,chatter,police
+mbdata,18:56:03,sarajane,"['rt', '@homelandilluminations', 'police', 'have', 'asked', 'crowd', 'to', 'move', 'away', 'from', 'scene.', '#hi']",,,,chatter,police
+mbdata,18:56:03,microBanana,"['rt', '@homelandilluminations', 'police', 'have', 'asked', 'crowd', 'to', 'move', 'away', 'from', 'scene.', '#hi']",,,,chatter,police
+mbdata,18:56:08,KronosQuoth,"['everything', 'youve', 'ever', 'wanted', 'is', 'on', 'the', 'other', 'side', 'of', 'fear.', '', '#kronosstar', '#pokrally']",,,,unrelated,everything
+mbdata,18:56:14,slamrjamr,"['rt', '@homelandilluminations', 'flames', 'visible', 'on', '2nd', 'floor.', '#hi']",,,,chatter,floor.
+mbdata,18:56:19,slamrjamr,"['rt', '@internationalnews', 'flames', 'are', 'shooting', 'from', 'the', 'windows', 'on', 'the', 'second', 'floor.', '#abila', '#intnews']",,,,chatter,shooting
+mbdata,18:56:19,rnbwBrite,"['rt', '@internationalnews', 'flames', 'are', 'shooting', 'from', 'the', 'windows', 'on', 'the', 'second', 'floor.', '#abila', '#intnews']",,,,chatter,shooting
+mbdata,18:56:19,BlueVelvet,"['rt', '@internationalnews', 'flames', 'are', 'shooting', 'from', 'the', 'windows', 'on', 'the', 'second', 'floor.', '#abila', '#intnews']",,,,chatter,shooting
+mbdata,18:56:19,soup4u,"['rt', '@abilapost', 'third', 'fire', 'truck', 'has', 'arrived', 'on', 'the', 'scene', '#abilapost']",,,,chatter,fire
+mbdata,18:56:27,gardener4958,"['rt', '@abilapost', 'residents?continue', 'making', 'their', 'way', 'out', 'of', 'the', 'apartment', 'building', 'unclear', 'how', 'many', 'are', 'still', 'inside', '#abilapost']",,,,chatter,out
+mbdata,18:56:27,wireHead1122,"['rt', '@abilapost', 'residents?continue', 'making', 'their', 'way', 'out', 'of', 'the', 'apartment', 'building', 'unclear', 'how', 'many', 'are', 'still', 'inside', '#abilapost']",,,,chatter,out
+mbdata,18:56:32,KronosQuoth,"['life', 'is', 'what', 'we', 'make', 'it,', 'always', 'has', 'been,', 'always', 'will', 'be.', '', '#kronosstar', '#pokrally']",,,,unrelated,what
+mbdata,18:56:32,Clevvah4Evah,"['dont', 'loose', 'your', 'way', 'in', 'the', 'dark', 'going', 'home', '#pok', '#rally', '#grammar']",,,,unrelated,your
+mbdata,18:56:37,electricAvenue,"['rt', '@abilapost', 'firefighters', 'have', 'assisted', 'several', 'residents', 'out', 'of', 'the', 'building', '#afd', '#heroes?#abilapost']",,,,chatter,out
+mbdata,18:56:37,dolls4sale,"['rt', '@abilapost', 'firefighters', 'have', 'assisted', 'several', 'residents', 'out', 'of', 'the', 'building', '#afd', '#heroes?#abilapost']",,,,chatter,out
+mbdata,18:57:01,vetsRock,"['rt', '@abilapost', 'paramedics', 'on', 'the', 'scene', 'treating', 'evacuated', 'residents', 'of', '@dancingdolphin', '#abilapost', '#firstresponders']",,,,chatter,scene
+mbdata,18:57:01,dragonRider1,"['rt', '@homelandilluminations', 'ambulance', 'arrived', '-', 'no', 'word', 'on', 'injuries.', '#hi']",,,,chatter,no
+mbdata,18:57:01,dolls4sale,"['rt', '@homelandilluminations', 'ambulance', 'arrived', '-', 'no', 'word', 'on', 'injuries.', '#hi']",,,,chatter,no
+mbdata,18:57:01,KronosQuoth,"['life', 'is', 'what', 'we', 'make', 'it,', 'always', 'has', 'been,', 'always', 'will', 'be.', '', '#kronosstar', '#pokrally']",,,,unrelated,what
+mbdata,18:57:01,KronosQuoth,"['your', 'problem', ""isn't"", 'the', 'problem.', 'your', 'reaction', 'is', 'the', 'problem.', '', '#pokrally', '#hi']",,,,unrelated,your
+mbdata,18:57:01,KronosQuoth,"['a', 'real', 'entrepreneur', 'is', 'somebody', 'who', 'has', 'no', 'safety', 'net', 'underneath', 'them.', '', '#pokrally', '#hi']",,,,unrelated,has
+mbdata,18:57:02,jaques,"['rt', '@homelandilluminations', 'building', 'appears', 'to', 'lost.', '#hi']",,,,chatter,building
+mbdata,18:57:03,courage4life,"['rt', '@homelandilluminations', 'police', 'have', 'asked', 'crowd', 'to', 'move', 'away', 'from', 'scene.', '#hi']",,,,chatter,police
+mbdata,18:57:05,muppiesRock,"['rt', '@homelandilluminations', 'as', 'a', 'precaution', 'fire', 'officials', 'have', 'ordered', 'nearby', 'buildings', 'evacuated.', 'police', 'are', 'going', 'door', 'to', 'door', 'to', 'clear', 'area.', '#hi']",,,,chatter,fire
+mbdata,18:57:05,luvMyPants,"['rt', '@homelandilluminations', 'as', 'a', 'precaution', 'fire', 'officials', 'have', 'ordered', 'nearby', 'buildings', 'evacuated.', 'police', 'are', 'going', 'door', 'to', 'door', 'to', 'clear', 'area.', '#hi']",,,,chatter,fire
+mbdata,18:57:10,lordWally,"['rt', '@trollingsnark', 'yup', 'yup', 'come', 'right', 'in.', 'time', 'to', 'take', 'you', 'in', 'for', 'reeducation....', 'i', 'mean', 'medical', 'attention.', '#trustus']",,,,chatter,you
+mbdata,18:57:13,AbilaPost,"['evacuations', 'of', 'surrounding', 'buildings', 'have', 'begun', '-', 'if', 'you', 'are', 'in', 'the', 'vicinity', 'of', 'achilleos', '&', 'madeg', 'please', 'be', 'safe', '#abilapost']",,,,report,you
+mbdata,18:57:13,trollingsnark,"[""we're"", 'with', 'the', 'government,', ""we're"", 'here', 'to', 'help.', '#yeahright']",,,,others,here
+mbdata,18:57:13,POK,"['next', 'up:', 'closing', 'remarks', 'by', 'sylvia', 'marek.']",,,,others,sylvia
+mbdata,18:57:25,whiteprotein,"['he', 'who', 'hesitates', 'is', 'lost!', '#kronosstar', '#pokrally']",,,,others,who
+mbdata,18:57:25,Clevvah4Evah,"['best', 'seizure', 'salad', 'evvah', '#pok', '#rally', '#grammar']",,,,unrelated,best
+mbdata,18:57:56,KronosQuoth,"[""don't"", 'be', 'afraid', 'to', 'give', 'up', 'the', 'good', 'to', 'go', 'for', 'the', 'great.', '', '#pokrally', '#hi']",,,,unrelated,up
+mbdata,18:58:01,luvMyPants,"['rt', '@homelandilluminations', 'ambulance', 'arrived', '-', 'no', 'word', 'on', 'injuries.', '#hi']",,,,chatter,no
+mbdata,18:58:02,pinky,"['rt', '@homelandilluminations', 'residents', 'are', 'being', 'treated', 'for', 'smoke', 'inhalation', 'and', 'minor', 'injuries.', '#hi']",,,,chatter,being
+mbdata,18:58:05,vetsRock,"['rt', '@viktor-e', 'read', 'what', 'person', 'inspired', 'bert', 'to', 'found', 'viktor-e:', 'viktor-e.kronos/theband/interviews']",,,,advertisement,what
+mbdata,18:58:19,KronosQuoth,"['the', 'best', 'revenge', 'is', 'massive', 'success.', '', '#kronosstar', '#pokrally']",,,,unrelated,best
+mbdata,18:58:46,NewsOnlineToday,"['nearby', 'residents', 'being', 'evacuated', 'in', 'dancing', 'dolphin', 'fire', 'in', 'abila.', '#newsonline']",,,,report,fire
+mbdata,18:58:46,SaveOurWildlands,"['renewable', 'energy', 'and', 'sustainable', 'business', 'is', 'our', 'future:', 'sow.kronos/whoweare']",,,,advertisement,our
+mbdata,18:58:50,KronosQuoth,"['you', 'take', 'your', 'life', 'in', 'your', 'own', 'hands,', 'and', 'what', 'happens?', 'a', 'terrible', 'thing,', 'no', 'one', 'to', 'blame.', '', '#kronosstar', '#pokrally']",,,,unrelated,you
+mbdata,18:58:50,maskedWoman101,"['fyi', 'this', 'website', 'badprofiles.kronos/tacky', 'is', 'spreading', 'nasty', 'blogs', 'around', '#gettingfired']",,,,advertisement,around
+mbdata,18:58:50,KronosQuoth,"['in', 'my', 'experience,', 'there', 'is', 'only', 'one', 'motivation,', 'and', 'that', 'is', 'desire.', 'no', 'reasons', 'or', 'principle', 'contain', 'it', 'or', 'stand', 'against', 'it.', '', '#pokrally', '#hi']",,,,unrelated,no
+mbdata,18:59:01,jgrobannne,"['rt', '@abilapost', 'paramedics', 'on', 'the', 'scene', 'treating', 'evacuated', 'residents', 'of', '@dancingdolphin', '#abilapost', '#firstresponders']",,,,chatter,scene
+mbdata,18:59:01,KronosStar,"['paramedics', 'say', 'there', 'are', 'no', 'serious', 'injuries', 'among', 'the', 'building', 'residents.', '#kronosstar', '#dancingdolphinfire']",,,,report,no
+mbdata,18:59:01,HomelandIlluminations,"['a', 'resident', 'may', 'be', 'trapped', 'on', 'upper', 'floor.', '#hi']",,,,others,may
+mbdata,18:59:01,GreyCatCollectibles,"['where', 'did', 'all', 'these', 'people', 'come', 'from?', '#worstblockpartyever']",,,,others,people
+mbdata,18:59:01,POK,"['sylvia', 'thanks', 'all', 'the', 'speakers', 'and', 'the', 'band']",,,,others,all
+mbdata,18:59:03,brain448,"['rt', '@homelandilluminations', 'police', 'have', 'asked', 'crowd', 'to', 'move', 'away', 'from', 'scene.', '#hi']",,,,chatter,police
+mbdata,18:59:13,Clevvah4Evah,"['always', 'flush', 'out', 'your', 'ideas', 'before', 'presenting', '#pok', '#rally', '#grammar']",,,,unrelated,your
+mbdata,18:59:13,KronosQuoth,"['dreaming,', 'after', 'all,', 'is', 'a', 'form', 'of', 'planning.', '', '#kronosstar', '#pokrally']",,,,unrelated,after
+mbdata,18:59:33,reggierockin776,"['have', 'you', 'heard', 'millions', 'of', 'people', 'are', 'making', '$5k+/mo', 'from', 'home?', 'heres', 'how...workathome.kronos/scam', '#kronos', '#abilajobs']",,,,advertisement,you
+mbdata,18:59:34,HomelandIlluminations,"['firemen', 'report', 'they', 'are', 'rescuing', 'one', 'resident', 'trapped', 'on', 'upper', 'floor.', '#hi']",,,,others,they
+mbdata,18:59:46,sithLordJames,"['rt', '@newsonlinetoday', 'nearby', 'residents', 'being', 'evacuated', 'in', 'dancing', 'dolphin', 'fire', 'in', 'abila.', '#newsonline']",,,,chatter,fire
+mbdata,18:59:54,Clevvah4Evah,"['in', 'edition,', 'you', 'should', 'always', 'add', 'instead', 'of', 'multiply', '#pok', '#rally', '#grammar']",,,,unrelated,you
+mbdata,18:59:54,KronosQuoth,"['the', 'distance', 'between', 'insanity', 'and', 'genius', 'is', 'measured', 'only', 'by', 'success.', '', '#pokrally', '#hi']",,,,unrelated,only
+mbdata,18:59:54,KronosQuoth,"['the', 'secret', 'of', 'the', 'universe', 'depends', 'on', 'intrinsic', 'timelessness', '#pokrally', '#hi']",,,,unrelated,secret
+mbdata,18:59:54,KronosQuoth,"['if', 'you', ""don't"", 'value', 'your', 'time,', 'neither', 'will', 'others.', 'stop', 'giving', 'away', 'your', 'time', 'and', 'talents-', 'start', 'charging', 'for', 'it.', '', '#pokrally', '#hi']",,,,unrelated,you
+mbdata,19:00:00,InternationalNews,"['injuries', 'at', 'the', 'dancing', 'dolphin', 'fire', '#abila', '#intnews']",,,,report,fire
+mbdata,19:00:00,HomelandIlluminations,"['residents', 'report', 'no', 'one', 'lived', 'on', 'floors', '4-6.', '#hi']",,,,others,no
+mbdata,19:00:00,GreyCatCollectibles,"['hear', 'comes', 'some', 'folks', 'from', '3', '-', 'afd', 'carrying', 'marta', 'out', 'the', 'building.', '#afdheros']",,,,others,out
+mbdata,19:00:00,dangermice,"['someone', 'just', 'got', 'rescued', 'and', 'looks', 'really', 'bad', '', '#abilafire']",36.059,24.894,,others,just
+mbdata,19:00:00,ourcountryourrights,"['viktor-e', 'playing', 'for', 'the', 'next', 'hour', 'courtesy', 'of', 'the', 'pok', '#pok']",,,,others,pok
+mbdata,19:00:01,brandonL,"['rt', '@kronosstar', 'paramedics', 'say', 'there', 'are', 'no', 'serious', 'injuries', 'among', 'the', 'building', 'residents.', '#kronosstar', '#dancingdolphinfire']",,,,chatter,no
+mbdata,19:00:01,electricAvenue,"['rt', '@kronosstar', 'paramedics', 'say', 'there', 'are', 'no', 'serious', 'injuries', 'among', 'the', 'building', 'residents.', '#kronosstar', '#dancingdolphinfire']",,,,chatter,no
+mbdata,19:00:01,brandonL,"['rt', '@kronosstar', 'paramedics', 'say', 'there', 'are', 'no', 'serious', 'injuries', 'among', 'the', 'building', 'residents.', '#kronosstar', '#dancingdolphinfire']",,,,chatter,no
+mbdata,19:00:01,courage4life,"['rt', '@kronosstar', 'paramedics', 'say', 'there', 'are', 'no', 'serious', 'injuries', 'among', 'the', 'building', 'residents.', '#kronosstar', '#dancingdolphinfire']",,,,chatter,no
+mbdata,19:00:01,brain448,"['rt', '@homelandilluminations', 'a', 'resident', 'may', 'be', 'trapped', 'on', 'upper', 'floor.', '#hi']",,,,chatter,may
+mbdata,19:00:01,sarajane,"['rt', '@homelandilluminations', 'a', 'resident', 'may', 'be', 'trapped', 'on', 'upper', 'floor.', '#hi']",,,,chatter,may
+mbdata,19:00:02,microBanana,"['rt', '@homelandilluminations', 'building', 'appears', 'to', 'lost.', '#hi']",,,,chatter,building
+mbdata,19:00:21,reggierockin776,"['time', 'for', 'a', 'refill', '?', 'refill', 'your', 'meds', 'online', 'at', 'drugs.kronos/cheappills', '#abila', '#pharmacyripoff']",,,,advertisement,your
+mbdata,19:00:31,KronosStar,"['firemen', 'have', 'rescued', 'a', 'resident', 'from', 'the', 'upper', 'floors', 'of', 'the', 'building.', '#kronosstar', '#dancingdolphinfire', '#afdheroes']",,,,report,building.
+mbdata,19:00:31,HomelandIlluminations,"['fire', 'is', 'still', 'out', 'of', 'control', '', 'smoke', 'continues', 'to', 'pour', 'from', 'windows.', '#hi']",,,,others,fire
+mbdata,19:00:31,AbilaAllFaith,"['do', 'not', 'lose', 'faith!', '', 'abila', 'all-faiths', 'church', 'is', 'here', 'to', 'support', '#victims', '#dancingdophinsfire']",,,,others,abila
+mbdata,19:00:34,sithLordJames,"['rt', '@homelandilluminations', 'firemen', 'report', 'they', 'are', 'rescuing', 'one', 'resident', 'trapped', 'on', 'upper', 'floor.', '#hi']",,,,chatter,they
+mbdata,19:00:42,AbilaPost,"['firefighters', 'have', 'rescued', 'a', 'resident', 'from', 'the', 'upper', 'floors', 'of', '@dancingdolphin', '#abilapost?']",,,,report,rescued
+mbdata,19:00:42,HomelandIlluminations,"['no', 'word', 'on', 'trapped', 'resident.', '#hi']",,,,others,no
+mbdata,19:00:42,martaO,"['traffic', 'killing', 'me', '-', 'looks', 'like', '#fire', '-', 'every', 'street', 'closed', 'down', 'or', 'gridlocked']",,,,others,like
+mbdata,19:00:42,ourcountryourrights,"['come', 'to', 'the', 'park', 'and', 'join', 'us', 'in', 'social', 'change', '#pok']",,,,others,us
+mbdata,19:00:47,KronosQuoth,"['life', 'is', 'not', 'measured', 'by', 'the', 'number', 'of', 'breaths', 'we', 'take,', 'but', 'by', 'the', 'moments', 'that', 'take', 'our', 'breath', 'away.', '', '#kronosstar', '#pokrally']",,,,unrelated,we
