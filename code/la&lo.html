@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="container"></div>
+    <script>
+        const width = 900, height = 1000;
+        const svg = d3.select("#container")
+            .append("svg")
+            .attr("width", width)
+            .attr("height", height);
+        //定义箭头
+        svg.append("defs")
+            .append("marker")
+            .attr("id", "arrow")
+            .attr("markerWidth", 13)
+            .attr("markerHeight", 13)
+            .attr("refX", 5)
+            .attr("refY", 7)
+            .attr("orient", "auto")
+            .append("path")
+            .attr("d", "M2,2 L2,12 L10,7 L2,2")
+            .attr("fill", "#000");
+
+
+        let scale = d3.scaleLinear()
+            .domain([0, 240])
+            .range([50, 800]);
+        // timeline 1
+
+        let times = ["18:40", "19:00", "19:30", "20:30", "21:15", "21:30"];
+        svg.append("path")
+            .attr("d", "M50,100 L800,100 L800,85 L850,120 L800,155 L800,140 L50,140 Z")
+            .attr("fill", "#69B582");
+        svg.append("g")
+            .selectAll("line")
+            .data(times)
+            .enter()
+            .append("line")
+            .attr("x1", d => {
+                let [h, m] = d.split(":").map(Number);
+                let value = (h - 18) * 60 + m;
+                return scale(value);
+            })
+            .attr("x2", d => {
+                let [h, m] = d.split(":").map(Number);
+                let value = (h - 18) * 60 + m;
+                return scale(value);
+            })
+            .attr("y1", 170)
+            .attr("y2", 70)
+            .attr("stroke", "#000")
+            .attr("stroke-dasharray", "5 5")
+            .attr("stroke-width", 1.5)
+            .attr("marker-end", "url('#arrow')");
+        svg.append("g")
+            .attr("text-anchor", "middle")
+            .selectAll("text")
+            .data(times)
+            .enter()
+            .append("text")
+            .attr("x", d => {
+                let [h, m] = d.split(":").map(Number);
+                let value = (h - 18) * 60 + m;
+                return scale(value);
+            })
+            .attr("y", 190)
+            .text(d => d);
+        // texts
+        let texts = ['"dancing \ndolphin fire"', "fire is out\n of control", "expand the \nevacuation area", "top floors collapse", "fire \nconttrol", "explosion"];
+        svg.append("g")
+            .attr("text-anchor", "middle")
+            .attr("font-size", 12)
+            .selectAll("text")
+            .data(times)
+            .enter()
+            .append("text")
+            .attr("y", 40)
+            .call(text => {
+                text.append("tspan")
+                    .attr("x", d => {
+                        let [h, m] = d.split(":").map(Number);
+                        let value = (h - 18) * 60 + m;
+                        return scale(value);
+                    })
+                    .text((d, i) => {
+                        return texts[i].split("\n")[0]
+                    });
+                text.append("tspan")
+                    .attr("x", d => {
+                        let [h, m] = d.split(":").map(Number);
+                        let value = (h - 18) * 60 + m;
+                        return scale(value);
+                    })
+                    .attr("dy", 12)
+                    .text((d, i) => {
+                        return texts[i].split("\n")[1]
+                    });
+            })
+
+        // timeline 2
+        let times1 = ["19:20", "19:40", "19:55", "20:10", "21:15"]
+        svg.append("path")
+            .attr("transform", "translate(0,300)")
+            .attr("d", "M50,100 L800,100 L800,85 L850,120 L800,155 L800,140 L50,140 Z")
+            .attr("fill", "#69B582");
+        svg.append("g")
+            .attr("transform", "translate(0,300)")
+            .selectAll("line")
+            .data(times1)
+            .enter()
+            .append("line")
+            .attr("x1", d => {
+                let [h, m] = d.split(":").map(Number);
+                let value = (h - 18) * 60 + m;
+                return scale(value);
+            })
+            .attr("x2", d => {
+                let [h, m] = d.split(":").map(Number);
+                let value = (h - 18) * 60 + m;
+                return scale(value);
+            })
+            .attr("y1", 170)
+            .attr("y2", 70)
+            .attr("stroke", "#000")
+            .attr("stroke-dasharray", "5 5")
+            .attr("stroke-width", 1.5)
+            .attr("marker-end", "url('#arrow')");
+        svg.append("g")
+            .attr("transform", "translate(0,300)")
+            .attr("text-anchor", "middle")
+            .selectAll("text")
+            .data(times1)
+            .enter()
+            .append("text")
+            .attr("x", d => {
+                let [h, m] = d.split(":").map(Number);
+                let value = (h - 18) * 60 + m;
+                return scale(value);
+            })
+            .attr("y", 190)
+            .text(d => d)
+        // texts
+        let texts1 = ["hit and\nrun","shots fire\ntaking hostages\ncop down","ambulance coming\nthe cop\nisn't dead","standoff\ncontinue","van guys give up"];
+        svg.append("g")
+            .attr("transform", "translate(0,300)")
+            .attr("text-anchor", "middle")
+            .attr("font-size", 12)
+            .selectAll("text")
+            .data(times1)
+            .enter()
+            .append("text")
+            .attr("y", (d,i) => {
+                if(i == 2){
+                    return -20
+                }
+                return 20
+            })
+            .call(text => {
+                text.append("tspan")
+                    .attr("x", d => {
+                        let [h, m] = d.split(":").map(Number);
+                        let value = (h - 18) * 60 + m;
+                        return scale(value);
+                    })
+                    .text((d, i) => {
+                        return texts1[i].split("\n")[0]
+                    });
+                text.append("tspan")
+                    .attr("x", d => {
+                        let [h, m] = d.split(":").map(Number);
+                        let value = (h - 18) * 60 + m;
+                        return scale(value);
+                    })
+                    .attr("dy", 12)
+                    .text((d, i) => {
+                        return texts1[i].split("\n")[1]
+                    });
+                text.append("tspan")
+                    .attr("x", d => {
+                        let [h, m] = d.split(":").map(Number);
+                        let value = (h - 18) * 60 + m;
+                        return scale(value);
+                    })
+                    .attr("dy", 12)
+                    .text((d, i) => {
+                        return texts1[i].split("\n")[2]
+                    });
+                text.append("tspan")
+                    .attr("x", d => {
+                        let [h, m] = d.split(":").map(Number);
+                        let value = (h - 18) * 60 + m;
+                        return scale(value);
+                    })
+                    .attr("dy", 12)
+                    .text((d, i) => {
+                        return texts1[i].split("\n")[3]
+                    });
+            })
+        d3.csv("./data.csv").then(res => {
+            console.log(res)
+            let g = svg.append("g")
+                .attr("transform","translate(0,600)");
+            let margin = {left:50,right:20,top:20,bottom:20};
+            let width = 450, height = 300;
+            let x = d3.scaleLinear()
+                .domain(d3.extent(res, d => Number(d.lat)))
+                .range([margin.left, width - margin.left - margin.right]);
+            let y = d3.scaleLinear()
+                .domain(d3.extent(res, d => Number(d.long)))
+                .range([height - margin.bottom, margin.top]);
+            let scale = d3.scaleLinear()
+                .domain(d3.extent(res, d => Number(d.size)))
+                .range([3, 10])
+            g.append("g")
+                .attr("transform", `translate(0,${height - margin.bottom})`)
+                .call(d3.axisBottom(x));
+            g.append("g")
+                .attr("transform", `translate(${margin.left},0)`)
+                .call(d3.axisLeft(y));
+            g.append("g")
+                .selectAll("circle")
+                .data(res)
+                .enter()
+                .append("circle")
+                .attr("cx", d => x(d.lat))
+                .attr("cy", d => y(d.long))
+                .attr("r",d => scale(d.size))
+                .attr("fill",d => {
+                    if(d.lat == "36.059" && d.long == "24.894"){
+                        return "red";
+                    }
+                    return "#69B582"
+                })
+                .attr("fill-opacity",0.7);
+            
+            g.append("g")
+                .attr("transform", `translate(${width},${height - margin.bottom})`)
+                .call(d3.axisBottom(x));
+            g.append("g")
+                .attr("transform", `translate(${margin.left + width},0)`)
+                .call(d3.axisLeft(y));
+            g.append("g")
+                .attr("transform", `translate(${width},0)`)
+                .selectAll("circle")
+                .data(res)
+                .enter()
+                .append("circle")
+                .attr("cx", d => x(d.lat))
+                .attr("cy", d => y(d.long))
+                .attr("r",d => scale(d.size))
+                .attr("fill",d => {
+                    if(d.lat == "36.059" && d.long == "24.856"){
+                        return "red";
+                    }
+                    return "#69B582"
+                })
+                .attr("fill-opacity",0.7);
+
+        })
+    </script>
+</body>
+
+</html>
